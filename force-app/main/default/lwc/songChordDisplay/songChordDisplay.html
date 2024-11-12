@@ -1,0 +1,85 @@
+<template>
+    <div class={wrapperClass}>
+        <template if:true={error}>
+            <div class="slds-notify slds-notify_alert slds-alert_error" role="alert">
+                <h2>{error}</h2>
+            </div>
+        </template>
+
+        <div class="slds-card full-height">
+            <div class="slds-card__header">
+                <div class="slds-button-group slds-button-group-row" role="group">
+                    <lightning-button-icon
+                        icon-name="utility:preview"
+                        variant="border-filled"
+                        size="medium"
+                        onclick={toggleChords}
+                        title={toggleButtonLabel}>
+                    </lightning-button-icon>
+                    
+                    <!-- Auto-scroll controls group -->
+                    <div class="scroll-control-group slds-m-left_xx-small">
+                        <lightning-button-icon
+                            icon-name="utility:down"
+                            variant="border-filled"
+                            size="medium"
+                            onclick={decreaseScrollSpeed}
+                            disabled={isMinScrollSpeed}
+                            title="Decrease scroll speed">
+                        </lightning-button-icon>
+
+                        <lightning-button-icon
+                            icon-name={autoScrollIconName}
+                            variant={autoScrollButtonVariant}
+                            size="medium"
+                            onclick={handleAutoScroll}
+                            title={autoScrollButtonLabel}>
+                        </lightning-button-icon>
+
+                        <lightning-button-icon
+                            icon-name="utility:up"
+                            variant="border-filled"
+                            size="medium"
+                            onclick={increaseScrollSpeed}
+                            disabled={isMaxScrollSpeed}
+                            title="Increase scroll speed">
+                        </lightning-button-icon>
+
+                        <span class="scroll-speed-label">
+                            {scrollSpeedDisplay}x
+                        </span>
+                    </div>
+                    
+                    <!-- Font size controls -->
+                    <div class="font-size-control slds-m-left_small">
+                        <lightning-button-icon
+                            icon-name="utility:chevrondown"
+                            variant="border-filled"
+                            size="medium"
+                            onclick={decreaseFontSize}
+                            disabled={isMinFontSize}
+                            title="Decrease font size">
+                        </lightning-button-icon>
+                        
+                        <span class="font-size-label">
+                            {fontSize}px
+                        </span>
+                        
+                        <lightning-button-icon
+                            icon-name="utility:chevronup"
+                            variant="border-filled"
+                            size="medium"
+                            onclick={increaseFontSize}
+                            disabled={isMaxFontSize}
+                            title="Increase font size">
+                        </lightning-button-icon>
+                    </div>
+                </div>
+            </div>
+
+            <div class="slds-card__body card-body">
+                <div class="chordpro-container"></div>
+            </div>
+        </div>
+    </div>
+</template>

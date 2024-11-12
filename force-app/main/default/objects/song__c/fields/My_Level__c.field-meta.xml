@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>My_Level__c</fullName>
+    <label>My Level</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>In Progress</fullName>
+                <default>false</default>
+                <label>In Progress</label>
+            </value>
+            <value>
+                <fullName>Know basics</fullName>
+                <default>false</default>
+                <label>Know basics</label>
+            </value>
+            <value>
+                <fullName>Need refresher</fullName>
+                <default>false</default>
+                <label>Need refresher</label>
+            </value>
+            <value>
+                <fullName>Play Well</fullName>
+                <default>false</default>
+                <label>Play Well</label>
+            </value>
+            <value>
+                <fullName>Want to Learn</fullName>
+                <default>false</default>
+                <label>Want to Learn</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

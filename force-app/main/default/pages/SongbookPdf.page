@@ -1,0 +1,26 @@
+<apex:page controller="SongPdfController" renderAs="pdf" showHeader="false" sidebar="false" standardStylesheets="false" applyBodyTag="false" applyHtmlTag="false">
+    <html>
+    <head>
+        <style type="text/css">
+            @page { margin: 1in; }
+            body { font-family: Arial, sans-serif; font-size: 12pt; }
+        </style>
+    </head>
+    <body>
+        <div style="text-align: center; margin-bottom: 30px;">
+            <h1 style="font-size: 24pt;">My Songbook</h1>
+            <p>Generated on <apex:outputText value="{!TODAY()}"/></p>
+        </div>
+        
+        <apex:repeat value="{!songs}" var="song">
+            <div style="margin-bottom: 30px;">
+                <h2 style="font-size: 18pt;"><apex:outputText value="{!song.songName}"/></h2>
+                <h3 style="font-size: 14pt; color: #666;"><apex:outputText value="{!song.artistName}"/></h3>
+                <div style="margin-top: 20px;">
+                    <apex:outputText value="{!song.formattedContent}" escape="false"/>
+                </div>
+            </div>
+        </apex:repeat>
+    </body>
+    </html>
+</apex:page>

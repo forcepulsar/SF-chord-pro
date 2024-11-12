@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>62.0</apiVersion>
+    <isExposed>true</isExposed>
+    <masterLabel>Song Chord Display</masterLabel>
+    <description>Display chord sheets for songs</description>
+    <targets>
+        <target>lightningCommunity__Page</target>
+        <target>lightningCommunity__Default</target>
+        <target>lightning__RecordPage</target>
+    </targets>
+    <targetConfigs>
+        <targetConfig targets="lightningCommunity__Default">
+            <property 
+                name="recordId" 
+                type="String" 
+                label="Record ID" 
+                default="000" 
+                description="The ID of the Song record to display"
+                required="true"
+            />
+            <property 
+                name="showChords" 
+                type="Boolean" 
+                label="Show Chords" 
+                default="true" 
+                description="Show or hide chord notations"
+            />
+        </targetConfig>
+        <targetConfig targets="lightning__RecordPage">
+            <objects>
+                <object>song__c</object>
+            </objects>
+            <property 
+                name="showChords" 
+                type="Boolean" 
+                label="Show Chords" 
+                default="true" 
+                description="Show or hide chord notations"
+            />
+        </targetConfig>
+    </targetConfigs>
+</LightningComponentBundle>
