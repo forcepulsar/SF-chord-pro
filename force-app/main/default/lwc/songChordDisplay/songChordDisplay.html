@@ -1,84 +1,124 @@
 <template>
-    <div class={wrapperClass}>
-        <template if:true={error}>
-            <div class="slds-notify slds-notify_alert slds-alert_error" role="alert">
-                <h2>{error}</h2>
-            </div>
-        </template>
+    <template if:true={error}>
+        <div class="slds-notify slds-notify_alert slds-alert_error" role="alert">
+            <h2>{error}</h2>
+        </div>
+    </template>
 
+    <div class={wrapperClass}>
         <div class="slds-card full-height">
             <div class="slds-card__header">
                 <div class="slds-button-group slds-button-group-row" role="group">
-                    <lightning-button-icon
-                        icon-name="utility:preview"
-                        variant="border-filled"
-                        size="medium"
-                        onclick={toggleChords}
-                        title={toggleButtonLabel}>
-                    </lightning-button-icon>
-                    
-                    <!-- Auto-scroll controls group -->
-                    <div class="scroll-control-group slds-m-left_xx-small">
-                        <lightning-button-icon
-                            icon-name="utility:down"
-                            variant="border-filled"
-                            size="medium"
-                            onclick={decreaseScrollSpeed}
-                            disabled={isMinScrollSpeed}
-                            title="Decrease scroll speed">
-                        </lightning-button-icon>
-
-                        <lightning-button-icon
-                            icon-name={autoScrollIconName}
-                            variant={autoScrollButtonVariant}
-                            size="medium"
-                            onclick={handleAutoScroll}
-                            title={autoScrollButtonLabel}>
-                        </lightning-button-icon>
-
-                        <lightning-button-icon
-                            icon-name="utility:up"
-                            variant="border-filled"
-                            size="medium"
-                            onclick={increaseScrollSpeed}
-                            disabled={isMaxScrollSpeed}
-                            title="Increase scroll speed">
-                        </lightning-button-icon>
-
-                        <span class="scroll-speed-label">
-                            {scrollSpeedDisplay}x
-                        </span>
-                    </div>
-                    
-                    <!-- Font size controls -->
-                    <div class="font-size-control slds-m-left_small">
+                    <!-- Scroll Controls -->
+                    <div class="scroll-control-group">
                         <lightning-button-icon
                             icon-name="utility:chevrondown"
-                            variant="border-filled"
-                            size="medium"
-                            onclick={decreaseFontSize}
-                            disabled={isMinFontSize}
-                            title="Decrease font size">
+                            variant="bare"
+                            onclick={decreaseScrollSpeed}
+                            disabled={isMinScrollSpeed}
+                            alternative-text="Decrease scroll speed"
+                            title="Decrease scroll speed">
                         </lightning-button-icon>
-                        
-                        <span class="font-size-label">
-                            {fontSize}px
-                        </span>
-                        
+                        <span class="scroll-speed-label">{scrollSpeedDisplay}x</span>
                         <lightning-button-icon
                             icon-name="utility:chevronup"
-                            variant="border-filled"
-                            size="medium"
+                            variant="bare"
+                            onclick={increaseScrollSpeed}
+                            disabled={isMaxScrollSpeed}
+                            alternative-text="Increase scroll speed"
+                            title="Increase scroll speed">
+                        </lightning-button-icon>
+                    </div>
+
+                    <!-- Auto-scroll toggle -->
+                    <lightning-button-icon
+                        icon-name={autoScrollIconName}
+                        variant={autoScrollButtonVariant}
+                        onclick={handleAutoScroll}
+                        class="slds-m-left_small"
+                        title={autoScrollButtonLabel}>
+                    </lightning-button-icon>
+
+                    <!-- Font Size Controls -->
+                    <div class="font-size-control slds-m-left_small">
+                        <lightning-button-icon
+                            icon-name="utility:dash"
+                            variant="bare"
+                            onclick={decreaseFontSize}
+                            disabled={isMinFontSize}
+                            alternative-text="Decrease font size"
+                            title="Decrease font size">
+                        </lightning-button-icon>
+                        <span class="font-size-label">{fontSize}px</span>
+                        <lightning-button-icon
+                            icon-name="utility:add"
+                            variant="bare"
                             onclick={increaseFontSize}
                             disabled={isMaxFontSize}
+                            alternative-text="Increase font size"
                             title="Increase font size">
                         </lightning-button-icon>
                     </div>
+
+                    <!-- Show/Hide Chords Toggle (now as an icon) -->
+                    <lightning-button-icon
+                        icon-name={chordsIconName}
+                        variant="bare"
+                        onclick={toggleChords}
+                        class="slds-m-left_small"
+                        title={toggleButtonLabel}>
+                    </lightning-button-icon>
+
+                    <!-- Web player links -->
+                    <div class="web-player-links">
+                        <template if:true={webLinks.spotify}>
+                            <lightning-button-icon 
+                                icon-name="utility:wifi"
+                                variant="bare"
+                                alternative-text="Open in Spotify"
+                                class="slds-m-left_small"
+                                title="Open in Spotify"
+                                onclick={handleSpotifyClick}>
+                            </lightning-button-icon>
+                        </template>
+                        
+                        <template if:true={webLinks.youtube}>
+                            <lightning-button-icon 
+                                icon-name="utility:video"
+                                variant="bare"
+                                alternative-text="Open in YouTube"
+                                class="slds-m-left_small"
+                                title="Open in YouTube"
+                                onclick={handleYoutubeClick}>
+                            </lightning-button-icon>
+                        </template>
+                        
+                        <template if:true={webLinks.google}>
+                            <lightning-button-icon 
+                                icon-name="utility:search"
+                                variant="bare"
+                                alternative-text="Search on Google"
+                                class="slds-m-left_small"
+                                title="Search on Google"
+                                onclick={handleGoogleClick}>
+                            </lightning-button-icon>
+                        </template>
+                    </div>
+
+                    <!-- Full Screen Toggle Button -->
+                    <lightning-button-icon
+                        icon-name="utility:expand"
+                        variant="bare"
+                        onclick={toggleFullScreen}
+                        class="slds-m-left_small"
+                        title="Toggle Full Screen">
+                    </lightning-button-icon>
                 </div>
             </div>
 
             <div class="slds-card__body card-body">
-                <div class="chordpro-container"></div>
+                <div class="chordpro-container">
+                </div>
             </div>
         </div>
     </div>

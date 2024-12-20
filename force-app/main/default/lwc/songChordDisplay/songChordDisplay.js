@@ -1,17 +1,21 @@
 import { LightningElement, api, wire, track } from 'lwc';
-import { loadScript } from 'lightning/platformResourceLoader';
-import getSongChordPro from '@salesforce/apex/SongChordController.getSongChordPro';
-import CHORDSHEETJS from '@salesforce/resourceUrl/chordsheetjs';
 import { NavigationMixin } from 'lightning/navigation';
 
-import { SCROLL, FONT } from './constants';
+// Apex Method
+import getSongChordPro from '@salesforce/apex/SongChordController.getSongChordPro';
+
+// Utility Imports
+import * as LifecycleUtils from './lifecycleUtils';
+import * as StateUtils from './stateUtils';
+import * as WebLinksUtils from './webLinksUtils';
+import { toggleFullScreen } from './fullScreenUtils';
 import * as ScrollUtils from './scrollUtils';
-import * as RenderUtils from './renderUtils';
-import * as ErrorUtils from './errorUtils';
+import { SCROLL, FONT } from './constants';
 
 export default class SongChordDisplay extends NavigationMixin(LightningElement) {
-    // Public properties
+    // Public Properties
     @api recordId;
+    
     @api 
     get showChords() {
         return this._showChords;
@@ -23,14 +27,20 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
         }
     }
 
-    // Private tracked properties
+    // Tracked Properties
     @track isRecordPage = false;
     @track error;
     @track isLoading = true;
     @track fontSize = FONT.DEFAULT_SIZE;
     @track scrollSpeed = SCROLL.DEFAULT_SPEED;
+    @track webLinks = {
+        spotify: null,
+        youtube: null,
+        google: null
+    };
+    @track isFullScreen = false;
 
-    // Private properties
+    // Private Properties
     _showChords = true;
     isLibraryLoaded = false;
     chordProContent;
@@ -38,171 +48,82 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
     scrollAccumulator = 0;
     scrollInterval;
 
-    // Lifecycle hooks
+    // Computed Properties from StateUtils
+    get wrapperClass() {
+        return StateUtils.getters(this).wrapperClass;
+    }
+    get toggleButtonLabel() {
+        return StateUtils.getters(this).toggleButtonLabel;
+    }
+    get autoScrollButtonLabel() {
+        return StateUtils.getters(this).autoScrollButtonLabel;
+    }
+    get autoScrollButtonVariant() {
+        return StateUtils.getters(this).autoScrollButtonVariant;
+    }
+    get autoScrollIconName() {
+        return StateUtils.getters(this).autoScrollIconName;
+    }
+    get isMinFontSize() {
+        return StateUtils.getters(this).isMinFontSize;
+    }
+    get isMaxFontSize() {
+        return StateUtils.getters(this).isMaxFontSize;
+    }
+    get isMinScrollSpeed() {
+        return StateUtils.getters(this).isMinScrollSpeed;
+    }
+    get isMaxScrollSpeed() {
+        return StateUtils.getters(this).isMaxScrollSpeed;
+    }
+    get scrollSpeedDisplay() {
+        return StateUtils.getters(this).scrollSpeedDisplay;
+    }
+    get chordsIconName() {
+        return StateUtils.getters(this).chordsIconName;
+    }
+
+    // Lifecycle Hooks
     connectedCallback() {
-        this.detectEnvironment();
-        console.log('Connected callback - Record ID:', this.recordId);
+        LifecycleUtils.connectedCallback(this);
     }
 
     renderedCallback() {
-        if (this.isLibraryLoaded) return;
-
-        loadScript(this, CHORDSHEETJS)
-            .then(() => {
-                console.log('ChordSheetJS loaded successfully');
-                this.isLibraryLoaded = true;
-                if (this.chordProContent) {
-                    this.renderChordPro();
-                }
-                this.setupScrollableContainer();
-            })
-            .catch(error => {
-                const { error: errorMessage } = ErrorUtils.errorHandlers.renderError(error);
-                this.error = errorMessage;
-            });
+        LifecycleUtils.renderedCallback(this);
     }
 
     disconnectedCallback() {
-        this.stopAutoScroll();
-        if (this.scrollCleanup) {
-            this.scrollCleanup();
-        }
+        LifecycleUtils.disconnectedCallback(this);
     }
 
-    // Wire service
+    // Wire Service
     @wire(getSongChordPro, { recordId: '$recordId' })
-    wiredSong({ error, data }) {
-        this.isLoading = true;
-        if (data) {
-            console.log('Received ChordPro data');
-            this.chordProContent = data;
-            this.error = undefined;
-            if (this.isLibraryLoaded) {
-                this.renderChordPro();
-            }
-        } else if (error) {
-            const { error: errorMessage } = ErrorUtils.errorHandlers.renderError(error);
-            this.error = errorMessage;
-            this.chordProContent = undefined;
-        }
-        this.isLoading = false;
+    wiredSong(result) {
+        LifecycleUtils.wiredSong(this, result);
     }
 
-    // Getters for component state
-    get wrapperClass() {
-        return `song-display-wrapper ${this.isRecordPage ? 'record-page-wrapper' : 'community-page-wrapper'}`;
+    // Web Links Handlers
+    handleSpotifyClick() {
+        WebLinksUtils.handleWebLinkClick('spotify', this.webLinks.spotify);
     }
 
-    get toggleButtonLabel() {
-        return this._showChords ? 'Hide Chords' : 'Show Chords';
+    handleYoutubeClick() {
+        WebLinksUtils.handleWebLinkClick('youtube', this.webLinks.youtube);
     }
 
-    get autoScrollButtonLabel() {
-        return this.isAutoScrolling ? 'Stop Scrolling' : 'Auto Scroll';
+    handleGoogleClick() {
+        WebLinksUtils.handleWebLinkClick('google', this.webLinks.google);
     }
 
-    get autoScrollButtonVariant() {
-        return this.isAutoScrolling ? 'brand' : 'neutral';
-    }
-
-    get autoScrollIconName() {
-        return this.isAutoScrolling ? 'utility:pause' : 'utility:play';
-    }
-
-    get isMinFontSize() {
-        return this.fontSize <= FONT.MIN_SIZE;
-    }
-
-    get isMaxFontSize() {
-        return this.fontSize >= FONT.MAX_SIZE;
-    }
-
-    get isMinScrollSpeed() {
-        return this.scrollSpeed <= SCROLL.MIN_SPEED;
-    }
-
-    get isMaxScrollSpeed() {
-        return this.scrollSpeed >= SCROLL.MAX_SPEED;
-    }
-
-    get scrollSpeedDisplay() {
-        return this.scrollSpeed.toFixed(1);
-    }
-
-    // Utility methods
-    detectEnvironment() {
-        const url = window.location.href;
-        this.isRecordPage = url.includes('/lightning/r/');
-    }
-
-    scrollCleanup;
-
-    // Modify setupScrollableContainer
-    setupScrollableContainer() {
-        const cardBody = this.template.querySelector('.card-body');
-        const container = this.template.querySelector('.chordpro-container');
-        ScrollUtils.setupScrollableContainer(cardBody, container);
-
-        // Remove old scroll listeners if they exist
-        if (this.scrollCleanup) {
-            this.scrollCleanup();
-        }
-
-        // Add new scroll listeners
-        if (cardBody) {
-            this.scrollCleanup = ScrollUtils.addScrollListener(cardBody, () => {
-                // Optional callback if you want to do anything when manual scroll occurs
-                console.log('Manual scroll detected');
-            });
-        }
-    }
-
-    // Core rendering method
-    renderChordPro() {
-        try {
-            ErrorUtils.validateInputs(
-                this.template.querySelector('.chordpro-container'),
-                this.chordProContent,
-                'renderChordPro'
-            );
-
-            const formattedSong = RenderUtils.parseAndFormatChordPro(
-                this.chordProContent,
-                ChordSheetJS
-            );
-
-            RenderUtils.renderSong(
-                this.template.querySelector('.chordpro-container'),
-                formattedSong,
-                this.fontSize,
-                this._showChords
-            );
-
-            this.setupScrollableContainer();
-        } catch (error) {
-            const { error: errorMessage } = ErrorUtils.errorHandlers.renderError(error);
-            this.error = errorMessage;
-        }
-    }
-
-    // Scroll control methods
+    // Scroll Control Methods
     @api
     setScrollSpeed(speed) {
-        const newSpeed = Math.max(
-            SCROLL.MIN_SPEED,
-            Math.min(SCROLL.MAX_SPEED, Number(speed) || SCROLL.DEFAULT_SPEED)
-        );
+        const newState = StateUtils.setScrollSpeed(this, speed);
+        this.scrollSpeed = newState.scrollSpeed;
         
-        console.log(`Setting speed from ${this.scrollSpeed} to ${newSpeed}`);
-        
-        if (this.scrollSpeed !== newSpeed) {
-            this.scrollSpeed = newSpeed;
-            
-            if (this.isAutoScrolling) {
-                console.log('Restarting scroll with new speed');
-                this.stopAutoScroll();
-                this.startAutoScroll();
-            }
+        if (this.isAutoScrolling) {
+            this.stopAutoScroll();
+            this.startAutoScroll();
         }
     }
 
@@ -212,7 +133,6 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
                 SCROLL.MAX_SPEED,
                 this.scrollSpeed + SCROLL.SPEED_STEP
             );
-            console.log(`Increasing speed to ${newSpeed}`);
             this.setScrollSpeed(newSpeed);
         }
     }
@@ -223,18 +143,17 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
                 SCROLL.MIN_SPEED,
                 this.scrollSpeed - SCROLL.SPEED_STEP
             );
-            console.log(`Decreasing speed to ${newSpeed}`);
             this.setScrollSpeed(newSpeed);
         }
     }
 
+    // Auto Scroll Methods
     startAutoScroll() {
         const container = this.template.querySelector('.card-body');
         if (!container || container.scrollHeight <= container.clientHeight) {
             return;
         }
 
-        console.log(`Starting auto-scroll with speed ${this.scrollSpeed}`);
         this.isAutoScrolling = true;
         this.scrollAccumulator = 0;
 
@@ -261,7 +180,6 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
     }
     
     stopAutoScroll() {
-        console.log('Stopping auto-scroll');
         this.isAutoScrolling = false;
         if (this.scrollInterval) {
             clearInterval(this.scrollInterval);
@@ -278,56 +196,41 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
         }
     }
 
-    // Font control methods
-    handleFontSizeChange(event) {
-        this.fontSize = parseInt(event.target.value, 10);
+    // Font Size Methods
+    increaseFontSize() {
+        const newState = StateUtils.increaseFontSize(this);
+        this.fontSize = newState.fontSize;
         this.refreshDisplay();
     }
 
-    increaseFontSize() {
-        if (!this.isMaxFontSize) {
-            this.fontSize = Math.min(FONT.MAX_SIZE, this.fontSize + FONT.SIZE_STEP);
-            this.refreshDisplay();
-        }
-    }
-
     decreaseFontSize() {
-        if (!this.isMinFontSize) {
-            this.fontSize = Math.max(FONT.MIN_SIZE, this.fontSize - FONT.SIZE_STEP);
-            this.refreshDisplay();
-        }
+        const newState = StateUtils.decreaseFontSize(this);
+        this.fontSize = newState.fontSize;
+        this.refreshDisplay();
     }
 
-    // Navigation methods
-    jumpToTop() {
-        const container = this.template.querySelector('.card-body');
-        if (container) {
-            container.scrollTop = 0;
-        }
-    }
-
-    // Public API methods
+    // Public API Methods
     @api
     toggleChords() {
-        this._showChords = !this._showChords;
+        const newState = StateUtils.toggleChords(this);
+        this._showChords = newState._showChords;
         this.refreshDisplay();
     }
 
     @api
     refresh() {
         if (this.isLibraryLoaded && this.chordProContent) {
-            this.renderChordPro();
+            LifecycleUtils.renderChordPro(this);
         }
     }
 
-    // Private utility methods
+    // Full Screen Method
+    toggleFullScreen() {
+        toggleFullScreen(this);
+    }
+
+    // Refresh Display
     refreshDisplay() {
-        if (this.isLibraryLoaded) {
-            RenderUtils.applyAllStyles(
-                this.template.querySelector('.chordpro-container'),
-                this.fontSize,
-                this._showChords
-            );
-        }
+        LifecycleUtils.refreshDisplay(this);
     }
 }

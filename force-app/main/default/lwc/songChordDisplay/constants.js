@@ -4,11 +4,11 @@ export const SCROLL = {
     DEFAULT_SPEED: 0.2,     // Default speed multiplier
     MIN_SPEED: 0.1,       // Minimum speed multiplier
     MAX_SPEED: 3,         // Maximum speed multiplier
-    SPEED_STEP: 0.1       // How much to change speed by
+    SPEED_STEP: 0.2       // How much to change speed by
 };
 
 export const FONT = {
-    DEFAULT_SIZE: 12,
+    DEFAULT_SIZE: 18,
     MIN_SIZE: 10,
     MAX_SIZE: 24,
     SIZE_STEP: 1

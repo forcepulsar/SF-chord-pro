@@ -1,6 +1,6 @@
 let lastManualScrollTime = 0;
 const MANUAL_SCROLL_TIMEOUT = 1000;
-const BASE_SCROLL_AMOUNT = 2;
+const BASE_SCROLL_AMOUNT = 1;
 
 export function handleScroll(container, scrollAccumulator, scrollSpeed, isAutoScrolling) {
 
