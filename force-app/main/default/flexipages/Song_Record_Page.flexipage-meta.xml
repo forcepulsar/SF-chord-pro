@@ -1,77 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
     <flexiPageRegions>
-        <itemInstances>
-            <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
-                <fieldItem>Record.ChordPro_Content__c</fieldItem>
-                <identifier>RecordChordPro_Content_cField</identifier>
-            </fieldInstance>
-        </itemInstances>
-        <itemInstances>
-            <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
-                <fieldItem>Record.Editing_Notes__c</fieldItem>
-                <identifier>RecordEditing_Notes_cField</identifier>
-            </fieldInstance>
-        </itemInstances>
-        <name>Facet-c5142524-80d1-43a7-a4ef-6f4ca90a1677</name>
-        <type>Facet</type>
-    </flexiPageRegions>
-    <flexiPageRegions>
-        <itemInstances>
-            <componentInstance>
-                <componentInstanceProperties>
-                    <name>body</name>
-                    <value>Facet-c5142524-80d1-43a7-a4ef-6f4ca90a1677</value>
-                </componentInstanceProperties>
-                <componentName>flexipage:column</componentName>
-                <identifier>flexipage_column3</identifier>
-            </componentInstance>
-        </itemInstances>
-        <name>Facet-5a20e3e2-25d3-40be-8213-4a3273762c26</name>
-        <type>Facet</type>
-    </flexiPageRegions>
-    <flexiPageRegions>
-        <itemInstances>
-            <componentInstance>
-                <componentInstanceProperties>
-                    <name>columns</name>
-                    <value>Facet-5a20e3e2-25d3-40be-8213-4a3273762c26</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>horizontalAlignment</name>
-                    <value>false</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>label</name>
-                    <value>Song content</value>
-                </componentInstanceProperties>
-                <componentName>flexipage:fieldSection</componentName>
-                <identifier>flexipage_fieldSection2</identifier>
-            </componentInstance>
-        </itemInstances>
-        <name>leftsidebar</name>
-        <type>Region</type>
-    </flexiPageRegions>
-    <flexiPageRegions>
-        <itemInstances>
-            <componentInstance>
-                <componentInstanceProperties>
-                    <name>showChords</name>
-                    <value>true</value>
-                </componentInstanceProperties>
-                <componentName>songChordDisplay</componentName>
-                <identifier>c_songChordDisplay2</identifier>
-            </componentInstance>
-        </itemInstances>
-        <name>main</name>
+        <name>header</name>
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
@@ -101,18 +31,8 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.Spotify_Song__c</fieldItem>
+                <fieldItem>Record.Web_Player__c</fieldItem>
                 <identifier>RecordSpotify_Song_cField</identifier>
-            </fieldInstance>
-        </itemInstances>
-        <itemInstances>
-            <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
-                <fieldItem>Record.youtube_song__c</fieldItem>
-                <identifier>Recordyoutube_song_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -252,6 +172,54 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Editing_Notes__c</fieldItem>
+                <identifier>RecordEditing_Notes_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Learning_resource__c</fieldItem>
+                <identifier>RecordLearning_resource__cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.ChordPro_Content__c</fieldItem>
+                <identifier>RecordChordPro_Content_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <name>Facet-c5142524-80d1-43a7-a4ef-6f4ca90a1677</name>
+        <type>Facet</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>body</name>
+                    <value>Facet-c5142524-80d1-43a7-a4ef-6f4ca90a1677</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:column</componentName>
+                <identifier>flexipage_column3</identifier>
+            </componentInstance>
+        </itemInstances>
+        <name>Facet-5a20e3e2-25d3-40be-8213-4a3273762c26</name>
+        <type>Facet</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
                     <name>accordionSections</name>
@@ -267,6 +235,24 @@
         </itemInstances>
         <itemInstances>
             <componentInstance>
+                <componentInstanceProperties>
+                    <name>columns</name>
+                    <value>Facet-5a20e3e2-25d3-40be-8213-4a3273762c26</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>horizontalAlignment</name>
+                    <value>false</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>label</name>
+                    <value>Song content</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:fieldSection</componentName>
+                <identifier>flexipage_fieldSection2</identifier>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
                 <componentName>force:recordDetailPanelMobile</componentName>
                 <identifier>force_recordDetailPanelMobile</identifier>
             </componentInstance>
@@ -275,11 +261,15 @@
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <name>Facet-df6115dd-a9fd-48ca-a9da-c830673ce290</name>
+        <type>Facet</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
                     <name>active</name>
-                    <value>false</value>
+                    <value>true</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>body</name>
@@ -291,6 +281,24 @@
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
                 <identifier>detailTab</identifier>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>active</name>
+                    <value>false</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>body</name>
+                    <value>Facet-df6115dd-a9fd-48ca-a9da-c830673ce290</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>title</name>
+                    <value>editor</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:tab</componentName>
+                <identifier>flexipage_tab</identifier>
             </componentInstance>
         </itemInstances>
         <name>maintabs</name>
@@ -307,13 +315,34 @@
                 <identifier>flexipage_tabset</identifier>
             </componentInstance>
         </itemInstances>
-        <name>rightsidebar</name>
+        <name>leftcol</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>showChords</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentName>songChordDisplay</componentName>
+                <identifier>c_songChordDisplay2</identifier>
+                <visibilityRule>
+                    <criteria>
+                        <leftValue>{!$Client.formFactor}</leftValue>
+                        <operator>EQUAL</operator>
+                        <rightValue>Large</rightValue>
+                    </criteria>
+                </visibilityRule>
+            </componentInstance>
+        </itemInstances>
+        <name>rightcol</name>
         <type>Region</type>
     </flexiPageRegions>
     <masterLabel>Song Record Page</masterLabel>
     <sobjectType>song__c</sobjectType>
     <template>
-        <name>flexipage:recordHomeThreeColTemplateDesktop</name>
+        <name>flexipage:recordHomeTwoColEqualHeaderTemplateDesktop</name>
     </template>
     <type>RecordPage</type>
 </FlexiPage>
