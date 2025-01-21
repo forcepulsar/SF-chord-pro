@@ -7,5 +7,10 @@
     <columns>Language__c</columns>
     <columns>Difficulty__c</columns>
     <filterScope>Everything</filterScope>
+    <filters>
+        <field>ChordPro_Status__c</field>
+        <operation>equals</operation>
+        <value>Done,In Progress</value>
+    </filters>
     <label>Public Songs</label>
 </ListView>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Web_Player__c</fullName>
+    <externalId>false</externalId>
+    <formula>HYPERLINK(
+  &quot;https://open.spotify.com/search/&quot; &amp; 
+  LOWER(
+    SUBSTITUTE(
+      SUBSTITUTE(
+        SUBSTITUTE(
+          SUBSTITUTE(
+            SUBSTITUTE(
+              SUBSTITUTE(
+                SUBSTITUTE(
+                  SUBSTITUTE(
+                    SUBSTITUTE(
+                      SUBSTITUTE(
+                        Artist__c &amp; &quot; &quot; &amp; Song__c,
+                        &quot; &quot;, &quot;%20&quot;
+                      ),
+                      &quot;&amp;&quot;, &quot;%20&quot;
+                    ),
+                    &quot;&apos;&quot;, &quot;&quot;
+                  ),
+                  &quot;,&quot;, &quot;&quot;
+                ),
+                &quot;?&quot;, &quot;&quot;
+              ),
+              &quot;!&quot;, &quot;&quot;
+            ),
+            &quot;(&quot;, &quot;&quot;
+          ),
+          &quot;)&quot;, &quot;&quot;
+        ),
+        &quot;/&quot;, &quot;&quot;
+      ),
+      &quot;+&quot;, &quot;&quot;
+    )
+  ),
+  &quot;Spotify&quot;,
+  &quot;_blank&quot;
+) &amp; &quot; | &quot; &amp;
+HYPERLINK(
+  &quot;https://www.youtube.com/results?search_query=&quot; &amp; 
+  LOWER(
+    SUBSTITUTE(
+      SUBSTITUTE(
+        SUBSTITUTE(
+          SUBSTITUTE(
+            SUBSTITUTE(
+              SUBSTITUTE(
+                SUBSTITUTE(
+                  SUBSTITUTE(
+                    SUBSTITUTE(
+                      SUBSTITUTE(
+                        Artist__c &amp; &quot; &quot; &amp; Song__c,
+                        &quot; &quot;, &quot;%20&quot;
+                      ),
+                      &quot;&amp;&quot;, &quot;%20&quot;
+                    ),
+                    &quot;&apos;&quot;, &quot;&quot;
+                  ),
+                  &quot;,&quot;, &quot;&quot;
+                ),
+                &quot;?&quot;, &quot;&quot;
+              ),
+              &quot;!&quot;, &quot;&quot;
+            ),
+            &quot;(&quot;, &quot;&quot;
+          ),
+          &quot;)&quot;, &quot;&quot;
+        ),
+        &quot;/&quot;, &quot;&quot;
+      ),
+      &quot;+&quot;, &quot;&quot;
+    )
+  ),
+  &quot;Youtube&quot;,
+  &quot;_blank&quot;
+) &amp; &quot; | &quot; &amp;
+HYPERLINK(
+  &quot;https://www.google.com/search?q=&quot; &amp; 
+  LOWER(
+    SUBSTITUTE(
+      SUBSTITUTE(
+        SUBSTITUTE(
+          SUBSTITUTE(
+            SUBSTITUTE(
+              SUBSTITUTE(
+                SUBSTITUTE(
+                  SUBSTITUTE(
+                    SUBSTITUTE(
+                      SUBSTITUTE(
+                        Artist__c &amp; &quot; &quot; &amp; Song__c,
+                        &quot; &quot;, &quot;%20&quot;
+                      ),
+                      &quot;&amp;&quot;, &quot;%20&quot;
+                    ),
+                    &quot;&apos;&quot;, &quot;&quot;
+                  ),
+                  &quot;,&quot;, &quot;&quot;
+                ),
+                &quot;?&quot;, &quot;&quot;
+              ),
+              &quot;!&quot;, &quot;&quot;
+            ),
+            &quot;(&quot;, &quot;&quot;
+          ),
+          &quot;)&quot;, &quot;&quot;
+        ),
+        &quot;/&quot;, &quot;&quot;
+      ),
+      &quot;+&quot;, &quot;&quot;
+    )
+  ),
+  &quot;Google&quot;,
+  &quot;_blank&quot;
+)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Web Player</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

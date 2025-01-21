@@ -9,9 +9,9 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Yes</fullName>
+                <fullName>Done</fullName>
                 <default>false</default>
-                <label>Yes</label>
+                <label>Done</label>
             </value>
             <value>
                 <fullName>To Do</fullName>
