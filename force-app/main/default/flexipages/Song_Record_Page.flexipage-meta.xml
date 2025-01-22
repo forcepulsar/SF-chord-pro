@@ -261,7 +261,17 @@
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <name>Facet-df6115dd-a9fd-48ca-a9da-c830673ce290</name>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>theme</name>
+                    <value>light</value>
+                </componentInstanceProperties>
+                <componentName>songChordEditor</componentName>
+                <identifier>c_songChordEditor</identifier>
+            </componentInstance>
+        </itemInstances>
+        <name>Facet-f31e364c-61b4-4694-b8da-15762aecbebd</name>
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
@@ -286,16 +296,12 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
-                    <name>active</name>
-                    <value>false</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
                     <name>body</name>
-                    <value>Facet-df6115dd-a9fd-48ca-a9da-c830673ce290</value>
+                    <value>Facet-f31e364c-61b4-4694-b8da-15762aecbebd</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>title</name>
-                    <value>editor</value>
+                    <value>Song Chord Editor</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:tab</componentName>
                 <identifier>flexipage_tab</identifier>
@@ -326,14 +332,7 @@
                     <value>true</value>
                 </componentInstanceProperties>
                 <componentName>songChordDisplay</componentName>
-                <identifier>c_songChordDisplay2</identifier>
-                <visibilityRule>
-                    <criteria>
-                        <leftValue>{!$Client.formFactor}</leftValue>
-                        <operator>EQUAL</operator>
-                        <rightValue>Large</rightValue>
-                    </criteria>
-                </visibilityRule>
+                <identifier>c_songChordDisplay</identifier>
             </componentInstance>
         </itemInstances>
         <name>rightcol</name>
