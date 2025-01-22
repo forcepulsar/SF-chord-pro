@@ -1,0 +1,18 @@
+/* basicEditor.css */
+.editor-wrapper {
+    border: 1px solid #dddbda;
+    border-radius: 0.25rem;
+    margin: 1rem 0;
+}
+
+.editor-container {
+    min-height: 500px;
+}
+
+/* ChordPro specific styles */
+:host {
+    --chordpro-chord-color: #2196F3;
+    --chordpro-directive-color: #4CAF50;
+    --chordpro-comment-color: #9E9E9E;
+}
+

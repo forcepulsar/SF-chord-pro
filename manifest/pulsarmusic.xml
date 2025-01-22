@@ -18,17 +18,20 @@
     <!-- Lightning Web Components -->
     <types>
         <members>songChordDisplay</members>
+        <members>SongChordEditor</members>
         <name>LightningComponentBundle</name>
     </types>
 
     <!-- Apex Classes -->
     <types>
         <members>SongChordController</members>
+        <members>SongChordEditor</members>
         <name>ApexClass</name>
     </types>
 
     <!-- Static Resources -->
     <types>
+        <members>codemirror</members>
         <members>chordsheetjs</members>
         <name>StaticResource</name>
     </types>

@@ -1,0 +1,19 @@
+<!-- songChordEditor.html -->
+<template>
+    <div class="editor-wrapper">
+        <div class="slds-grid slds-gutters slds-p-around_small">
+            <div class="slds-col">
+                <lightning-button 
+                    label="Save" 
+                    variant="brand" 
+                    onclick={handleSave}
+                    disabled={isSaving}>
+                </lightning-button>
+            </div>
+        </div>
+        <template if:true={isLoading}>
+            <lightning-spinner alternative-text="Loading"></lightning-spinner>
+        </template>
+        <div class="editor-container"></div>
+    </div>
+</template>
