@@ -5,6 +5,12 @@
         <members>song__c</members>
         <name>CustomObject</name>
     </types>
+
+    <!-- Page Layouts -->
+    <types>
+        <members>song__c-song Layout</members>
+        <name>Layout</name>
+    </types>
     <!-- All Custom Fields -->
     <types>
         <members>*</members>
