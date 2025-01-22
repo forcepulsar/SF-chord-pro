@@ -1,51 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <types>
-        <members>SongChordController</members>
-        <members>SongPdfController</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>SongbookPdf</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>song__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Chordpro_aura</members>
-        <name>CustomSite</name>
-    </types>
-    <types>
-        <members>Song_Record_Page</members>
-        <name>FlexiPage</name>
-    </types>
-    <types>
-        <members>songChordDisplay</members>
-        <members>songbookGenerator</members>
-        <name>LightningComponentBundle</name>
-    </types>
-    <types>
-        <members>song__c.All</members>
-        <members>song__c.Public_Songs</members>
-        <name>ListView</name>
-    </types>
-    <types>
-        <members>SFDC_Default_Navigation_Chordpro_aura</members>
-        <name>NavigationMenu</name>
-    </types>
-    <types>
-        <members>Chordpro aura</members>
-        <name>Network</name>
-    </types>
-    <types>
-        <members>chordsheetjs</members>
-        <name>StaticResource</name>
-    </types>
+<types>
+    <members>*</members>
+    <name>ExperienceBundle</name>
+</types>
+<types>
+    <members>Songbook Pulsar</members>
+    <name>Network</name>
+</types>
+<types>
+    <members>cbSongbook_Pulsar</members>
+    <name>NetworkBranding</name>
+</types>
+<types>
+    <members>Songbook_Pulsar</members>
+    <name>CustomSite</name>
+</types>
+<types>
+    <members>SFDC_Default_Navigation_Songbook_Pulsar</members>
+    <name>NavigationMenu</name>
+</types>
+<types>
+    <members>*</members>
+    <name>AuraDefinitionBundle</name>
+</types>
     <version>62.0</version>
 </Package>

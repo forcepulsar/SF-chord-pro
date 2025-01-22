@@ -13,7 +13,6 @@ public with sharing class SongChordController {
         Song__c song = [SELECT Id, Name, ChordPro_Content__c, Web_Player__c 
                        FROM Song__c 
                        WHERE Id = :recordId 
-                       WITH SECURITY_ENFORCED
                        LIMIT 1];
                        
         wrapper.chordProContent = song.ChordPro_Content__c;
@@ -27,7 +26,7 @@ public with sharing class SongChordController {
         try {
             Song__c song = [SELECT Id FROM Song__c 
                           WHERE Id = :recordId 
-                          WITH SECURITY_ENFORCED];
+                          ];
             
             if (!Schema.sObjectType.Song__c.fields.ChordPro_Content__c.isUpdateable()) {
                 throw new AuraHandledException('Insufficient permissions to update song content');
