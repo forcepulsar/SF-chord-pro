@@ -1,13 +1,19 @@
 {
-  "orgName": "ChordPro Development",
-  "edition": "Developer",
-  "features": [],
+  "edition": "Enterprise",
+  "features": [
+    "ServiceCloud",
+    "Communities",
+    "EnableSetPasswordInApi"
+  ],
   "settings": {
+    "communitiesSettings": {
+          "enableNetworksEnabled": true
+    },
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
+    "omniChannelSettings": {
+      "enableOmniChannel": true
     }
   }
 }

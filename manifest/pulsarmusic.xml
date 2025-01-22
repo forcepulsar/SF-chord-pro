@@ -2,13 +2,18 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <!-- Custom Object and Fields -->
     <types>
-        <members>Song__c</members>
+        <members>song__c</members>
         <name>CustomObject</name>
     </types>
     <!-- All Custom Fields -->
     <types>
         <members>*</members>
         <name>CustomField</name>
+    </types>
+    <!-- Custom Tab -->
+    <types>
+        <members>song__c</members>
+        <name>CustomTab</name>
     </types>
     <!-- Lightning Web Components -->
     <types>
@@ -33,6 +38,9 @@
         <members>Song_Record_Page</members>
         <name>FlexiPage</name>
     </types>
-
+    <types>
+        <members>Pulsar_Music_Admin</members>
+        <name>PermissionSet</name>
+    </types>
     <version>62.0</version>
 </Package>
