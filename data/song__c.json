@@ -13,7 +13,8 @@
             "My_Level__c": "Need refresher",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -28,7 +29,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -43,7 +45,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -58,7 +61,8 @@
             "My_Level__c": "Need refresher",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": "Add different embelishments on the chords from song lesson"
+            "Editing_Notes__c": "Add different embelishments on the chords from song lesson",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/leonard-cohen-hallelujah-chords-tabs-guitar-lesson-bs-801</p>"
         },
         {
             "attributes": {
@@ -73,7 +77,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "add embelishments when transitioning chords"
+            "Editing_Notes__c": "add embelishments when transitioning chords",
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -88,7 +93,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": "add the intro tabs lick"
+            "Editing_Notes__c": "add the intro tabs lick",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/jason-mraz-i-m-yours-chords-tabs-guitar-lesson-sb-222</p>"
         },
         {
             "attributes": {
@@ -103,7 +109,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -118,7 +125,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/sheryl-crow-all-i-wanna-do-chords-tabs-guitar-lesson-sg-072</p>"
         },
         {
             "attributes": {
@@ -133,7 +141,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -148,7 +157,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.youtube.com/watch?v=6fXwNRqOwlw</p>"
         },
         {
             "attributes": {
@@ -163,7 +173,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -178,7 +189,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -193,7 +205,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/gnarles-barkley-crazy-chords-tabs-guitar-lesson-sb-203</p>"
         },
         {
             "attributes": {
@@ -208,7 +221,8 @@
             "My_Level__c": "Need refresher",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": "update the chorus, timing, two chords are in half time"
+            "Editing_Notes__c": "update the chorus, timing, two chords are in half time",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/coldplay-yellow-chords-tabs-guitar-lesson-sb-124</p>"
         },
         {
             "attributes": {
@@ -223,7 +237,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p><span style=\"font-family: Arial; color: rgb(0, 0, 0); font-size: 10pt;\">Need to learn how to sing it as well as get the groove</span></p><p><a href=\"https://www.youtube.com/watch?v=S8zdpKYQ_fg\" target=\"_blank\" style=\"font-family: Arial; color: rgb(17, 85, 204); font-size: 10pt;\"><u>https://www.youtube.com/watch?v=S8zdpKYQ_fg</u></a></p>"
         },
         {
             "attributes": {
@@ -238,7 +253,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -253,7 +269,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/the-beatles-i-want-to-hold-your-hand-chords-tabs-guitar-lesson-bs-410</p>"
         },
         {
             "attributes": {
@@ -268,7 +285,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -283,7 +301,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -298,7 +317,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -313,7 +333,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/bryan-adams-summer-of-69-chords-tabs-guitar-lesson-bs-701</p><p>https://www.youtube.com/watch?v=wIzHGZQ5e5s</p>"
         },
         {
             "attributes": {
@@ -328,7 +349,8 @@
             "My_Level__c": "Need refresher",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://youtu.be/b4vOxYfAgwY</p><p><br></p>"
         },
         {
             "attributes": {
@@ -343,7 +365,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": "add the total barres for the end of the verses"
+            "Editing_Notes__c": "add the total barres for the end of the verses",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/cat-stevens-father-and-son-chords-tabs-guitar-lesson-sb-108</p><p><br></p><p>Need to practice the different variations on the verse finishing as I keep missing them.</p><p><br></p>"
         },
         {
             "attributes": {
@@ -358,7 +381,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": "add chords to whole song to follow easier"
+            "Editing_Notes__c": "add chords to whole song to follow easier",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/the-beatles-hey-jude-chords-tabs-guitar-lesson-st-384</p>"
         },
         {
             "attributes": {
@@ -373,7 +397,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -388,7 +413,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/pink-floyd-breathe-in-the-air-acoustic-guitar-chords-tabs-guitar-lesson-sg-019</p><p>https://www.justinguitar.com/songs/pink-floyd-breathe-in-the-air-electric-guitar-chords-tabs-guitar-lesson-sg-006</p>"
         },
         {
             "attributes": {
@@ -403,7 +429,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/radiohead-high-and-dry-chords-tabs-guitar-lesson-sg-231</p>"
         },
         {
             "attributes": {
@@ -418,7 +445,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/eric-clapton-wonderful-tonight-chords-tabs-guitar-lesson-bs-906</p>"
         },
         {
             "attributes": {
@@ -433,7 +461,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/toto-africa-chords-tabs-guitar-lesson-sg-174</p>"
         },
         {
             "attributes": {
@@ -448,7 +477,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -463,7 +493,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -478,7 +509,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -493,7 +525,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/eddie-vedder-society-chords-tabs-guitar-lesson-sg-219</p>"
         },
         {
             "attributes": {
@@ -508,7 +541,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -523,7 +557,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -538,7 +573,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -553,7 +589,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "review song"
+            "Editing_Notes__c": "review song",
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -568,7 +605,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -583,7 +621,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -598,7 +637,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/queen-crazy-little-thing-called-love-chords-tabs-guitar-lesson-bs-720</p>"
         },
         {
             "attributes": {
@@ -613,7 +653,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/ben-e-king-stand-by-me-chords-tabs-guitar-lesson-bs-323</p>"
         },
         {
             "attributes": {
@@ -628,7 +669,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -643,7 +685,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/britney-spears-baby-one-more-time-chords-tabs-guitar-lesson-bs-403</p>"
         },
         {
             "attributes": {
@@ -658,7 +701,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "review the chords matching the lyrics, the formating, how to play along with it."
+            "Editing_Notes__c": "review the chords matching the lyrics, the formating, how to play along with it.",
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -673,7 +717,8 @@
             "My_Level__c": "Need refresher",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "add learning resource, add way to play it, add chords to all song"
+            "Editing_Notes__c": "add learning resource, add way to play it, add chords to all song",
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -688,7 +733,8 @@
             "My_Level__c": "Need refresher",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": "create the whole song again"
+            "Editing_Notes__c": "create the whole song again",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/bob-dylan-blowin-in-the-wind-chords-tabs-guitar-lesson-bc-700</p>"
         },
         {
             "attributes": {
@@ -703,7 +749,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -718,7 +765,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Very Hard",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.youtube.com/watch?v=OXxw0F7gVro</p><p>https://www.youtube.com/watch?v=cEHOU4jMKPw</p><p>https://www.youtube.com/watch?v=ipOoShZWlfM</p>"
         },
         {
             "attributes": {
@@ -733,7 +781,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -748,7 +797,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "add last chorus as it repeats the first chorus"
+            "Editing_Notes__c": "add last chorus as it repeats the first chorus",
+            "Learning_resource__c": "<p><span style=\"color: rgb(68, 68, 68);\">https://www.justinguitar.com/songs/the-kinks-sunny-afternoon-chords-tabs-guitar-lesson-sb-401</span></p>"
         },
         {
             "attributes": {
@@ -763,7 +813,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -778,7 +829,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -793,7 +845,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": "add chords to whole song"
+            "Editing_Notes__c": "add chords to whole song",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/the-beatles-let-it-be-chords-tabs-guitar-lesson-bs-910</p>"
         },
         {
             "attributes": {
@@ -808,7 +861,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p><a href=\"https://www.justinguitar.com/songs/europe-the-final-countdown-chords-tabs-guitar-lesson-sg-110\" target=\"_blank\">https://www.justinguitar.com/songs/europe-the-final-countdown-chords-tabs-guitar-lesson-sg-110</a></p>"
         },
         {
             "attributes": {
@@ -823,7 +877,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": "update the chords in the verse, as F G might not be really used for my version"
+            "Editing_Notes__c": "update the chords in the verse, as F G might not be really used for my version",
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -838,7 +893,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         },
         {
             "attributes": {
@@ -853,7 +909,8 @@
             "My_Level__c": "Need refresher",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "add embelishments from new lesson"
+            "Editing_Notes__c": "add embelishments from new lesson",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/john-lennon-imagine-2023-chords-tabs-guitar-lesson-sg-224</p>"
         },
         {
             "attributes": {
@@ -868,7 +925,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.youtube.com/watch?v=kTP1N6koSkk</p>"
         },
         {
             "attributes": {
@@ -883,7 +941,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/oasis-wonderwall-chords-tabs-guitar-lesson-bs-805</p>"
         },
         {
             "attributes": {
@@ -898,7 +957,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": "at different strumming tips as it's a little confusing"
+            "Editing_Notes__c": "at different strumming tips as it's a little confusing",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/men-at-work-down-under-chords-tabs-guitar-lesson-sg-128</p>"
         },
         {
             "attributes": {
@@ -913,7 +973,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/green-day-boulevard-of-broken-dreams-chords-tabs-guitar-lesson-sg-120</p>"
         },
         {
             "attributes": {
@@ -928,7 +989,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/bobby-mcferrin-don-t-worry-be-happy-chords-tabs-guitar-lesson-sg-135</p>"
         },
         {
             "attributes": {
@@ -943,7 +1005,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "verify the tab"
+            "Editing_Notes__c": "verify the tab",
+            "Learning_resource__c": "<p><a href=\"https://www.youtube.com/watch?v=1x7gZAM265k\" target=\"_blank\" style=\"color: rgb(17, 85, 204); font-family: Arial; font-size: 10pt;\"><u>https://www.youtube.com/watch?v=1x7gZAM265k</u></a></p><p><a href=\"https://www.songsterr.com/a/wsa/tesla-love-song-tab-s442359t2\" target=\"_blank\" style=\"color: rgb(17, 85, 204); font-family: Arial; font-size: 10pt;\"><u>https://www.songsterr.com/a/wsa/tesla-love-song-tab-s442359t2</u></a></p>"
         },
         {
             "attributes": {
@@ -958,7 +1021,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/david-bowie-space-oddity-chords-tabs-guitar-lesson-st-357</p>"
         },
         {
             "attributes": {
@@ -973,7 +1037,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "chorus chords are confusing. write tehm on their own at the bottom as the sequence is simple.  Complication is the second voices"
+            "Editing_Notes__c": "chorus chords are confusing. write tehm on their own at the bottom as the sequence is simple.  Complication is the second voices",
+            "Learning_resource__c": "<p><a href=\"https://www.justinguitar.com/songs/adele-rolling-in-the-deep-chords-tabs-guitar-lesson-sb-209\" target=\"_blank\">https://www.justinguitar.com/songs/adele-rolling-in-the-deep-chords-tabs-guitar-lesson-sb-209</a></p>"
         },
         {
             "attributes": {
@@ -988,7 +1053,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Very Hard",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "need to practice lots"
+            "Editing_Notes__c": "need to practice lots",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/foo-fighters-everlong-chords-tabs-guitar-lesson-st-417</p><p><br></p><p>https://www.guitarzero2hero.com/song/1917/everlong-foo-fighters-guitar-lesson</p>"
         },
         {
             "attributes": {
@@ -1003,7 +1069,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "review song"
+            "Editing_Notes__c": "review song",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/elvis-presley-i-can-t-help-falling-in-love-with-you-chords-tabs-guitar-lesson-bs-605</p>"
         },
         {
             "attributes": {
@@ -1018,7 +1085,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/wheatus-teenage-dirtbag-chords-tabs-guitar-lesson-sg-204</p>"
         },
         {
             "attributes": {
@@ -1033,7 +1101,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.justinguitar.com/songs/ed-sheeran-shape-of-you-chords-tabs-guitar-lesson-st-393"
         },
         {
             "attributes": {
@@ -1048,7 +1117,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "check chords from lesson"
+            "Editing_Notes__c": "check chords from lesson",
+            "Learning_resource__c": "<ul><li>https://www.justinguitar.com/songs/eric-clapton-tears-in-heaven-1-2-chords-tabs-guitar-lesson-st-317</li><li>https://www.justinguitar.com/songs/eric-clapton-tears-in-heaven-2-2-chords-tabs-guitar-lesson-st-3172</li><li>https://www.youtube.com/watch?v=Xqt2EDG0Tbo</li><li>nice solo cover, can learn solo bits https://youtu.be/yhAlVxcE3QA</li></ul>"
         },
         {
             "attributes": {
@@ -1063,7 +1133,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.justinguitar.com/songs/bon-jovi-wanted-dead-or-alive-chords-tabs-guitar-lesson-bs-702\nD C G D - A C D - Em G A C D"
         },
         {
             "attributes": {
@@ -1078,7 +1149,8 @@
             "My_Level__c": "Play Well",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": "add intro tabs"
+            "Editing_Notes__c": "add intro tabs",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/red-hot-chili-peppers-californication-chords-tabs-guitar-lesson-st-362</p><p>https://www.youtube.com/watch?v=kPZclkev3mw&amp;themeRefresh=1</p>"
         },
         {
             "attributes": {
@@ -1093,7 +1165,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": "Practice adding individual melodic lines \r\nin the C there is access to the scale, same as in Am"
+            "Editing_Notes__c": "Practice adding individual melodic lines \r\nin the C there is access to the scale, same as in Am",
+            "Learning_resource__c": "https://www.justinguitar.com/songs/chris-cornell-nothing-compares-2-u-chords-tabs-guitar-lesson-sg-214\nhttps://www.youtube.com/watch?v=kPZclkev3mw"
         },
         {
             "attributes": {
@@ -1108,7 +1181,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.youtube.com/watch?v=AQ4yNdHi8ug"
         },
         {
             "attributes": {
@@ -1123,7 +1197,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.youtube.com/watch?v=YJy5aqMQJak&amp;t=103s&amp;ab_channel=LeeJohnBlackmore"
         },
         {
             "attributes": {
@@ -1138,7 +1213,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Very Hard",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://youtu.be/M7fN1gLke-4"
         },
         {
             "attributes": {
@@ -1153,7 +1229,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.youtube.com/watch?app=desktop&amp;v=INYt4wWsoJs</p><p>https://www.justinguitar.com/songs/radiohead-creep-chords-tabs-guitar-lesson-sb-324</p>"
         },
         {
             "attributes": {
@@ -1168,7 +1245,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://tabs.ultimate-guitar.com/tab/frente/bizarre-love-triangle-chords-328965"
         },
         {
             "attributes": {
@@ -1183,7 +1261,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "review whole song, add picking pattern"
+            "Editing_Notes__c": "review whole song, add picking pattern",
+            "Learning_resource__c": "<p>https://www.youtube.com/watch?v=3DWhs2aZH5A</p>"
         },
         {
             "attributes": {
@@ -1198,7 +1277,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": "The drumming pieces are tricky to write down and count"
+            "Editing_Notes__c": "The drumming pieces are tricky to write down and count",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/lorde-royals-chords-tabs-guitar-lesson-bs-694 </p><p>https://www.youtube.com/watch?v=xVF9rrLGe0U</p>"
         },
         {
             "attributes": {
@@ -1213,7 +1293,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.cifraclub.com.br/mana/si-no-te-hubieras-ido/\nhttps://www.youtube.com/watch?v=Hq2BA9H0DLs"
         },
         {
             "attributes": {
@@ -1228,7 +1309,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.youtube.com/watch?v=k5hwnjEm1nE"
         },
         {
             "attributes": {
@@ -1243,7 +1325,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.youtube.com/watch?v=8yaG_kIRfy4"
         },
         {
             "attributes": {
@@ -1258,7 +1341,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.youtube.com/watch?v=pCzB5h5qH5w"
         },
         {
             "attributes": {
@@ -1273,7 +1357,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.youtube.com/watch?v=UJla-UJnr5w\nhttps://www.youtube.com/watch?v=eAIrWJZY9Ck"
         },
         {
             "attributes": {
@@ -1288,7 +1373,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.youtube.com/watch?v=BNKx68FkynQ"
         },
         {
             "attributes": {
@@ -1303,7 +1389,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.youtube.com/watch?v=zB1I4Q6nV-g\nhttps://www.cifraclub.com.br/los-fabulosos-cadillacs/vasos-vacios/"
         },
         {
             "attributes": {
@@ -1318,7 +1405,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.youtube.com/watch?v=ObD2zfyAA5o"
         },
         {
             "attributes": {
@@ -1333,7 +1421,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "http://www.youtube.com/watch?v=UwZcBJ8ac5Q"
         },
         {
             "attributes": {
@@ -1348,7 +1437,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.youtube.com/watch?v=j4TjmU0xrGI"
         },
         {
             "attributes": {
@@ -1363,7 +1453,8 @@
             "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "check the chords on outro.\r\nneed to be consistent with the rhythm and dynamics to play it as it's only 4 chords"
+            "Editing_Notes__c": "check the chords on outro.\r\nneed to be consistent with the rhythm and dynamics to play it as it's only 4 chords",
+            "Learning_resource__c": "<p>https://tabs.ultimate-guitar.com/tab/calvin-harris/feel-so-close-chords-1149607</p><p>https://www.youtube.com/watch?v=ryfx8WLMVQg</p>"
         },
         {
             "attributes": {
@@ -1378,7 +1469,8 @@
             "My_Level__c": "Need refresher",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.justinguitar.com/songs/natalie-imbruglia-torn-chords-tabs-guitar-lesson-sb-211"
         },
         {
             "attributes": {
@@ -1393,7 +1485,8 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.justinguitar.com/songs/ac-dc-you-shook-me-all-night-long-1-3-chords-tabs-guitar-lesson-st-319"
         },
         {
             "attributes": {
@@ -1408,7 +1501,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.cifraclub.com.br/los-rodriguez/hace-calor/\nhttps://www.youtube.com/watch?v=5S3qJpqPaYI"
         },
         {
             "attributes": {
@@ -1423,7 +1517,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Very Hard",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.youtube.com/watch?v=4q4M-IBtsUk&amp;t=462s \nhttps://www.youtube.com/watch?v=kNlJyvpqBAc"
         },
         {
             "attributes": {
@@ -1438,7 +1533,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.justinguitar.com/songs/snow-patrol-chasing-cars-chords-tabs-guitar-lesson-sb-201\nhttps://www.youtube.com/watch?v=_2Ls6zyS5LA"
         },
         {
             "attributes": {
@@ -1453,7 +1549,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://youtu.be/kE2rjzVWlGw?si=HtJSPpzBcFE_g9_1"
         },
         {
             "attributes": {
@@ -1468,7 +1565,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.youtube.com/watch?v=ZEq85jzT3FQ&amp;ab_channel=LeeJohnBlackmore"
         },
         {
             "attributes": {
@@ -1483,7 +1581,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Easy",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://tabs.ultimate-guitar.com/tab/bruno-mars/count-on-me-chords-958496"
         },
         {
             "attributes": {
@@ -1498,7 +1597,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.youtube.com/watch?v=Va-N6kx-DM4"
         },
         {
             "attributes": {
@@ -1513,7 +1613,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.justinguitar.com/songs/nirvana-heart-shaped-box-chords-tabs-guitar-lesson-sg-124"
         },
         {
             "attributes": {
@@ -1528,7 +1629,8 @@
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "https://www.justinguitar.com/songs/r-e-m-losing-my-religion-chords-tabs-guitar-lesson-sg-114"
         },
         {
             "attributes": {
@@ -1543,7 +1645,8 @@
             "My_Level__c": null,
             "Difficulty__c": null,
             "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null
+            "Editing_Notes__c": null,
+            "Learning_resource__c": null
         }
     ]
 }
