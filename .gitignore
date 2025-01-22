@@ -50,3 +50,6 @@ scripts/*
 **/classes/SongPDFController**
 **/lwc/songBookGenerator**
 
+test-retrieve/classes/SongChordController.cls
+test-retrieve/classes/SongChordController.cls-meta.xml
+test-retrieve/flexipages/Song_Record_Page.flexipage-meta.xml
