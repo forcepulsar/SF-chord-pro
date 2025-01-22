@@ -1,34 +1,6 @@
 # SF-chord-pro
 A Salesforce application for displaying and editing ChordPro music sheets.  
 
-
-# Create a new directory for testing and navigate into it
-mkdir pulsar_test
-cd pulsar_test
-
-# Clone the repository into current directory (replace with your actual repo URL)
-git clone [your-repository-url] .
-
-# Create a new scratch org with 30-day duration (-d) and set it as default
-sf org create scratch -f config/project-scratch-def.json -a pulsarMusic_test -d -v PulsarMusicDevOrg
-
-# Deploy the metadata components specified in the manifest file to the scratch org
-sf project deploy start --manifest manifest/pulsarmusic.xml --target-org pulsarMusic_test
-
-# Assign the required permission set to access the app functionality
-sf org assign permset --name Pulsar_Music_Admin --target-org pulsarMusic_test
-
-# Export existing song data from the dev org into a JSON file in the data directory
-# only required if need to extract latest data
-sf data export tree --query "SELECT Song__c, Artist__c, Language__c, ChordPro_Content__c, Priority__c, My_Level__c, Difficulty__c, ChordPro_Status__c, Editing_Notes__c,Learning_resource__c FROM Song__c" --target-org PulsarMusicDevOrg --output-dir data
-
-# Import the exported song data into the new scratch org
-sf data import tree --files data/song__c.json --target-org pulsarMusic_test
-
-# Open the scratch org in default web browser
-sf org open --target-org pulsarMusic_test
-
-
 # Pulsar Music App Setup Guide
 
 This guide explains how to set up the Pulsar Music app in a new scratch org.
@@ -74,7 +46,7 @@ sf org assign permset --name Pulsar_Music_Admin --target-org pulsarMusic_test
 6. Import sample data:
 ```bash
 # Export existing song data from the dev org
-sf data export tree --query "SELECT Song__c, Artist__c, Language__c, ChordPro_Content__c, Priority__c, My_Level__c, Difficulty__c, ChordPro_Status__c, Editing_Notes__c, Learning_resource__c, Web_Player__c FROM Song__c" --target-org PulsarMusicDevOrg --output-dir data
+sf data export tree --query "SELECT Song__c, Artist__c, Language__c, ChordPro_Content__c, Priority__c, My_Level__c, Difficulty__c, ChordPro_Status__c, Editing_Notes__c, Learning_resource__c FROM Song__c" --target-org PulsarMusicDevOrg --output-dir data
 
 # Import the exported song data into the new scratch org
 sf data import tree --files data/song__c.json --target-org pulsarMusic_test
