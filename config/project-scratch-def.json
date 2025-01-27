@@ -1,5 +1,7 @@
 {
   "edition": "Enterprise",
+  "hasSampleData": false,
+  "durationDays": 30,
   "features": [
     "ServiceCloud",
     "Communities",
