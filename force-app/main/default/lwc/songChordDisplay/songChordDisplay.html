@@ -14,6 +14,7 @@
                         <lightning-button-icon
                             icon-name="utility:chevrondown"
                             variant="bare"
+                            size="large"
                             onclick={decreaseScrollSpeed}
                             disabled={isMinScrollSpeed}
                             alternative-text="Decrease scroll speed"
@@ -23,6 +24,7 @@
                         <lightning-button-icon
                             icon-name="utility:chevronup"
                             variant="bare"
+                            size="large"
                             onclick={increaseScrollSpeed}
                             disabled={isMaxScrollSpeed}
                             alternative-text="Increase scroll speed"
@@ -34,6 +36,7 @@
                     <lightning-button-icon
                         icon-name={autoScrollIconName}
                         variant={autoScrollButtonVariant}
+                        size="large"
                         onclick={handleAutoScroll}
                         class="slds-m-left_small"
                         title={autoScrollButtonLabel}>
@@ -44,6 +47,7 @@
                         <lightning-button-icon
                             icon-name="utility:dash"
                             variant="bare"
+                            size="large"
                             onclick={decreaseFontSize}
                             disabled={isMinFontSize}
                             alternative-text="Decrease font size"
@@ -53,6 +57,7 @@
                         <lightning-button-icon
                             icon-name="utility:add"
                             variant="bare"
+                            size="large"
                             onclick={increaseFontSize}
                             disabled={isMaxFontSize}
                             alternative-text="Increase font size"
@@ -64,6 +69,7 @@
                     <lightning-button-icon
                         icon-name={chordsIconName}
                         variant="bare"
+                        size="large"
                         onclick={toggleChords}
                         class="slds-m-left_small"
                         title={toggleButtonLabel}>
@@ -75,6 +81,7 @@
                             <lightning-button-icon 
                                 icon-name="utility:wifi"
                                 variant="bare"
+                                size="large"
                                 alternative-text="Open in Spotify"
                                 class="slds-m-left_small"
                                 title="Open in Spotify"
@@ -86,6 +93,7 @@
                             <lightning-button-icon 
                                 icon-name="utility:video"
                                 variant="bare"
+                                size="large"
                                 alternative-text="Open in YouTube"
                                 class="slds-m-left_small"
                                 title="Open in YouTube"
@@ -97,6 +105,7 @@
                             <lightning-button-icon 
                                 icon-name="utility:search"
                                 variant="bare"
+                                size="large"
                                 alternative-text="Search on Google"
                                 class="slds-m-left_small"
                                 title="Search on Google"
@@ -109,6 +118,7 @@
                     <lightning-button-icon
                         icon-name="utility:expand"
                         variant="bare"
+                        size="large"
                         onclick={toggleFullScreen}
                         class="slds-m-left_small"
                         title="Toggle Full Screen">

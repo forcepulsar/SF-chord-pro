@@ -1,6 +1,19 @@
 /**
  * Utility functions for managing full-screen mode
  */
+
+// Store the bound event handler reference
+let boundEscHandler = null;
+
+// Handle ESC key press to exit full-screen mode
+function handleEscKey(event, component) {
+    console.log('handleEscKey called with key:', event.key);
+    if (event.key === 'Escape' && component.isFullScreen) {
+        console.log('ESC key pressed, exiting full-screen');
+        toggleFullScreen(component);
+    }
+}
+
 export function toggleFullScreen(component) {
     console.log('toggleFullScreen called');
     
@@ -29,10 +42,22 @@ export function toggleFullScreen(component) {
         console.log('Entering full-screen mode');
         cardElement.classList.add('full-screen-mode');
         document.body.classList.add('no-scroll');
+        
+        // Create and store the bound handler
+        boundEscHandler = (event) => handleEscKey(event, component);
+        
+        // Add event listener for ESC key
+        document.addEventListener('keydown', boundEscHandler);
     } else {
         console.log('Exiting full-screen mode');
         cardElement.classList.remove('full-screen-mode');
         document.body.classList.remove('no-scroll');
+        
+        // Remove event listener using the stored reference
+        if (boundEscHandler) {
+            document.removeEventListener('keydown', boundEscHandler);
+            boundEscHandler = null;
+        }
     }
 
     // Dispatch custom event

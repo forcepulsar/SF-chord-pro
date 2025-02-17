@@ -3,7 +3,7 @@
     <apiVersion>62.0</apiVersion>
     <isExposed>true</isExposed>
     <masterLabel>Song Chord Display</masterLabel>
-    <description>Display chord sheets for songs</description>
+    <description>Displays songs with chords</description>
     <targets>
         <target>lightningCommunity__Page</target>
         <target>lightningCommunity__Default</target>
