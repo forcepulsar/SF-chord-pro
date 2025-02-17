@@ -4,6 +4,7 @@
   "features": [
     "ServiceCloud",
     "Communities",
+    "LightningSalesConsole",
     "EnableSetPasswordInApi"
   ],
   "settings": {
