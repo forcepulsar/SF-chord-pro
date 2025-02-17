@@ -58,6 +58,16 @@ sf data import tree --files data/song__c.json --target-org pulsarMusic_test
 sf org open --target-org pulsarMusic_test
 ```
 
+## Setup Script
+1. In terminal, run the following command to setup the scratch org:
+```bash
+./setup_scratch_org.sh ~/Documents/vscode/pulsar_test  https://github.com/forcepulsar/SF-chord-pro pulsar_test 
+
+#./script/setup_scratch_org.sh <directory-path> <git-repo-url> <scratch-org-alias>
+```
+
+
+
 ## Data Model
 
 The app uses a custom object `Song__c` with the following custom fields:
