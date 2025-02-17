@@ -8,9 +8,9 @@ export const SCROLL = {
 };
 
 export const FONT = {
-    DEFAULT_SIZE: 18,
+    DEFAULT_SIZE: 30,
     MIN_SIZE: 10,
-    MAX_SIZE: 24,
+    MAX_SIZE: 30,
     SIZE_STEP: 1
 };
 

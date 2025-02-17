@@ -28,7 +28,7 @@ git clone [your-repository-url] .
 3. Create a scratch org:
 ```bash
 # Create a new scratch org with 30-day duration (-d) and set it as default
-sf org create scratch -f config/project-scratch-def.json -a pulsarMusic_test -d -v PulsarMusicDevOrg
+sf org create scratch -f config/project-scratch-def.json -a pulsarMusic_test --duration-days 30 -v PulsarMusicDevOrg
 ```
 
 4. Deploy metadata:
