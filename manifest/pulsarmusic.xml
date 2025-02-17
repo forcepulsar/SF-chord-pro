@@ -24,7 +24,7 @@
     <!-- Lightning Web Components -->
     <types>
         <members>songChordDisplay</members>
-        <members>SongChordEditor</members>
+        <members>songChordEditor</members>
         <name>LightningComponentBundle</name>
     </types>
 
