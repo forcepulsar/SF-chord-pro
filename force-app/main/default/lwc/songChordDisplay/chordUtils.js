@@ -1,13 +1,25 @@
 // chordUtils.js
 import { CHORD_FIXES } from './constants';
 
+//   Matches any key A-G (with optional #/b and minor “m”), followed by “ma7”
+const MAJ7_REGEX = /^([A-G](?:#|b)?m?)ma7$/i;
+
 export function fixChordNames(chord) {
     if (!chord) return;
-    
-    const chordText = chord.textContent;
-    if (CHORD_FIXES[chordText]) {
-        chord.textContent = CHORD_FIXES[chordText];
+
+    let txt = chord.textContent;
+
+    // 1. Generic maj7 repair
+    if (MAJ7_REGEX.test(txt)) {
+        txt = txt.replace(/ma7$/i, 'maj7');
     }
+
+    // 2. Existing explicit fixes
+    if (CHORD_FIXES[txt]) {
+        txt = CHORD_FIXES[txt];
+    }
+
+    chord.textContent = txt;      // write the corrected label
 }
 
 export function applyChordStyles(chord, fontSize, showChords) {

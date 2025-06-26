@@ -1,5 +1,8 @@
 import { LightningElement, api, wire, track } from 'lwc';
 import { NavigationMixin } from 'lightning/navigation';
+import { subscribe, MessageContext } from 'lightning/messageService';
+import SONG_CHORD_REFRESH from '@salesforce/messageChannel/SongChordRefresh__c';
+import { refreshApex } from '@salesforce/apex';
 
 // Apex Method
 import getSongChordPro from '@salesforce/apex/SongChordController.getSongChordPro';
@@ -48,6 +51,12 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
     scrollAccumulator = 0;
     scrollInterval;
 
+    // LMS
+    subscription;
+    @wire(MessageContext)
+    messageContext;
+    wiredSongResult;
+
     // Computed Properties from StateUtils
     get wrapperClass() {
         return StateUtils.getters(this).wrapperClass;
@@ -86,6 +95,16 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
     // Lifecycle Hooks
     connectedCallback() {
         LifecycleUtils.connectedCallback(this);
+        // Subscribe to LMS for refresh
+        console.log('inside connectedCallback of songChordDisplay');
+        if (!this.subscription) {
+            console.log('Subscribed to SongChordRefresh');
+            this.subscription = subscribe(
+                this.messageContext,
+                SONG_CHORD_REFRESH,
+                (message) => this.handleRefreshMessage(message)
+            );
+        }
     }
 
     renderedCallback() {
@@ -96,9 +115,18 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
         LifecycleUtils.disconnectedCallback(this);
     }
 
+    // LMS Handler
+    handleRefreshMessage(message) {
+        console.log('Received refresh message', message);
+        if (message && message.recordId === this.recordId) {
+            this.refreshDisplay();
+        }
+    }
+
     // Wire Service
     @wire(getSongChordPro, { recordId: '$recordId' })
     wiredSong(result) {
+        this.wiredSongResult = result;
         LifecycleUtils.wiredSong(this, result);
     }
 
@@ -231,6 +259,10 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
 
     // Refresh Display
     refreshDisplay() {
+        if (this.wiredSongResult) {
+            refreshApex(this.wiredSongResult);
+        }
         LifecycleUtils.refreshDisplay(this);
+        console.log('Refreshing display');
     }
 }

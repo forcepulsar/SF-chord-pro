@@ -1,5 +1,5 @@
 // songChordEditor.js
-import { LightningElement, api, track } from 'lwc';
+import { LightningElement, api, track, wire } from 'lwc';
 import { loadScript, loadStyle } from 'lightning/platformResourceLoader';
 import CODEMIRROR from '@salesforce/resourceUrl/codemirror';
 import { defineChordProMode } from './chordproMode';
@@ -7,6 +7,8 @@ import { createThemeStyles } from './chordproThemes';
 import getChordProContent from '@salesforce/apex/SongChordEditor.getChordProContent';
 import saveChordProContent from '@salesforce/apex/SongChordEditor.saveChordProContent';
 import { ShowToastEvent } from 'lightning/platformShowToastEvent';
+import { publish, MessageContext } from 'lightning/messageService';
+import SONG_CHORD_REFRESH from '@salesforce/messageChannel/SongChordRefresh__c';
 
 export default class SongChordEditor extends LightningElement {
     @api recordId;
@@ -16,6 +18,9 @@ export default class SongChordEditor extends LightningElement {
     editor;
     isScriptLoaded = false;
     pendingContent;
+    // In your class
+    @wire(MessageContext)
+    messageContext;
 
     async renderedCallback() {
         if (this.isScriptLoaded) return;
@@ -90,6 +95,8 @@ export default class SongChordEditor extends LightningElement {
                 content: content 
             });
             this.showToast('Success', 'Changes saved successfully', 'success');
+            console.log('Publishing refresh message', this.recordId);
+            publish(this.messageContext, SONG_CHORD_REFRESH, { recordId: this.recordId });
         } catch (error) {
             this.showToast('Error', 'Error saving changes: ' + error.message, 'error');
             console.error('Save error:', error);
