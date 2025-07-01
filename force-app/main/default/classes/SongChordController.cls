@@ -4,6 +4,10 @@ public with sharing class SongChordController {
         public String chordProContent { get; set; }
         @AuraEnabled
         public String webPlayerLinks { get; set; }
+        @AuraEnabled
+        public Decimal defaultFontSize { get; set; }
+        @AuraEnabled
+        public Decimal defaultScrollSpeed { get; set; }
     }
 
     @AuraEnabled(cacheable=true)
@@ -17,7 +21,16 @@ public with sharing class SongChordController {
                        
         wrapper.chordProContent = song.ChordPro_Content__c;
         wrapper.webPlayerLinks = song.Web_Player__c;
-        
+
+        // Get settings
+        SongChordSettings__mdt settings = [
+            SELECT DefaultFontSize__c, DefaultScrollSpeed__c
+            FROM SongChordSettings__mdt LIMIT 1
+        ];
+
+        wrapper.defaultFontSize = settings.DefaultFontSize__c != null ? settings.DefaultFontSize__c : 30;
+        wrapper.defaultScrollSpeed = settings.DefaultScrollSpeed__c != null ? settings.DefaultScrollSpeed__c : 0.2;
+
         return wrapper;
     }
 

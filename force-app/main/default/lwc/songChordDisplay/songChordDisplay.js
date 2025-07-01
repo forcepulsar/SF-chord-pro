@@ -95,24 +95,54 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
     // Lifecycle Hooks
     connectedCallback() {
         LifecycleUtils.connectedCallback(this);
+
         // Subscribe to LMS for refresh
-        console.log('inside connectedCallback of songChordDisplay');
         if (!this.subscription) {
-            console.log('Subscribed to SongChordRefresh');
             this.subscription = subscribe(
                 this.messageContext,
                 SONG_CHORD_REFRESH,
                 (message) => this.handleRefreshMessage(message)
             );
         }
+
+        // Add keydown listener for 'f', 'g', and 'y' keys
+        this._handleKeyDown = (event) => {
+            const key = event.key.toLowerCase();
+
+            switch (key) {
+                case 'f':
+                    this.toggleFullScreen();
+                    break;
+                case 'g':
+                    this.handleGoogleClick();
+                    break;
+                case 'y':
+                    this.handleYoutubeClick();
+                    break;
+                case 'u':
+                    this.increaseFontSize();
+                    break;
+                case 'i':
+                    this.decreaseFontSize();
+                    break;
+                default:
+                    break;
+            }
+        };
+
+        window.addEventListener('keydown', this._handleKeyDown);
     }
 
-    renderedCallback() {
-        LifecycleUtils.renderedCallback(this);
-    }
 
     disconnectedCallback() {
         LifecycleUtils.disconnectedCallback(this);
+        // Remove keydown listener
+        if (this._handleKeyDown) {
+            window.removeEventListener('keydown', this._handleKeyDown);
+        }
+    }
+    renderedCallback() {
+        LifecycleUtils.renderedCallback(this);
     }
 
     // LMS Handler
@@ -127,6 +157,33 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
     @wire(getSongChordPro, { recordId: '$recordId' })
     wiredSong(result) {
         this.wiredSongResult = result;
+        if (result.data) {
+            this.chordProContent = result.data.chordProContent;
+            try {
+                this.webLinks = result.data.webPlayerLinks
+                    ? JSON.parse(result.data.webPlayerLinks)
+                    : { spotify: null, youtube: null, google: null };
+            } catch (e) {
+                this.webLinks = { spotify: null, youtube: null, google: null };
+            }
+            // Only change: set fontSize and scrollSpeed from Apex, fallback to constants
+            this.fontSize =
+                typeof result.data.defaultFontSize === 'number'
+                    ? result.data.defaultFontSize
+                    : FONT.DEFAULT_SIZE || 30;
+            this.scrollSpeed =
+                typeof result.data.defaultScrollSpeed === 'number'
+                    ? result.data.defaultScrollSpeed
+                    : SCROLL.DEFAULT_SPEED || 0.2;
+            // Optionally update the constants for use elsewhere
+            FONT.DEFAULT_SIZE = this.fontSize;
+            SCROLL.DEFAULT_SPEED = this.scrollSpeed;
+            this.isLoading = false;
+            this.error = undefined;
+        } else if (result.error) {
+            this.error = 'Failed to load song data';
+            this.isLoading = false;
+        }
         LifecycleUtils.wiredSong(this, result);
     }
 
