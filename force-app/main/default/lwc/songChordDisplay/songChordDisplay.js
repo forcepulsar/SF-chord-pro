@@ -109,24 +109,33 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
         this._handleKeyDown = (event) => {
             const key = event.key.toLowerCase();
 
+            /*  ▸ If the component is *not* in full-screen mode, ignore the
+                shortcut unless Shift is being held.                 */
+            if (!this.isFullScreen && !event.shiftKey) {
+                return;         // nothing happens until Shift + <key>
+            }
+
+            /*  ▸ Once we’re here the keystroke is valid:
+                – in full-screen  ➜  Shift optional
+                – not full-screen ➜  Shift required                   */
             switch (key) {
-                case 'f':
+                case 'f':                     // full-screen toggle
                     this.toggleFullScreen();
                     break;
-                case 'g':
+                case 'g':                     // Google search
                     this.handleGoogleClick();
                     break;
-                case 'y':
+                case 'y':                     // YouTube
                     this.handleYoutubeClick();
                     break;
-                case 'u':
+                case 'u':                     // font size ↑
                     this.increaseFontSize();
                     break;
-                case 'i':
+                case 'i':                     // font size ↓
                     this.decreaseFontSize();
                     break;
                 default:
-                    break;
+                    // leave other keys untouched
             }
         };
 
