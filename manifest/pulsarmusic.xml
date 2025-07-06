@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <!-- Custom Object and Fields -->
+
+    <!-- Custom Objects (incl. Custom-Metadata type definitions) -->
     <types>
         <members>song__c</members>
+        <members>SongChordSettings__mdt</members>
         <name>CustomObject</name>
     </types>
 
@@ -11,20 +13,24 @@
         <members>song__c-song Layout</members>
         <name>Layout</name>
     </types>
+
     <!-- All Custom Fields -->
     <types>
         <members>*</members>
         <name>CustomField</name>
     </types>
+
     <!-- Custom Tab -->
     <types>
         <members>song__c</members>
         <name>CustomTab</name>
     </types>
+
     <!-- Lightning Web Components -->
     <types>
         <members>songChordDisplay</members>
         <members>songChordEditor</members>
+        <members>randomSongQuickAction</members>
         <name>LightningComponentBundle</name>
     </types>
 
@@ -32,6 +38,7 @@
     <types>
         <members>SongChordController</members>
         <members>SongChordEditor</members>
+        <members>SongRandomSelectorController</members>
         <name>ApexClass</name>
     </types>
 
@@ -42,14 +49,29 @@
         <name>StaticResource</name>
     </types>
 
-    <!-- Flexipages (if you have any custom Record Pages) -->
+    <!-- Flexipages -->
     <types>
         <members>Song_Record_Page</members>
         <name>FlexiPage</name>
     </types>
+
+    <!-- Permission Sets -->
     <types>
         <members>Pulsar_Music_Admin</members>
         <name>PermissionSet</name>
     </types>
-    <version>62.0</version>
+
+    <!-- Platform Events / LWC message channels -->
+    <types>
+        <members>SongChordRefresh</members>
+        <name>LightningMessageChannel</name>
+    </types>
+
+    <!-- Custom-Metadata records -->
+    <types>
+        <members>SongChordSettings__mdt.*</members>
+        <name>CustomMetadata</name>
+    </types>
+
+    <version>64.0</version>
 </Package>

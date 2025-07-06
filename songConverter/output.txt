@@ -1,73 +1,66 @@
-{title: Count On Me Chords}
-{st: Bruno Mars}
+{title: Kiss Me}
+{st: Sixpence None The Richer}
+
+Capo: 3rd fret
 
 {c:Intro}
-[C]
+C    Cmaj7    C7    Cmaj7    x2
 
 {c:Verse 1}
-If you [C]ever find yourself stuck in the middle of the s[Em]ea
-I'll s[Am]ail the world[G] to fi[F]nd you
-If you [C]ever find yourself lost in the dark and you can't s[Em]ee
-I'll b[Am]e the light[G] to gu[F]ide you
-
-{c:Pre-Chorus}
-[Dm]   Find out what we're made [Em]of
-When [F]we are called to help our friends in n[G]eed
+[C]   Kiss me [Cmaj7]    out of the bearded barl[C7]ey
+Nightly,[Cmaj7]     beside the green, green [C]grass
+Swing, swing,[Cmaj7]     swing the spinning step
+[C7]   You wear those shoes and I w[F]ill wear that dress
 
 {soc}
 {c:Chorus}
-You can [C]count on me like [Em]one, two, three
-I'll b[Am]e there[G]
-And [F]I know when I need it
-I can [C]count on you like [Em]four, three, two
-And you'll [Am]be there[G]
-'cos [F]that's what friends are s'posed to do
-Oh [C]yeah
-Ooh ooh ooh ooh oo[Em]h...
-Ooh ooh ooh ooh oo[Am]h..[G]
-[F]Yeah y[G]eah
+Oh-oh,[Dm]   kiss [G]me  [C]  beneath the [Am]milky twilight[Dm]
+Lead [G]me ... [C] out on the [C7]moonlit [Dm]floor
+Lift your [G]open hand
+[C] Strike up the [C/B]band and make the [Am]fireflies dance
+[Am/G]Silver moon's [Fmaj7]sparkling
+[Gsus4]      [G] So kiss
 
 {eoc}
+
+{c:Instrumental}
+[C]me[Cmaj7][C7][Cmaj7]
 
 {c:Verse 2}
-If you'[C]re tossin' and you're turnin' and you just can't fall asl[Em]eep
-I'll si[Am]ng a song[G] bes[F]ide you
-And if you [C]ever forget how much you really mean to m[Em]e
-Every d[Am]ay I will[G] rem[F]ind you, oh
-
-{c:Pre-Chorus}
-[Dm]   Find out what we're made [Em]of
-When [F]we are called to help our friends in n[G]eed
+[C]  Kiss me [Cmaj7]     down by the broken tree h[C7]ouse
+Swing me [Cmaj7]     upon its hanging t[C]ire
+Bring, bring,[Cmaj7]      bring your flowered hat[C7]
+We'll take the trail marked on your[F] father's map
 
 {soc}
 {c:Chorus}
-You can [C]count on me like [Em]one, two, three
-I'll b[Am]e there[G]
-And [F]I know when I need it
-I can [C]count on you like [Em]four, three, two
-And you'll [Am]be there[G]
-'cos [F]that's what friends are s'posed to do
-Oh [C]yeah
-Ooh ooh ooh ooh oo[Em]h...
-Ooh ooh ooh ooh oo[Am]h..[G]
-[F]Yeah y[G]eah
+Oh-oh,[Dm]   kiss [G]me  [C]  beneath the [Am]milky twilight[Dm]
+Lead [G]me ... [C] out on the [C7]moonlit [Dm]floor
+Lift your [G]open hand
+[C] Strike up the [C/B]band and make the [Am]fireflies dance
+[Am/G]Silver moon's [Fmaj7]sparkling
+[Gsus4]      [G] So kiss
 
 {eoc}
 
-{c:Bridge}
-You'll [Dm]always have my [Em]shoulder when you [Am]cry[G]
-I'll [Dm]never let go, [Em]never say good[F]bye, [G]you know -
+{c:Interlude}
+[C]me[Cmaj7][C7][Cmaj7]
+
+[Dm  G  C  Am  Dm  G  C  C7]
 
 {soc}
 {c:Chorus}
-You can [C]count on me like [Em]one, two, three
-I'll b[Am]e there[G]
-And [F]I know when I need it
-I can [C]count on you like [Em]four, three, two
-And you'll [Am]be there[G]
-'cos [F]that's what friends are s'posed to do
-Oh [C]yeah
-Ooh ooh ooh ooh o[Em]oh...
-Ooh ooh ooh ooh o[Am]oh..[G]
-You can [F]count on me cuz I can count on [C]you
+[Dm]   Kiss [G]me  [C] beneath the [Am]milky twilight[Dm]
+Lead [G]me ... [C] out on the [C7]moonlit [Dm]floor
+Lift your [G]open hand
+[C] Strike up the [C/B]band and make the [Am]fireflies dance
+[Am/G]Silver moon's [Fmaj7]sparkling
+[Gsus4]      [G] So kiss
+
 {eoc}
+
+{c:Outro}
+[C]me   [Cmaj7]         [C7]      [Cmaj7]       So kiss
+[C]me   [Cmaj7]         [C7]      [Cmaj7]       So kiss
+[C]me   [Cmaj7]         [C7]      [Cmaj7]       So kiss
+C    Cmaj7    C7    Cmaj7    C ......
