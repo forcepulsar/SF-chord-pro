@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
-    <apiVersion>62.0</apiVersion>
+    <apiVersion>64.0</apiVersion>
     <isExposed>true</isExposed>
     <masterLabel>Song Chord Display</masterLabel>
     <description>Displays songs with chords</description>
@@ -31,6 +31,10 @@
             <objects>
                 <object>song__c</object>
             </objects>
+            <supportedFormFactors>
+                <supportedFormFactor type="Large"/> <!-- desktop -->
+                <supportedFormFactor type="Small"/> <!-- phone/tablet -->
+            </supportedFormFactors>
             <property 
                 name="showChords" 
                 type="Boolean" 
