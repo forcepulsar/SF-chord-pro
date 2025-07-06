@@ -69,7 +69,7 @@
 
     <!-- Custom-Metadata records -->
     <types>
-        <members>SongChordSettings__mdt.*</members>
+        <members>SongChordSettings.Default_Settings</members>
         <name>CustomMetadata</name>
     </types>
 
