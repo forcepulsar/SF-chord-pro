@@ -24,6 +24,10 @@ yarn-error.log*
 # Dependency directories
 node_modules/
 
+# Build artefacts from the song-book tool
+tools/pdf-generator/songs.pdf
+tools/pdf-generator/songs.html
+
 # Eslint cache
 .eslintcache
 

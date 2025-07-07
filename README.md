@@ -10,7 +10,16 @@ This guide explains how to set up the Pulsar Music app in a new scratch org.
 - DevHub org already authenticated
 - GitHub repository access
 
-## Setup Instructions
+## 1 · Setup Script
+The easiest way to set up the app is to use the provided setup script.
+In terminal, run the following command to setup the scratch org:
+```bash
+./setup_scratch_org.sh ~/Documents/vscode/pulsar_test  https://github.com/forcepulsar/SF-chord-pro pulsar_test 
+
+#./script/setup_scratch_org.sh <directory-path> <git-repo-url> <scratch-org-alias>
+```
+
+## 2 · Salesforce scratch‑org setup
 
 1. Create and navigate to a new project directory:
 ```bash
@@ -58,13 +67,37 @@ sf data import tree --files data/song__c.json --target-org pulsarMusic_test
 sf org open --target-org pulsarMusic_test
 ```
 
-## Setup Script
-1. In terminal, run the following command to setup the scratch org:
-```bash
-./setup_scratch_org.sh ~/Documents/vscode/pulsar_test  https://github.com/forcepulsar/SF-chord-pro pulsar_test 
+---
 
-#./script/setup_scratch_org.sh <directory-path> <git-repo-url> <scratch-org-alias>
+## 3 · Generate a song‑book PDF&#x20;
+
+The new **Node 18+** utility lives in `tools/pdf-generator/` and turns the Salesforce export (`data/song__c.json`) into:
+
+- **songs.pdf** — printable book (all songs)
+- **songs.html** — quick 5‑song preview for browser layout checks
+
+### 3.1  Install & run
+
+```bash
+cd tools/pdf-generator
+npm ci                       # installs chordsheetjs + puppeteer
+
+npm start                    # builds songs.pdf and songs.html (first 5 songs)
 ```
+
+### 3.2  Options
+
+| Environment var | Default | Effect                                 |
+| --------------- | ------- | -------------------------------------- |
+| `PREVIEW_HTML`  | `true`  | Set `false` to skip songs.html preview |
+
+```bash
+PREVIEW_HTML=false npm start   # create PDF only
+```
+
+### 3.3  Why keep `package-lock.json`?
+
+Committed lock‑files guarantee every contributor installs the **exact** same dependency tree — no “works on my machine” surprises. If you ever upgrade a lib, commit the updated lock‑file alongside `package.json`.
 
 
 

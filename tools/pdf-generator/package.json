@@ -1,0 +1,18 @@
+{
+  "name": "songbook-pdf-generator",
+  "version": "1.0.0",
+  "description": "CLI tool that converts ChordPro songs (exported from Salesforce) into a printable PDF songbook, with an optional 5‑song HTML preview for quick layout checks.",
+  "author": "Julian Virguez ",
+  "license": "MIT",
+  "type": "module",
+
+  "scripts": {
+    "start": "node songbook-pdf.js",
+    "preview": "PREVIEW_HTML=true node songbook-pdf.js"
+  },
+
+  "dependencies": {
+    "chordsheetjs": "^6.3.0",
+    "puppeteer": "^24.11.2"
+  }
+}
