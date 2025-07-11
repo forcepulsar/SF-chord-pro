@@ -3,6 +3,7 @@ import { NavigationMixin } from 'lightning/navigation';
 import { subscribe, MessageContext } from 'lightning/messageService';
 import SONG_CHORD_REFRESH from '@salesforce/messageChannel/SongChordRefresh__c';
 import { refreshApex } from '@salesforce/apex';
+import customIcons from '@salesforce/resourceUrl/customIcons';
 
 // Apex Method
 import getSongChordPro from '@salesforce/apex/SongChordController.getSongChordPro';
@@ -92,14 +93,12 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
         return StateUtils.getters(this).chordsIconName;
     }
 
+    spotifyIconPng = `${customIcons}/spotify.png`;
+    youtubeIconPng = `${customIcons}/youtube.png`;
+    googleIconPng  = `${customIcons}/google.png`;
+
     // Lifecycle Hooks
     connectedCallback() {
-        console.log('test inside connectedCallback');
-        console.log('spotifyIconPng →', this.spotifyIconPng);
-        console.log('webLinks.spotify →', this.webLinks.spotify);
-        console.log('youtubeIconPng →', this.youtubeIconPng);
-        console.log('googleIconPng  →', this.googleIconPng);
-        console.log('webLinks object →', JSON.stringify(this.webLinks));
 
         LifecycleUtils.connectedCallback(this);
     
