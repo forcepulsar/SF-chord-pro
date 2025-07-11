@@ -45,6 +45,7 @@
     <!-- Static Resources -->
     <types>
         <members>codemirror</members>
+        <members>customIcons</members>
         <members>chordsheetjs</members>
         <name>StaticResource</name>
     </types>
