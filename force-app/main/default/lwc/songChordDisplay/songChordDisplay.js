@@ -94,8 +94,15 @@ export default class SongChordDisplay extends NavigationMixin(LightningElement) 
 
     // Lifecycle Hooks
     connectedCallback() {
-        LifecycleUtils.connectedCallback(this);
+        console.log('test inside connectedCallback');
+        console.log('spotifyIconPng →', this.spotifyIconPng);
+        console.log('webLinks.spotify →', this.webLinks.spotify);
+        console.log('youtubeIconPng →', this.youtubeIconPng);
+        console.log('googleIconPng  →', this.googleIconPng);
+        console.log('webLinks object →', JSON.stringify(this.webLinks));
 
+        LifecycleUtils.connectedCallback(this);
+    
         // Subscribe to LMS for refresh
         if (!this.subscription) {
             this.subscription = subscribe(

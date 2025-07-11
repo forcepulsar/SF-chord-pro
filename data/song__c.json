@@ -24,7 +24,7 @@
             "Song__c": "Take On Me",
             "Artist__c": "a-ha",
             "Language__c": "English",
-            "ChordPro_Content__c": "{title: Take On Me}\n{st: a-ha}\n\n{c:Intro}\n[Am]Am   [D/F#]D/F#   [G]G   [C]C [G/B]Gmaj7/B\n\n{c:Verse 1}\n[Am]Talking awa[D/F#]y\nWell, [Em]I don't know what I'm to say\nI'll [Am]say it anywa[D/F#]y\nTo[Em]day's another day to find you\n[Am]  Shying aw[D/F#]ay\n[Em]  I'll be coming for your [C]love, ok?\n\n{soc}\n{c:Chorus}\n[G]Take   [D]on   [Em]me[D/F#]\n[G]Take   [Bm]me   [Em]on[C]\n[G]I'll   [B7]be   [Em]gone[C]\nIn a day or[G] two[D/F#]...[C][D]\n\n{eoc}\n\n{c:Verse 2}\nSo [Am]needless to s[D/F#]ay\nI'm [Em]odds and ends, but that's me,\nI'm [Am]stumbling away[D/F#]\n[Em]Slowly learning that life is ok and\n[Am]  Say after m[D/F#]e\n[Em] It's no better to be [C]safe than sorry and\n\n{soc}\n{c:Chorus}\n[G] Take  [D]on   [Em]me[D/F#]\n[G]Take   [Bm]me   o[Em]n[C]\n[G]I'll   [B7]be   [Em]gone[C]\nIn a day or[G] two.[D/F#]..[C][D]\n\n{eoc}\n\n{c:Bridge}\n[Am]Am   [D]D   [G]G   [C]C [G/B]Gmaj7/B\n[Am   D   Am   D]\n\n{c:Verse 3}\nAnd all [Am]things that you say[D/F#]\n[Em]Is it life or just to play\nMy [Am]worries away[D/F#]?\nYou're [Em]all the things I've got to remember\nYou're[Am] shying aw[D/F#]ay\n[Em]  I'll be coming for yo[C]u anyway\n\n{soc}\n{c:Chorus}\n[G]Take   [D]on   [Em]me[D/F#]\n[G]Take   [Bm]me   [Em]on[C]\n[G]I'll   [B7]be   [Em]gone[C]\nIn a day or[G] two.[Bm]..[Em][C]\n\n{eoc}\n\n{c:Outro}\n[G]I'll   [B7]be   [Em]gone[C]\nIn a day or[G] two.[D/F#]..[Em][C]\nIn a day or[G] two.[D/F#]..[C]\n\n================\ngently softly playing, strum/picked combination",
+            "ChordPro_Content__c": "{title: Take On Me}\n{st: a-ha}\nCapo on 2\n{c:Intro}\n[Am]Am   [D/F#]D/F#   [G]G   [C]C [G/B]Gmaj7/B\n\n{c:Verse 1}\n[Am]Talking awa[D/F#]y\nWell, [Em]I don't know what I'm to say\nI'll [Am]say it anywa[D/F#]y\nTo[Em]day's another day to find you\n[Am]  Shying aw[D/F#]ay\n[Em]  I'll be coming for your [C]love, ok?\n\n{soc}\n{c:Chorus}\n[G]Take   [D]on   [Em]me[D/F#]\n[G]Take   [Bm]me   [Em]on[C]\n[G]I'll   [B7]be   [Em]gone[C]\nIn a day or[G] two[D/F#]...[C][D]\n\n{eoc}\n\n{c:Verse 2}\nSo [Am]needless to s[D/F#]ay\nI'm [Em]odds and ends, but that's me,\nI'm [Am]stumbling away[D/F#]\n[Em]Slowly learning that life is ok and\n[Am]  Say after m[D/F#]e\n[Em] It's no better to be [C]safe than sorry and\n\n{soc}\n{c:Chorus}\n[G] Take  [D]on   [Em]me[D/F#]\n[G]Take   [Bm]me   o[Em]n[C]\n[G]I'll   [B7]be   [Em]gone[C]\nIn a day or[G] two.[D/F#]..[C][D]\n\n{eoc}\n\n{c:Bridge}\n[Am]Am   [D]D   [G]G   [C]C [G/B]Gmaj7/B\n[Am   D   Am   D]\n\n{c:Verse 3}\nAnd all [Am]things that you say[D/F#]\n[Em]Is it life or just to play\nMy [Am]worries away[D/F#]?\nYou're [Em]all the things I've got to remember\nYou're[Am] shying aw[D/F#]ay\n[Em]  I'll be coming for yo[C]u anyway\n\n{soc}\n{c:Chorus}\n[G]Take   [D]on   [Em]me[D/F#]\n[G]Take   [Bm]me   [Em]on[C]\n[G]I'll   [B7]be   [Em]gone[C]\nIn a day or[G] two.[Bm]..[Em][C]\n\n{eoc}\n\n{c:Outro}\n[G]I'll   [B7]be   [Em]gone[C]\nIn a day or[G] two.[D/F#]..[Em][C]\nIn a day or[G] two.[D/F#]..[C]\n\n================\ngently softly playing, strum/picked combination",
             "Priority__c": "1",
             "My_Level__c": "In Progress",
             "Difficulty__c": "Easy",
@@ -133,6 +133,22 @@
                 "type": "song__c",
                 "referenceId": "song__cRef9"
             },
+            "Song__c": "Like A Stone",
+            "Artist__c": "Audioslave",
+            "Language__c": "English",
+            "ChordPro_Content__c": null,
+            "Priority__c": null,
+            "My_Level__c": "Want to Learn",
+            "Difficulty__c": "Easy",
+            "ChordPro_Status__c": "To Do",
+            "Editing_Notes__c": "https://www.guitarzero2hero.com/song/1429/like-a-stone-acoustic-audioslave-guitar-lesson",
+            "Learning_resource__c": null
+        },
+        {
+            "attributes": {
+                "type": "song__c",
+                "referenceId": "song__cRef10"
+            },
             "Song__c": "Hey Brother",
             "Artist__c": "Avicci",
             "Language__c": "English",
@@ -147,7 +163,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef10"
+                "referenceId": "song__cRef11"
             },
             "Song__c": "Caraluna",
             "Artist__c": "Bacilos",
@@ -163,7 +179,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef11"
+                "referenceId": "song__cRef12"
             },
             "Song__c": "Stand By Me",
             "Artist__c": "Ben E King",
@@ -179,7 +195,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef12"
+                "referenceId": "song__cRef13"
             },
             "Song__c": "Blowin In The Wind",
             "Artist__c": "Bob Dylan",
@@ -195,7 +211,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef13"
+                "referenceId": "song__cRef14"
             },
             "Song__c": "Knockin' On Heaven's door",
             "Artist__c": "Bob Dylan",
@@ -211,7 +227,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef14"
+                "referenceId": "song__cRef15"
             },
             "Song__c": "Like A Rolling Stone",
             "Artist__c": "Bob Dylan",
@@ -227,7 +243,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef15"
+                "referenceId": "song__cRef16"
             },
             "Song__c": "Don't Worry Be Happy",
             "Artist__c": "Bobby McFerrin",
@@ -243,7 +259,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef16"
+                "referenceId": "song__cRef17"
             },
             "Song__c": "It's My Life",
             "Artist__c": "Bon Jovi",
@@ -259,7 +275,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef17"
+                "referenceId": "song__cRef18"
             },
             "Song__c": "Livin On A Prayer",
             "Artist__c": "Bon Jovi",
@@ -275,7 +291,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef18"
+                "referenceId": "song__cRef19"
             },
             "Song__c": "Wanted Dead or Alive",
             "Artist__c": "Bon Jovi",
@@ -291,7 +307,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef19"
+                "referenceId": "song__cRef20"
             },
             "Song__c": "Baby One More Time",
             "Artist__c": "Britney Spears",
@@ -307,7 +323,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef20"
+                "referenceId": "song__cRef21"
             },
             "Song__c": "Count On Me",
             "Artist__c": "Bruno mars",
@@ -323,7 +339,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef21"
+                "referenceId": "song__cRef22"
             },
             "Song__c": "Summer of '69",
             "Artist__c": "Bryan Adams",
@@ -339,7 +355,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef22"
+                "referenceId": "song__cRef23"
             },
             "Song__c": "No Dejes Que",
             "Artist__c": "Caifanes",
@@ -355,7 +371,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef23"
+                "referenceId": "song__cRef24"
             },
             "Song__c": "Feel So Close",
             "Artist__c": "Calvin Harris",
@@ -371,7 +387,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef24"
+                "referenceId": "song__cRef25"
             },
             "Song__c": "Father and Son",
             "Artist__c": "Cat Stevens",
@@ -387,7 +403,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef25"
+                "referenceId": "song__cRef26"
             },
             "Song__c": "Have you ever seen the rain",
             "Artist__c": "CCR",
@@ -403,7 +419,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef26"
+                "referenceId": "song__cRef27"
             },
             "Song__c": "Nothing compares to you",
             "Artist__c": "Chris Cornell / Sinéad O'Connor",
@@ -419,7 +435,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef27"
+                "referenceId": "song__cRef28"
             },
             "Song__c": "Yellow",
             "Artist__c": "Coldplay",
@@ -435,7 +451,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef28"
+                "referenceId": "song__cRef29"
             },
             "Song__c": "Get Lucky",
             "Artist__c": "Daft Punk",
@@ -451,7 +467,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef29"
+                "referenceId": "song__cRef30"
             },
             "Song__c": "Space Oddity",
             "Artist__c": "David Bowie",
@@ -467,7 +483,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef30"
+                "referenceId": "song__cRef31"
             },
             "Song__c": "Starman",
             "Artist__c": "David Bowie",
@@ -476,14 +492,14 @@
             "Priority__c": null,
             "My_Level__c": "Need refresher",
             "Difficulty__c": "Medium",
-            "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null,
+            "ChordPro_Status__c": "In Progress",
+            "Editing_Notes__c": "Add Chords fingering for intro",
             "Learning_resource__c": "<p>https://youtu.be/b4vOxYfAgwY</p><p><br></p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef31"
+                "referenceId": "song__cRef32"
             },
             "Song__c": "Shape of You",
             "Artist__c": "Ed Sheeran",
@@ -499,7 +515,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef32"
+                "referenceId": "song__cRef33"
             },
             "Song__c": "Society",
             "Artist__c": "Eddie Vedder",
@@ -515,7 +531,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef33"
+                "referenceId": "song__cRef34"
             },
             "Song__c": "I Can't Help Falling In Love With You",
             "Artist__c": "Elvis Presley",
@@ -531,7 +547,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef34"
+                "referenceId": "song__cRef35"
             },
             "Song__c": "Lamento Boliviano",
             "Artist__c": "Enanitos Verdes",
@@ -547,7 +563,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef35"
+                "referenceId": "song__cRef36"
             },
             "Song__c": "Bailando",
             "Artist__c": "Enrique Iglesias",
@@ -563,7 +579,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef36"
+                "referenceId": "song__cRef37"
             },
             "Song__c": "Tears In Heaven",
             "Artist__c": "Eric Clapton",
@@ -579,7 +595,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef37"
+                "referenceId": "song__cRef38"
             },
             "Song__c": "Wonderful Tonight",
             "Artist__c": "Eric Clapton",
@@ -595,7 +611,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef38"
+                "referenceId": "song__cRef39"
             },
             "Song__c": "I'd Rather Go Blind",
             "Artist__c": "Etta James",
@@ -611,7 +627,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef39"
+                "referenceId": "song__cRef40"
             },
             "Song__c": "The Final Countdown",
             "Artist__c": "Europe",
@@ -627,7 +643,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef40"
+                "referenceId": "song__cRef41"
             },
             "Song__c": "Vasos Vacios",
             "Artist__c": "Fabulosos Cadillacs",
@@ -643,7 +659,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef41"
+                "referenceId": "song__cRef42"
             },
             "Song__c": "No Soy de Aqui",
             "Artist__c": "Facundo Cabral",
@@ -659,7 +675,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef42"
+                "referenceId": "song__cRef43"
             },
             "Song__c": "Everlong",
             "Artist__c": "Foo Fighters",
@@ -675,7 +691,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef43"
+                "referenceId": "song__cRef44"
             },
             "Song__c": "I want to know what love is",
             "Artist__c": "Foreigners",
@@ -691,7 +707,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef44"
+                "referenceId": "song__cRef45"
             },
             "Song__c": "business time",
             "Artist__c": "FOTC",
@@ -707,7 +723,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef45"
+                "referenceId": "song__cRef46"
             },
             "Song__c": "Bizarre Love Triangle",
             "Artist__c": "Frente!",
@@ -723,7 +739,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef46"
+                "referenceId": "song__cRef47"
             },
             "Song__c": "I Will Survive",
             "Artist__c": "Gloria Gaynor/Cake",
@@ -739,7 +755,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef47"
+                "referenceId": "song__cRef48"
             },
             "Song__c": "Crazy",
             "Artist__c": "Gnarls Barkley",
@@ -755,7 +771,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef48"
+                "referenceId": "song__cRef49"
             },
             "Song__c": "Boulevard of Broken Dreams",
             "Artist__c": "Green Day",
@@ -771,7 +787,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef49"
+                "referenceId": "song__cRef50"
             },
             "Song__c": "Brain Stew",
             "Artist__c": "Green Day",
@@ -787,7 +803,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef50"
+                "referenceId": "song__cRef51"
             },
             "Song__c": "Good Riddance - Time Of Your Life",
             "Artist__c": "Green Day",
@@ -803,7 +819,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef51"
+                "referenceId": "song__cRef52"
             },
             "Song__c": "Wake Me Up When September Ends",
             "Artist__c": "Green Day",
@@ -819,7 +835,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef52"
+                "referenceId": "song__cRef53"
             },
             "Song__c": "Don't Cry",
             "Artist__c": "Guns N' Roses",
@@ -835,7 +851,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef53"
+                "referenceId": "song__cRef54"
             },
             "Song__c": "Estranged",
             "Artist__c": "Guns N' Roses",
@@ -851,7 +867,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef54"
+                "referenceId": "song__cRef55"
             },
             "Song__c": "November Rain",
             "Artist__c": "Guns N' Roses",
@@ -867,7 +883,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef55"
+                "referenceId": "song__cRef56"
             },
             "Song__c": "Patience",
             "Artist__c": "Guns N' Roses",
@@ -883,12 +899,12 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef56"
+                "referenceId": "song__cRef57"
             },
             "Song__c": "Sweet Child O' Mine",
             "Artist__c": "Guns N' Roses",
             "Language__c": "English",
-            "ChordPro_Content__c": "{t:Sweet Child O' Mine}\n{st:Guns N' Roses}\n{artist:Guns N' Roses}\n(Guitar Tuning: Eb, Ab, Db, Gb, Bb, eb )\n\n{c:Intro}\n[D D Cadd9 Cadd9 G G D D]x4\n\n{c:Verse 1}\n[D]She's got a smile that it seems to me \nRe[Cadd9]minds me of childhood memories\nWhere [G]everything was as fresh as the bright blue [D]sky\n[D]Now and then when I see her face\nshe [Cadd9]takes me away to that special place\nand if I [G]stay too long I'd probably break down and [D]cry\n\n{soc}\n{c:Chorus}\n[A]Oh oh [C]oh oh sweet child of [D]mine\n[A]Oh oh [C]oh oh sweet love of [D]mine\n{eoc}\n\n[D D Cadd9 Cadd9 G G D D]\n\n{c:Verse 2}\n[D]She's got eyes of the bluest sky\nas [Cadd9]if they thought of rain\nI [G]hate to look into those eyes and [D]see an ounce of pain\nHer [D]hair reminds me of a warm safe place\nwhere [Cadd9]as a child I'd hide\nand [G]pray for the thunder and the rain to [D]quietly pass me by\n\n{soc}\n{c:Chorus}\n[A]Oh oh [C]oh oh sweet child of [D]mine\n[A]Oh oh [C]oh oh sweet love of [D]mine\n{eoc}\n\n{c:Solo 1}\n[Em]     [C]     [B7]     [Am]   x4\n[Am]\n{c:Solo 2}\n[|Em      |G       |A       |C   D G |] x4\n\n{c:Outro}\n[Em]Where do we go, [G]where do we go now, [A]where do we go [|C   D G |]\n[Em]Where do we go, [G]where do we go now, [A]where do we go [|C   D G |]\n[Em]Where do we go, [G]  sweet child, [A]where do we go now [|C   D G |]\n[Em]Aih, aih, aih, aih, [G]aih, aih, aih, oh [A]where do we go now [|C   D G |]\n[Em]Where do we go, [G] ohhhhh, [A]where do we go now [|C   D G |]\n[Em]Where do we goo[G]ooooo, [A]where do we go now [|C   D G |]\n[Em]Where do we goooo,[G] ohhh [A]where do we go now, \n(Fill)now-now-now-now-now-now-[Em]now\nSweet ch[G]ild, sweet [A]chiiiii[C]iiii[D]ild of [E]mine\n\n==================\n|C   D G | on G just play bass note. \n(Fill), played on triads 57 55 67 66 65 63",
+            "ChordPro_Content__c": "{t:Sweet Child O' Mine}\n{st:Guns N' Roses}\n{artist:Guns N' Roses}\n(Guitar Tuning: Eb, Ab, Db, Gb, Bb, eb )\n\n{c:Intro}\n[D D Cadd9 Cadd9 G G D D]x4\n\n{c:Verse 1}\n[D]She's got a smile that it seems to me \nRe[Cadd9]minds me of childhood memories\nWhere [G]everything was as fresh as the bright blue [D]sky\n[D]Now and then when I see her face\nshe [Cadd9]takes me away to that special place\nand if I [G]stay too long I'd probably break down and [D]cry\n\n{soc}\n{c:Chorus}\n[A]Oh oh [C]oh oh sweet child of [D]mine\n[A]Oh oh [C]oh oh sweet love of [D]mine\n{eoc}\n\n[D D Cadd9 Cadd9 G G D D]\n\n{c:Verse 2}\n[D]She's got eyes of the bluest sky\nas [Cadd9]if they thought of rain\nI [G]hate to look into those eyes and [D]see an ounce of pain\nHer [D]hair reminds me of a warm safe place\nwhere [Cadd9]as a child I'd hide\nand [G]pray for the thunder and the rain to [D]quietly pass me by\n\n{soc}\n{c:Chorus}\n[A]Oh oh [C]oh oh sweet child of [D]mine\n[A]Oh oh [C]oh oh sweet love of [D]mine\n{eoc}\n\n{c:Solo 1}\n[Em]     [C]     [B7]     [Am]   x4\n[Am]\n{c:Solo 2}\n[|Em      |G       |A       |C   D G |] x4\n\n{c:Outro}\n[Em]Where do we go, [G]where do we go now, [A]where do we go [|C   D G |]\n[Em]Where do we go, [G]where do we go now, [A]where do we go [|C   D G |]\n[Em]Where do we go, [G]  sweet child, [A]where do we go now [|C   D G |]\n[Em]Aih, aih, aih, aih, [G]aih, aih, aih, oh [A]where do we go now [|C   D G |]\n[Em]Where do we go, [G] ohhhhh, [A]where do we go now [|C   D G |]\n[Em]Where do we goo[G]ooooo, [A]where do we go now [|C   D G |]\n[Em]Where do we goooo,[G] ohhh [A]where do we go now, \n(Fill)now-now-now-now-now-now-[Em]now\nSweet ch[G]ild, sweet [A]chiiiii[C]iiii[D]ild of [E]mine\n\n==================\n|C   D G | on G just play bass note.  Or play just |C   D |\n(Fill), played on triads 57 55 67 66 65 63",
             "Priority__c": null,
             "My_Level__c": "In Progress",
             "Difficulty__c": "Easy",
@@ -899,7 +915,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef57"
+                "referenceId": "song__cRef58"
             },
             "Song__c": "Take Me To Church",
             "Artist__c": "Hozier",
@@ -915,7 +931,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef58"
+                "referenceId": "song__cRef59"
             },
             "Song__c": "Fear Of The Dark",
             "Artist__c": "Iron Maiden",
@@ -931,7 +947,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef59"
+                "referenceId": "song__cRef60"
             },
             "Song__c": "I'm Yours",
             "Artist__c": "Jason Mraz",
@@ -947,7 +963,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef60"
+                "referenceId": "song__cRef61"
             },
             "Song__c": "Imagine",
             "Artist__c": "John Lennon",
@@ -963,7 +979,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef61"
+                "referenceId": "song__cRef62"
             },
             "Song__c": "Hurt",
             "Artist__c": "Johnny Cash",
@@ -979,7 +995,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef62"
+                "referenceId": "song__cRef63"
             },
             "Song__c": "Personal Jesus",
             "Artist__c": "Johnny Cash",
@@ -995,7 +1011,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef63"
+                "referenceId": "song__cRef64"
             },
             "Song__c": "Shallow",
             "Artist__c": "Lady Gaga",
@@ -1011,7 +1027,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef64"
+                "referenceId": "song__cRef65"
             },
             "Song__c": "Hallelujah",
             "Artist__c": "Leonard Cohen",
@@ -1027,7 +1043,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef65"
+                "referenceId": "song__cRef66"
             },
             "Song__c": "Royals",
             "Artist__c": "Lorde",
@@ -1043,7 +1059,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef66"
+                "referenceId": "song__cRef67"
             },
             "Song__c": "Hace Calor",
             "Artist__c": "Los Rodriguez",
@@ -1059,7 +1075,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef67"
+                "referenceId": "song__cRef68"
             },
             "Song__c": "Sin Documentos",
             "Artist__c": "Los Rodriguez",
@@ -1075,7 +1091,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef68"
+                "referenceId": "song__cRef69"
             },
             "Song__c": "Si no te hubieras ido",
             "Artist__c": "Mana",
@@ -1091,7 +1107,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef69"
+                "referenceId": "song__cRef70"
             },
             "Song__c": "Down Under",
             "Artist__c": "Men At Work",
@@ -1107,7 +1123,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef70"
+                "referenceId": "song__cRef71"
             },
             "Song__c": "Torn",
             "Artist__c": "Natalie Imbruglia",
@@ -1123,7 +1139,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef71"
+                "referenceId": "song__cRef72"
             },
             "Song__c": "Heart Shaped Box",
             "Artist__c": "Nirvana",
@@ -1139,7 +1155,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef72"
+                "referenceId": "song__cRef73"
             },
             "Song__c": "Wonderwall",
             "Artist__c": "Oasis",
@@ -1155,7 +1171,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef73"
+                "referenceId": "song__cRef74"
             },
             "Song__c": "Another Brick In The Wall Part 2",
             "Artist__c": "Pink Floyd",
@@ -1171,7 +1187,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef74"
+                "referenceId": "song__cRef75"
             },
             "Song__c": "Breathe",
             "Artist__c": "Pink Floyd",
@@ -1187,7 +1203,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef75"
+                "referenceId": "song__cRef76"
             },
             "Song__c": "Comfortably Numb",
             "Artist__c": "Pink Floyd",
@@ -1203,7 +1219,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef76"
+                "referenceId": "song__cRef77"
             },
             "Song__c": "Pigs On The Wing",
             "Artist__c": "Pink Floyd",
@@ -1219,7 +1235,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef77"
+                "referenceId": "song__cRef78"
             },
             "Song__c": "Shine On You Crazy Diamond",
             "Artist__c": "Pink Floyd",
@@ -1228,14 +1244,14 @@
             "Priority__c": null,
             "My_Level__c": "In Progress",
             "Difficulty__c": "Hard",
-            "ChordPro_Status__c": "Done",
-            "Editing_Notes__c": null,
+            "ChordPro_Status__c": "In Progress",
+            "Editing_Notes__c": "Add starting chords and ending chords",
             "Learning_resource__c": "<p><span style=\"font-family: Arial; color: rgb(0, 0, 0); font-size: 10pt;\">Need to learn how to sing it as well as get the groove</span></p><p><a href=\"https://www.youtube.com/watch?v=S8zdpKYQ_fg\" target=\"_blank\" style=\"font-family: Arial; color: rgb(17, 85, 204); font-size: 10pt;\"><u>https://www.youtube.com/watch?v=S8zdpKYQ_fg</u></a></p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef78"
+                "referenceId": "song__cRef79"
             },
             "Song__c": "Wish You Were Here",
             "Artist__c": "Pink Floyd",
@@ -1251,7 +1267,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef79"
+                "referenceId": "song__cRef80"
             },
             "Song__c": "Bohemian Rhapsody",
             "Artist__c": "Queen",
@@ -1267,7 +1283,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef80"
+                "referenceId": "song__cRef81"
             },
             "Song__c": "Crazy Little Thing Called Love",
             "Artist__c": "Queen",
@@ -1283,7 +1299,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef81"
+                "referenceId": "song__cRef82"
             },
             "Song__c": "Losing My relegion",
             "Artist__c": "R.E.M",
@@ -1299,7 +1315,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef82"
+                "referenceId": "song__cRef83"
             },
             "Song__c": "Creep",
             "Artist__c": "Radiohead",
@@ -1315,7 +1331,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef83"
+                "referenceId": "song__cRef84"
             },
             "Song__c": "High and Dry",
             "Artist__c": "Radiohead",
@@ -1331,7 +1347,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef84"
+                "referenceId": "song__cRef85"
             },
             "Song__c": "Karma Police",
             "Artist__c": "Radiohead",
@@ -1347,7 +1363,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef85"
+                "referenceId": "song__cRef86"
             },
             "Song__c": "Californication",
             "Artist__c": "RHCP",
@@ -1363,7 +1379,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef86"
+                "referenceId": "song__cRef87"
             },
             "Song__c": "My Friends",
             "Artist__c": "RHCP",
@@ -1379,7 +1395,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef87"
+                "referenceId": "song__cRef88"
             },
             "Song__c": "Otherside",
             "Artist__c": "RHCP",
@@ -1395,7 +1411,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef88"
+                "referenceId": "song__cRef89"
             },
             "Song__c": "La Bamba",
             "Artist__c": "Ritchie Valens",
@@ -1411,7 +1427,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef89"
+                "referenceId": "song__cRef90"
             },
             "Song__c": "Wild Horses",
             "Artist__c": "Rolling Stones",
@@ -1427,12 +1443,12 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef90"
+                "referenceId": "song__cRef91"
             },
             "Song__c": "Stay With Me",
             "Artist__c": "Sam Smith",
             "Language__c": "English",
-            "ChordPro_Content__c": "{t:Stay With Me}\r\n{st:Sam Smith}\r\nbpm 84\r\n {c:Intro}\r\n [|Am7] [Fmaj7/C|] [C x2] \r\n\r\n {c:Verse}\r\n [|Am7]  Guess it's true, I'm not [F|]good at a one-night[C] stand\r\n [|Am7]  But I still need [F|]love cause I'm just [C]a man\r\n [|Am7]  These nights never [F|]seem to go to[C] plan\r\n [|Am7]  I don't want you to [G7sus4|]leave, will you hold my h[C]and?\r\n\r\n{soc}\r\n{c:Chorus}\r\n Won't you[|Am] stay[F] with [|C]me?\r\n Cause you'r[|Am]e all[F] I [|C]need\r\n [G]This ain[|Am]'t love it's c[F]lear to s[|C]ee\r\n But da[E]rling,[|Am] stay [F]with [|C]me\r\n {eoc}\r\n\r\n {c:Verse}\r\n [Am7]Why am I s[F]o emo[C]tional?\r\n [Am7]No it's not a good [F]look, gain some self c[C]ontrol\r\n [Am7]And deep down I k[F]now this never w[C]orks\r\n [Am7]But you can lay with [G7sus4]me so it doesn't h[C]urt\r\n\r\n{soc}\r\n{c:Chorus}\r\n Won't you[|Am] stay[F] with [|C]me?\r\n Cause you'r[|Am]e all[F] I [|C]need\r\n [G]This ain[|Am]'t love it's c[F]lear to s[|C]ee\r\n But da[E]rling,[|Am] stay [F]with [|C]me\r\n {eoc}\r\n\r\n \r\n {c:Bridge}\r\n Oh...[Am][F][C]\r\n Oh...[Am][F][C]\r\n [G]Oh...[Am][F][C]\r\n Oh...[G#dim][Am][F][C]\r\n \r\n {c:Chorus  x2} \r\n=================================\r\nC is coming on the '&' after 4th beat\r\n{c:Chords Used:}\r\nGsus4        3x001x\r\nF = Fmaj/C X33210",
+            "ChordPro_Content__c": "{t:Stay With Me}\n{st:Sam Smith}\nbpm 84\n {c:Intro}\n [|Am7] [Fmaj7/C|] [C x2] \n\n {c:Verse}\n [|Am7]  Guess it's true, I'm not [F|]good at a one-night[C] stand\n [|Am7]  But I still need [F|]love cause I'm just [C]a man\n [|Am7]  These nights never [F|]seem to go to[C] plan\n [|Am7]  I don't want you to [G7sus4|]leave, will you hold my h[C]and?\n\n{soc}\n{c:Chorus}\n Won't you[|Am] stay[F] with [|C]me?\n Cause you'r[|Am]e all[F] I [|C]need\n [G]This ain[|Am]'t love it's c[F]lear to s[|C]ee\n But da[E]rling,[|Am] stay [F]with [|C]me\n {eoc}\n\n {c:Verse}\n [Am7]Why am I s[F]o emo[C]tional?\n [Am7]No it's not a good [F]look, gain some self c[C]ontrol\n [Am7]And deep down I k[F]now this never w[C]orks\n [Am7]But you can lay with [G7sus4]me so it doesn't h[C]urt\n\n{soc}\n{c:Chorus}\n Won't you[|Am] stay[F] with [|C]me?\n Cause you'r[|Am]e all[F] I [|C]need\n [G]This ain[|Am]'t love it's c[F]lear to s[|C]ee\n But da[E]rling,[|Am] stay [F]with [|C]me\n {eoc}\n\n \n {c:Bridge}\n Oh...[Am][F][C]\n Oh...[Am][F][C]\n [G]Oh...[Am][F][C]\n Oh...[G#dim][Am][F][C]\n \n {c:Chorus  x2} \n=================================\nC is coming on the '&' after 4th beat\n{c:Chords Used:}\nGsus4        3x001x\nF = Fmaj/C X33210",
             "Priority__c": null,
             "My_Level__c": "Need refresher",
             "Difficulty__c": "Easy",
@@ -1443,7 +1459,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef91"
+                "referenceId": "song__cRef92"
             },
             "Song__c": "Still Loving You",
             "Artist__c": "Scorpions",
@@ -1459,7 +1475,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef92"
+                "referenceId": "song__cRef93"
             },
             "Song__c": "Wind of Change",
             "Artist__c": "Scorpions",
@@ -1475,7 +1491,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef93"
+                "referenceId": "song__cRef94"
             },
             "Song__c": "Un Beso y Una Flor",
             "Artist__c": "Seguridad Social",
@@ -1491,7 +1507,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef94"
+                "referenceId": "song__cRef95"
             },
             "Song__c": "All I Wanna Do",
             "Artist__c": "Sheryl Crow",
@@ -1507,7 +1523,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef95"
+                "referenceId": "song__cRef96"
             },
             "Song__c": "Fabula de los tres hermanos",
             "Artist__c": "Silvio Rodriguez",
@@ -1523,7 +1539,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef96"
+                "referenceId": "song__cRef97"
             },
             "Song__c": "Kiss Me",
             "Artist__c": "Sixpence None The Richer",
@@ -1539,7 +1555,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef97"
+                "referenceId": "song__cRef98"
             },
             "Song__c": "Chasing Cars",
             "Artist__c": "Snow Patrol",
@@ -1555,7 +1571,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef98"
+                "referenceId": "song__cRef99"
             },
             "Song__c": "De música ligera",
             "Artist__c": "Soda Stereo",
@@ -1571,7 +1587,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef99"
+                "referenceId": "song__cRef100"
             },
             "Song__c": "En La Ciudad de la furia",
             "Artist__c": "Soda Stereo",
@@ -1587,7 +1603,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef100"
+                "referenceId": "song__cRef101"
             },
             "Song__c": "Love Song",
             "Artist__c": "Tesla",
@@ -1603,7 +1619,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef101"
+                "referenceId": "song__cRef102"
             },
             "Song__c": "Hey Jude",
             "Artist__c": "The Beatles",
@@ -1619,7 +1635,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef102"
+                "referenceId": "song__cRef103"
             },
             "Song__c": "I Saw her Standing There",
             "Artist__c": "The Beatles",
@@ -1635,7 +1651,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef103"
+                "referenceId": "song__cRef104"
             },
             "Song__c": "I Want To Hold Your Hand",
             "Artist__c": "The Beatles",
@@ -1651,7 +1667,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef104"
+                "referenceId": "song__cRef105"
             },
             "Song__c": "Let It Be",
             "Artist__c": "The Beatles",
@@ -1667,7 +1683,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef105"
+                "referenceId": "song__cRef106"
             },
             "Song__c": "She Loves You",
             "Artist__c": "The Beatles",
@@ -1683,7 +1699,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef106"
+                "referenceId": "song__cRef107"
             },
             "Song__c": "Twist And Shout",
             "Artist__c": "The Beatles",
@@ -1699,7 +1715,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef107"
+                "referenceId": "song__cRef108"
             },
             "Song__c": "Yellow Submarine",
             "Artist__c": "The Beatles",
@@ -1715,7 +1731,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef108"
+                "referenceId": "song__cRef109"
             },
             "Song__c": "Zombie",
             "Artist__c": "The Cranberries",
@@ -1731,7 +1747,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef109"
+                "referenceId": "song__cRef110"
             },
             "Song__c": "Hotel California",
             "Artist__c": "The Eagles",
@@ -1747,7 +1763,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef110"
+                "referenceId": "song__cRef111"
             },
             "Song__c": "Sunny Afternoon",
             "Artist__c": "The Kinks",
@@ -1763,7 +1779,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef111"
+                "referenceId": "song__cRef112"
             },
             "Song__c": "I'm a Believer",
             "Artist__c": "The Monkees",
@@ -1779,7 +1795,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef112"
+                "referenceId": "song__cRef113"
             },
             "Song__c": "Happy Together",
             "Artist__c": "The Turtles",
@@ -1795,7 +1811,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef113"
+                "referenceId": "song__cRef114"
             },
             "Song__c": "Africa",
             "Artist__c": "Toto",
@@ -1811,7 +1827,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef114"
+                "referenceId": "song__cRef115"
             },
             "Song__c": "Las Mañanitas",
             "Artist__c": "Vicente Fernandez",
@@ -1827,7 +1843,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef115"
+                "referenceId": "song__cRef116"
             },
             "Song__c": "Blister in the Sun",
             "Artist__c": "Violent Femmes",
@@ -1843,7 +1859,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef116"
+                "referenceId": "song__cRef117"
             },
             "Song__c": "Love Is All Around",
             "Artist__c": "Wet Wet Wet",
@@ -1859,7 +1875,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef117"
+                "referenceId": "song__cRef118"
             },
             "Song__c": "Teenage Dirtbag",
             "Artist__c": "Wheatus",

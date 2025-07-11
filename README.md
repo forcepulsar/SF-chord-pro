@@ -55,7 +55,7 @@ sf org assign permset --name Pulsar_Music_Admin --target-org pulsarMusic_test
 6. Import sample data:
 ```bash
 # Export existing song data from the dev org
-sf data export tree --query "SELECT Song__c, Artist__c, Language__c, ChordPro_Content__c, Priority__c, My_Level__c, Difficulty__c, ChordPro_Status__c, Editing_Notes__c, Learning_resource__c FROM Song__c" --target-org PulsarMusicDevOrg --output-dir data
+sf data export tree --query "SELECT Song__c, Artist__c, Language__c, ChordPro_Content__c, Priority__c, My_Level__c, Difficulty__c, ChordPro_Status__c, Editing_Notes__c, Learning_resource__c FROM Song__c order by Artist__c,Song__c" --target-org PulsarMusicDevOrg --output-dir data
 
 # Import the exported song data into the new scratch org
 sf data import tree --files data/song__c.json --target-org pulsarMusic_test
