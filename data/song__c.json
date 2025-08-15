@@ -24,13 +24,13 @@
             "Song__c": "Take On Me",
             "Artist__c": "a-ha",
             "Language__c": "English",
-            "ChordPro_Content__c": "{title: Take On Me}\n{st: a-ha}\nCapo on 2\n{c:Intro}\n[Am]Am   [D/F#]D/F#   [G]G   [C]C [G/B]Gmaj7/B\n\n{c:Verse 1}\n[Am]Talking awa[D/F#]y\nWell, [Em]I don't know what I'm to say\nI'll [Am]say it anywa[D/F#]y\nTo[Em]day's another day to find you\n[Am]  Shying aw[D/F#]ay\n[Em]  I'll be coming for your [C]love, ok?\n\n{soc}\n{c:Chorus}\n[G]Take   [D]on   [Em]me[D/F#]\n[G]Take   [Bm]me   [Em]on[C]\n[G]I'll   [B7]be   [Em]gone[C]\nIn a day or[G] two[D/F#]...[C][D]\n\n{eoc}\n\n{c:Verse 2}\nSo [Am]needless to s[D/F#]ay\nI'm [Em]odds and ends, but that's me,\nI'm [Am]stumbling away[D/F#]\n[Em]Slowly learning that life is ok and\n[Am]  Say after m[D/F#]e\n[Em] It's no better to be [C]safe than sorry and\n\n{soc}\n{c:Chorus}\n[G] Take  [D]on   [Em]me[D/F#]\n[G]Take   [Bm]me   o[Em]n[C]\n[G]I'll   [B7]be   [Em]gone[C]\nIn a day or[G] two.[D/F#]..[C][D]\n\n{eoc}\n\n{c:Bridge}\n[Am]Am   [D]D   [G]G   [C]C [G/B]Gmaj7/B\n[Am   D   Am   D]\n\n{c:Verse 3}\nAnd all [Am]things that you say[D/F#]\n[Em]Is it life or just to play\nMy [Am]worries away[D/F#]?\nYou're [Em]all the things I've got to remember\nYou're[Am] shying aw[D/F#]ay\n[Em]  I'll be coming for yo[C]u anyway\n\n{soc}\n{c:Chorus}\n[G]Take   [D]on   [Em]me[D/F#]\n[G]Take   [Bm]me   [Em]on[C]\n[G]I'll   [B7]be   [Em]gone[C]\nIn a day or[G] two.[Bm]..[Em][C]\n\n{eoc}\n\n{c:Outro}\n[G]I'll   [B7]be   [Em]gone[C]\nIn a day or[G] two.[D/F#]..[Em][C]\nIn a day or[G] two.[D/F#]..[C]\n\n================\ngently softly playing, strum/picked combination",
-            "Priority__c": "1",
-            "My_Level__c": "In Progress",
+            "ChordPro_Content__c": "{title: Take On Me}\n{st: a-ha}\n\n{c:Intro}\n[Am Am]\n\n{c:Verse 1}\n[Am]Talking away[D],  [G]I don’t know what[C] I’m to [C/B]say\nI’ll [Am]say it anywa[D]y, to[G]day’s another [C]day to [C/B]find you\n[Am]  Shyin' a[D]way,[Em] I’ll be coming for your[C] love, OK?\n\n{soc}\n{c:Chorus}\n[G]Take[D/F#] on m[Em]e  ([C]take on me)\n[G]Take[Bm] me o[Em]n  ([C]take on me)\n[G]I'll[B7] be g[Em]one[C]\nin a day or[G] tw[D]o[C][D]\n{eoc}\n\n{c:Verse 2}\nSo, [Am]needless to sa[D]y I'm [G]odds and ends,[C] but I'll [C/B]be\n[Am]stumbling aw[D]ake [G]slowly learning that [C]life is O[C/B]K\n[Am]Say after m[D]e, [Em] it’s no better to be[C] safe than sorry\n\n{soc}\n{c:Chorus}\n[G]Take[D/F#] on m[Em]e  ([C]take on me)\n[G]Take[Bm] me o[Em]n  ([C]take on me)\n[G]I'll[B7] be g[Em]one[C]\nin a day or[G] tw[D]o[C][D]\n{eoc}\n\n{c:Instrumental}\n[Bm][F] [Bm][F]\n[Am  D G C C/B]\n[Am  D G  ]\n\n{c:Verse 3}\nOh, the [Am]things that you sa[D]y, yeah, [G]is it life or[C]\njust to [G/B]play\nMy [Am]worries awa[D]y, you’re [G]all the things I’ve [C]got to\n re[G/B]member\n[Am]   You are shying a[D]way,[Em] I’ll be coming for [C]you anyway\n\n{soc}\n{c:Chorus}\n[G]Take[D/F#] on m[Em]e  ([C]take on me)\n[G]Take[Bm] me o[Em]n  ([C]take on me)\n[G]I'll[B7] be g[Em]one[C]\nin a day or[G] tw[D]o[C][D]\n\n[G]I'll[B7] be g[Em]one[C]\nin a day or[G] tw[D/F#]o[C][D]\nin a day or[G] tw[D/F#]o[C][D]\n\n(Fade out)\n[G   D/F# Em  C]\n{eoc}\n\n================\ngently softly playing, strum/picked combination\nBased on unplugged version",
+            "Priority__c": null,
+            "My_Level__c": "Play Well",
             "Difficulty__c": "Easy",
-            "ChordPro_Status__c": "In Progress",
+            "ChordPro_Status__c": "Done",
             "Editing_Notes__c": null,
-            "Learning_resource__c": "<p>https://www.youtube.com/watch?v=1xCyzHJkLKM</p>"
+            "Learning_resource__c": "<p>https://www.youtube.com/watch?v=1xCyzHJkLKM</p><p>https://www.youtube.com/watch?v=Qwc36lY7rUI</p>"
         },
         {
             "attributes": {
@@ -136,13 +136,13 @@
             "Song__c": "Like A Stone",
             "Artist__c": "Audioslave",
             "Language__c": "English",
-            "ChordPro_Content__c": null,
+            "ChordPro_Content__c": "{title: Like A Stone Acoustic Live}\n{st: Chris Cornell}\n\n{c:Intro}\n[Am][G][Em7][F]\n[Am][G][Em7][F]\n\n{c:Verse 1}\nOn a [Am]cobweb af[G]ternoon\nIn a [Em7]room full of [F]emptiness\nBy a [Am]freeway [G]I confess\nI w[Em7]as lost in the [F]pages\n[Am]Of a book [G]full of death\n[Em7]Reading how we [F]die alone\n[Am]And if we're good we'll [G]lay to rest\n[Em7]   Anywhere we [F]wanna go [F]\n\n{soc}\n{c:Chorus}\n[Am]  In your [C]house I [G]long to [Am]be[Asus2]\n[Am]Room by [C]room [G]patient[Am]ly\nI'll [F]wait for you [Am]there\n[G]Like a [Am]stone I'll [F]wait for you [Am]there\nA[E]lone [E]\n\n{eoc}\n\n{c:Instrumental}\n[Am  G  Em7  F]\n\n{c:Verse 2}\nOn my [Am]deathbed [G]I will pray\nTo [Em7]the gods and the [F]angels\nTo the [Am]pagans [G]or anyone\nWho [Em7]will take me to [F]heaven\n[Am]To a place [G]I recall\n[Em7]I was there so [F]long ago\nThe [Am]sky was bruised\nThe [G]wine was bled\nAnd [Em7]there you led me [F]on\n\n{soc}\n{c:Chorus}\n[Am]  In your [C]house I [G]long to [Am]be[Asus2]\n[Am]Room by [C]room [G]patient[Am]ly\nI'll [F]wait for you [Am]there\n[G]Like a st[Am]one I'll [F]wait for you [Am]there\nA[E]lone    A[E]lone\n\n{eoc}\n\n{c:Bridge}\nAnd [F]on I [C]read\n[E]  Until the day was [F]gone\nAnd I [Fm]fell in reg[D]ret\nFor [E]all the things I've [Am]done\n[F]  For all that I've [C]blessed\nAnd [E]all that I've [F]wronged\nIn [Fm]dreams until my [D]death\nI [E]wander on\n\n{soc}\n{c:Chorus}\n[Am]  In your [C]house[F] I long to b[Am]e[Asus2]\n[Am]Room by [C]room [G]patient[Am]ly\nI'll [F]wait for you [Am]there\n[G]Like a [Am]stone I'll [F]wait for you t[Am]here\nA[E]lone    A[E]lone[F]\n{eoc}",
             "Priority__c": null,
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Easy",
-            "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": "https://www.guitarzero2hero.com/song/1429/like-a-stone-acoustic-audioslave-guitar-lesson",
-            "Learning_resource__c": null
+            "ChordPro_Status__c": "In Progress",
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.guitarzero2hero.com/song/1429/like-a-stone-acoustic-audioslave-guitar-lesson</p><p>Chris Cornell live https://www.youtube.com/watch?v=qpLQv5xL9Dc</p>"
         },
         {
             "attributes": {
@@ -152,12 +152,12 @@
             "Song__c": "Hey Brother",
             "Artist__c": "Avicci",
             "Language__c": "English",
-            "ChordPro_Content__c": null,
-            "Priority__c": "9",
+            "ChordPro_Content__c": "{title: Hey Brother}\n{st: Avicii}\nCapo: 3rd fret\n\n{c:Intro}\n|Em     |      |\n\n{c:Verse 1}\n|Em  |                 6/4|C       G       D   4/4|Em\n Hey  brother! There's an  endless road to re-  discover.\n|Em  |              6/4|C       G         D     4/4|Em\n Hey  sister! Know the  water's sweet but blood is  thicker.\n\n|D           |G         C      |D        |D\n Oooh, if the sky comes falling down, for you, there's\n|G6              C               |Em     |Stop...\n nothing in this world I wouldn't do.\n\n{c:Verse 2}\n|Em  |             6/4|C       G        D  4/4|Em\n Hey  brother! Do you  still believe in one  another?\n|Em  |            6/4|C       G        D    4/4|Em\n Hey  sister! Do you  still believe in love?  I wonder\n\n|D           |G         C      |D        |D\n Oooh, if the sky comes falling down, for you, there's\n|G6              C               |Em     |Stop...\n nothing in this world I wouldn't do.\n\n{soc}\n{c:Chorus}\n     |Em           6/4|C        G\nah-ah-ah, What if I'm  far from home?\n 4/4|                  D/F#   |Em\nOh   brother, I will hear you call!\n       6/4|C       G\nWhat if I  lose it all?\n  |G\nOh sister, I will help you out!\n\n|D           |G         C      |D        |D\n Oooh, if the sky comes falling down, for you, there's\n|G6              C               |Em     |Stop...\n nothing in this world I wouldn't do.\n\n||: Em     |C   D    |Em     |G  D/F# :||6x  ---> |Em (Stop)  |Em\n||\n\n{eoc}\n\n{c:Verse 3}\n|Em  |                 6/4|C       G       D   4/4|Em\n Hey  brother! There's an  endless road to re-  discover.\n|Em  |            6/4|C        G       D    4/4|Em\n Hey  sister! Do you  still believe in love?  I wonder\n\n|D           |G         C      |D        |D\n Oooh, if the sky comes falling down, for you, there's\n|G6              C               |Em     |Stop...\n nothing in this world I wouldn't do.\n\n{soc}\n{c:Chorus}\n     |Em           6/4|C        G\nah-ah-ah, What if I'm  far from home?\n 4/4|                  D/F#   |Em\nOh   brother, I will hear you call!\n       6/4|C       G\nWhat if I  lose it all?\n  |G\nOh sister, I will help you out!\n\n|D           |G         C      |D        |D\n Oooh, if the sky comes falling down, for you, there's\n|G6              C               |Em     |Stop...\n nothing in this world I wouldn't do.\n\n{eoc}\n\n{c:Ending}\n||: Em     |C   D    |Em     |G  D/F#\n\n=======\nTime signature is 4/4, but there is a change to 6/4 and back in the  verses!\n\nEm on intro and verse \n |60 42 60 42 60 42 60 42|",
+            "Priority__c": null,
             "My_Level__c": "Want to Learn",
-            "Difficulty__c": "Medium",
-            "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null,
+            "Difficulty__c": "Easy",
+            "ChordPro_Status__c": "In Progress",
+            "Editing_Notes__c": "update content as chords don't match lytrics properly go through the song",
             "Learning_resource__c": "https://www.youtube.com/watch?v=AQ4yNdHi8ug"
         },
         {
@@ -197,21 +197,37 @@
                 "type": "song__c",
                 "referenceId": "song__cRef13"
             },
-            "Song__c": "Blowin In The Wind",
-            "Artist__c": "Bob Dylan",
+            "Song__c": "Lean On Me",
+            "Artist__c": "Bill Withers",
             "Language__c": "English",
-            "ChordPro_Content__c": "{t:Blowin In The Wind}\n{st:Bob Dylan}\n{artist:Bob Dylan}\nCapo: 5th Fret\n\n{c:Verse}\nA        D            E        A\nHow many roads must a man walk down,\n           D          A\nbefore you call him a man\nA        D           E          A\nHow many seas must a white dove sail,\n           D             E\nbefore she sleeps in the sand\n         A        D              E           A\nYes, and how many times must the cannonballs fly,\n               D       A\nbefore they're forever banned\n \n{c:Chorus}\nD            E        A                D\nThe answer my friend is blowin' in the wind\n              E              A\nThe answer is blowin' in the wind\n \n[Harmonica Refrain]\n| D  E  | A  D  | D  E  | A     |\n \n{c:Verse}\n         A        D           E         A\nYes, and how many years can a mountain exist,\n             D             A\nbefore it is washed to the sea\n         A        D              E      A\nYes, and how many years can some people exist,\n               D             E\nbefore they're allowed to be free\n         A        D           E            A\nYes, and how many times can a man turn his head,\n                     D           A\nand pretend that he just doesn't see\n \n{soc}\n{c:Chorus}\nD            E        A                D\nThe answer my friend is blowin' in the wind\n              E              A\nThe answer is blowin' in the wind\n{soc}\n\n[Harmonica Refrain]\n| D  E  | A  D  | D  E  | A     |\n \n{c:Verse}\n         A        D            E        A\nYes, and how many times must a man look up,\n              D       A\nbefore he can see the sky\n         A        D         E       A\nYes, and how many ears must one man have,\n              D           E\nbefore he can hear people cry\n         A        D              E            A\nYes, and how many deaths will it take till he knows,\n              D           A\nthat too many people have died\n \n{soc}\n{c:Chorus}\nD            E          A              D\nThe answer my friend is blowin' in the wind\n              E              A\nThe answer is blowin' in the wind\n{eoc} \n[Harmonica Outro]\n| D  E  | A  D  | D  E  | A     |\n\n\n===================\nAlternating bass\non D 40 53, on E 52 60, on A 50 42\n\nWithout Capo\n[D G A D G D]\n[D G A D G A]\n[D G A D G D]\n\n[G A D G A D]",
-            "Priority__c": "x",
-            "My_Level__c": "Need refresher",
-            "Difficulty__c": "Medium",
-            "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": "create the whole song again",
-            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/bob-dylan-blowin-in-the-wind-chords-tabs-guitar-lesson-bc-700</p>"
+            "ChordPro_Content__c": "{title: Lean On Me}\n{st: Bill Withers}\n\nG9   32323x or leave the 3rd out 3x323x\n\n{c:Intro}\n| C      F|(F)     C|(C)     Em|(Em) G9   |\n| C      F|(F)     C|(C)     G7|(G7) C    |\n\n{c:Verse 1}\n[C]Sometimes in our [F]lives\nWe all have [C]pain\nWe all have [Em]sor[G]row\n[C]But if we are [F]wise\nWe know that [C]there's always to[G7]mor[C]row\n\n{soc}\n{c:Chorus}\nLean on me[C], when you're not [F]strong\nAnd I'll be your [C]friend\nI'll help you [Em]carry [G]on\n[C]For it won't be [F]long\n'Til I'm gonna [C]need\nSomebody to [G7]lean [C]on\n\n{eoc}\n\n{c:Verse 2}\n[C]Please swallow your [F]pride\nIf I have [C]things\nYou need to [Em]bor[G]row\n[C]For no one can [F]fill\nThose of your [C]needs\nThat you won't [G7]let [C]show\n\n{c:Bridge}\nSo just [C]call on me brother, when you need a hand\nWe all [C]need somebody to [G7]lean [C]on\nI just [C]might have a problem that you'd understand\nWe all [C]need somebody to [G7]lean [C]on\n\n{soc}\n{c:Chorus}\nLean on me[C], when you're not [F]strong\nAnd I'll be your [C]friend\nI'll help you [Em]carry [G]on\n[C]For it won't be [F]long\n'Til I'm gonna [C]need\nSomebody to [G7]lean [C]on\n\n{eoc}\n\n{c:Bridge}\nSo just [C]call on me brother, when you need a hand\nWe all [C]need somebody to [G7]lean [C]on\nI just [C]might have a problem that you'd understand\nWe all [C]need somebody to [G7]lean [C]on\n\n{c:Verse 3}\n[C]If there is a [F]load\nyou have to [C]bear\nThat you can't [Em]car[G]ry\n[C]I'm right up the [F]road\nI'll share your [C]load\nIf you just [G7]call [C]me (call me)",
+            "Priority__c": null,
+            "My_Level__c": "Want to Learn",
+            "Difficulty__c": "Easy",
+            "ChordPro_Status__c": "In Progress",
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.youtube.com/watch?v=LbDvGu7bwKo</p>"
         },
         {
             "attributes": {
                 "type": "song__c",
                 "referenceId": "song__cRef14"
+            },
+            "Song__c": "Blowin In The Wind",
+            "Artist__c": "Bob Dylan",
+            "Language__c": "English",
+            "ChordPro_Content__c": "{title: Blowin In The Wind}\n{st: Bob Dylan}\nCapo: 5th Fret\n\n{c:Verse}\n[A]How many [D]roads must a [E]man walk [A]down,\nbefore you [D]call him a [A]man\n[A]How many [D]seas must a [E]white dove [A]sail,\nbefore she [D]sleeps in the [E]sand\nYes, and [A]how many [D]times must the [E]cannonballs [A]fly,\nbefore they're [D]forever [A]banned\n\n{soc}\n{c:Chorus}\n[D]The answer my[E] friend i[A]s blowin' in the [D]wind\nThe answer is [E]blowin' in the [A]wind\n\n{eoc}\n\n{c:Harmonica Refrain}\n| D  E  | A  D  | D  E  | A     |\n\n{c:Verse}\nYes, and [A]how many [D]years can a [E]mountain e[A]xist,\nbefore it is [D]washed to the [A]sea\nYes, and [A]how many [D]years can some [E]people [A]exist,\nbefore they're [D]allowed to be [E]free\nYes, and [A]how many [D]times can a [E]man turn his [A]head,\nand pretend that he j[D]ust doesn't [A]see\n\n{soc}\n{c:Chorus}\n[D]The answer my[E] friend i[A]s blowin' in the [D]wind\nThe answer is [E]blowin' in the [A]wind\n\n{eoc}\n\n{c:Harmonica Refrain}\n| D  E  | A  D  | D  E  | A     |\n\n{c:Verse}\nYes, and [A]how many [D]times must a [E]man look [A]up,\nbefore he can [D]see the [A]sky\nYes, and [A]how many [D]ears must [E]one man [A]have,\nbefore he can [D]hear people [E]cry\nYes, and [A]how many [D]deaths will it [E]take till he [A]knows,\nthat too many [D]people have [A]died\n\n{soc}\n{c:Chorus}\n[D]The answer my[E] friend is [A]blowin' in the [D]wind\nThe answer is [E]blowin' in the [A]wind\n\n{eoc}\n\n{c:Harmonica Outro}\n| D  E  | A  D  | D  E  | A     |\n\n\n===================\nAlternating bass\non D 40 53, on E 52 60, on A 50 42\n\nWithout Capo\n[D G A D G D]\n[D G A D G A]\n[D G A D G D]\n\n[G A D G A D]",
+            "Priority__c": "x",
+            "My_Level__c": "Need refresher",
+            "Difficulty__c": "Medium",
+            "ChordPro_Status__c": "In Progress",
+            "Editing_Notes__c": "go through whole song\r\nlearn embelishments",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/bob-dylan-blowin-in-the-wind-chords-tabs-guitar-lesson-bc-700</p>"
+        },
+        {
+            "attributes": {
+                "type": "song__c",
+                "referenceId": "song__cRef15"
             },
             "Song__c": "Knockin' On Heaven's door",
             "Artist__c": "Bob Dylan",
@@ -227,23 +243,23 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef15"
+                "referenceId": "song__cRef16"
             },
             "Song__c": "Like A Rolling Stone",
             "Artist__c": "Bob Dylan",
             "Language__c": "English",
-            "ChordPro_Content__c": null,
+            "ChordPro_Content__c": "{title: Like A Rolling Stone}\n{st: Bob Dylan}\n\n{c:Chords}\nFmaj7/C  x33210\nDm7      xx0211\n\n{c:Intro}\n[C  Fmaj7/C   C   Fmaj7/C   C   Fmaj7/C   C    Fmaj7/C]\n\n{c:Verse}\n[C]Once upon a time you [Dm7]dressed so fine\nYou [C/E]threw the bums a dime [F]in your prime[G],   didn't you?\n[C]  People'd call, say, \"[Dm7]Beware doll,\nyou're [C/E]bound to fall\" You thought [F]they were all [G] a kiddin' you\n\n[F]  You used to [G]  laugh about\n[F]  Everybody that was [G]  hangin' out\n\n[F] Now you d[C/E]on't [Dm7]talk so loud[C]\n[F] Now you d[C/E]on't [Dm7]seem so proud[C]\nAbout[Dm7] having to be scrounging [F]  your next [G]meal\n\n{soc}\n{c:Chorus}\nHow does it feel[C][F][G]\nHow does it feel[C][F][G]\nTo be without a home[C][F][G]\nLike a complete unknown[C][F][G]\nLike a rolling stone[C][F][G]\n\n{eoc}\n\n{c:Instrumental}\n[C  F  G]\n\n{c:Verse}\nAww, You've[C] gone to the [Dm7]finest school all righ[C/E]t, Miss Lonely\nBut you [F]know you only used to get [G]  juiced in it\nNo[C]body has ever taught you [Dm7]how to live out on the [C/E]street\nAnd now you're [F]gonna have to get [G]  used to it\n\n[F]  You said you'd neve[G]r  compromise\n[F]  With the mystery tramp, but now you[G]  realize\n\n[F] He's not [C/E]selling any[Dm7]  alibis[C]\n[F] As you stare into the [C/E]vacuum  [Dm7]of his eye[C]s\nAnd [Dm7]say do you want to[F]  make a [G]deal?\n\n{soc}\n{c:Chorus}\nHow does it feel[C][F][G]\nHow does it feel[C][F][G]\nTo be on your own[C][F][G]\nWith no direction home[C][F][G]\nA complete unknown[C][F][G]\nLike a rolling stone[C][F][G]\n\n{eoc}\n\n{c:Instrumental}\n[C  F  G]\n\n{c:Verse}\nAww, You[C] never turned a[Dm7]round to see the frowns[C/E]\nOn the jugglers and the [F]clowns when they all did [G]  tricks for you\nYou [C]never understood that it [Dm7]ain't no good\nYou [C/E]shouldn't let other [F]people get your [G]  kicks for you\n\n[F]  You used to ride on the chrome horse with your [G]  diplomat\n[F]  Who carried on his shoulder a [G]  Siamese cat\n\n[F] Ain't it hard[C/E]  when you dis[Dm7]cover tha[C]t\n[F] He really [C/E]wasn't  [Dm7]where it's a[C]t\nAfter[Dm7] he took from you everything[F]  he could [G]steal\n\n{soc}\n{c:Chorus}\nHow does it feel[C][F][G]\nHow does it feel[C][F][G]\nTo have you on your own[C][F][G]\nWith no direction home[C][F][G]\nLike a complete unknow[C]n[F][G]\nLike a rolling stone[C][F][G]\n\n{eoc}\n\n{c:Instrumental}\n[C  F  G]\n\n{c:Verse}\nAww[C], Princess on the [Dm7]steeple and all the [Em]pretty people\nThey're all [F]drinkin', thinkin' that they [G]  got it made\n[C] Exchanging all p[Dm7]recious gifts[Em]\nBut you'd better [F]take your diamond ring,[G] you'd better pawn it babe\n\n[F]  You used to be[G] so amused\n[F]  At Napoleon in rags[G] and the language that he used\n\n[F] Go to him now, he [Em]calls you, you [Dm7]can't refuse[C]\n[F] When you ain't got [Em]nothing, you got[Dm7] nothing to los[C]e\n You're[Dm7] invisible now, you got no[F] secrets to [G]conceal\n\n{soc}\n{c:Chorus}\nHow does it feel[C][F][G]\nHow does it feel[C][F][G]\nTo be on your own[C][F][G]\nWith no direction home[C][F][G]\nLike a complete unknow[C]n[F][G]\nLike a rolling stone[C][F][G]\n\n{eoc}\n\n{c:Instrumental}\n[C  F  G]\n\n=======================\nuse power chords to change things up\nC/E 0x2010",
             "Priority__c": "x",
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Hard",
-            "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null,
-            "Learning_resource__c": "https://www.youtube.com/watch?v=pCzB5h5qH5w"
+            "ChordPro_Status__c": "In Progress",
+            "Editing_Notes__c": "go through song with lesson, update song chords/lyrics\r\nadd/learn embelishmetns",
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/bob-dylan-like-a-rolling-stone-chords-tabs-guitar-lesson-sg-175</p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef16"
+                "referenceId": "song__cRef17"
             },
             "Song__c": "Don't Worry Be Happy",
             "Artist__c": "Bobby McFerrin",
@@ -259,7 +275,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef17"
+                "referenceId": "song__cRef18"
             },
             "Song__c": "It's My Life",
             "Artist__c": "Bon Jovi",
@@ -267,15 +283,15 @@
             "ChordPro_Content__c": "{t:It's My Life}\r\n{st:Bon Jovi}\r\n{artist:Bon Jovi}\r\nCapo 3\r\n{c:Intro}\r\n[Am riff] [Am riff]\r\n{c:Verse 1}\r\n[Am*]This ain't a song for the broken-hearted [Am riff]\r\nNo [Am]silent prayer for faith departed [Am]\r\n[A5]I ain't gonna be just a face in the crowd\r\n[D5]You're gonna hear my voice When I shout it out loud\r\n\r\n{soc}\r\n{c:Chorus}\r\nIt's my [Am]life\r\nIt's [F]now or never\r\n[C/G]I ain't gonna [G]live forever\r\n[Am]I just wanna [F]live while I'm a[G]live\r\n(It's my [Am]life)\r\nMy heart is like an [F]open highway [C]\r\nLike Frankie said\r\nI [G]did it my way [Am]\r\nI just wanna [F]live while I'm a[G]live\r\nIt's my [Am]life\r\n{eoc}\r\n\r\n[Am] [Am] [Am] [Am] \r\n\r\n{c:Verse 2}\r\n[Am*]This is for the ones who stood their ground [Am]\r\nFor [Am]Tommy and Gina who never backed down [Am]\r\nTo[A5]morrow's getting harder, make no mistake\r\n[D5]Luck ain't even lucky Got to make your own breaks\r\n\r\n{soc}\r\n{c:Chorus}\r\nIt's my [Am]life\r\nIt's [F]now or never\r\n[C]I ain't gonna [G]live forever\r\n[Am]I just wanna [F]live while I'm a[G]live\r\n(It's my [Am]life)\r\nMy heart is like an [F]open highway [C]\r\nLike Frankie said\r\nI [G]did it my way [Am]\r\nI just wanna [F]live while I'm a[G]live\r\n'Cause it's my [F]life\r\n{eoc}\r\n\r\n{c:Solo}\r\n[(F) F  G G  F F D D]\r\n\r\n{c:Bridge}\r\n[Am*]Better stand tall when they're calling you out\r\nDon't bend, don't break, baby, don't back down\r\n\r\n{soc}\r\n{c:Chorus}\r\n[N.C.]It's my [Am]life\r\nIt's [F]now or never\r\n[C]I ain't gonna [G]live forever\r\n[Am]I just wanna [F]live while I'm a[G]live\r\n(It's my [Am]life)\r\nMy heart is like an [F]open highway [C]\r\nLike Frankie said\r\nI [G]did it my way [Am]\r\nI just wanna [F]live while I'm a[G]live\r\n\r\nIt's my [Am]life\r\nIt's [F]now or never\r\n[C]I ain't gonna [G]live forever\r\n[Am]I just wanna [F]live while I'm a[G]live\r\n(It's my [Am]life)\r\nMy heart is like an [F]open highway [C]\r\nLike Frankie said\r\nI [G]did it my way [Am]\r\nI just wanna [F]live while I'm a[G]live\r\n'Cause it's my [Am]life!\r\n{eoc}\r\n=================================",
             "Priority__c": null,
             "My_Level__c": "Play Well",
-            "Difficulty__c": "Easy",
+            "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
             "Editing_Notes__c": "update the chords in the verse, as F G might not be really used for my version",
-            "Learning_resource__c": null
+            "Learning_resource__c": "<p>https://www.youtube.com/watch?v=VhMQa5274fk</p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef18"
+                "referenceId": "song__cRef19"
             },
             "Song__c": "Livin On A Prayer",
             "Artist__c": "Bon Jovi",
@@ -291,7 +307,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef19"
+                "referenceId": "song__cRef20"
             },
             "Song__c": "Wanted Dead or Alive",
             "Artist__c": "Bon Jovi",
@@ -307,7 +323,23 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef20"
+                "referenceId": "song__cRef21"
+            },
+            "Song__c": "Total Eclipse of the Heart",
+            "Artist__c": "Bonnie Tyler",
+            "Language__c": "English",
+            "ChordPro_Content__c": "{title: Total Eclipse Of The Heart}\n{st: Bonnie Tyler}\nBased on Larkin Poe's arrangement\n\n{c:Intro}\n[Am]\n{c:Verse 1}\n[Am](Turn around) Every now and then I get a li[G]ttle bit lonely, and you're never coming round\n[Am](Turn around) Every now and then I get a li[G]ttle bit tired of listening to the sound of my tears\n[C](Turn around) Every now and then I get a li[Bb]ttle bit nervous that the best of all the years have gone by\n[C](Turn around) Every now and then I get a li[Bb]ttle bit terrified and then I see the look in your eyes\n[Eb](Turn around, [Ab]Bright eyes) Every now and then I fall apart\n[Eb](Turn around, [Ab]Bright eyes) Every now and then I fall a[G]part\n\n{soc}\n{c:Chorus}\nAnd I [Em]need you now, to[C]night, and I [D]need you more than [G]ever\nAnd if you [Em]only hold me [C]tight we'll be [D]holding on for[G]ever\nAnd we'll [Em]only be making it [C]right 'cause we'll [D]never be wrong\nTo[C]gether we can take it to the [D]end of the line\nYour [Em]love is like a shadow on me [A]all of the time [A]\nI [G]don't know what to do and I'm [D]always in the dark\nWe're [Em]living in a powder keg and [A]giving off sparks\nI really need you ton[G]ight, for[|D/F#]ever's gonna [G|]start to[C]night\nFor[D]ever's gonna start \n\n[G]Once upon a time I was [Em]falling in love but [B7]now I'm only falling a[C]part[C/B]\nThere's [Am]nothing I can do, a [D]total eclipse of the [G]heart\n\nAnd I [Em]need you now, to[C]night, and I [D]need you more than [G]ever\nAnd if you [Em]only hold me [C]tight we'll be [D]holding on for[G]ever\nAnd we'll [Em]only be making it [C]right 'cause we'll [D]never be wrong\nTo[C]gether we can take it to the [D]end of the line\nYour [Em]love is like a shadow on me [A]all of the time\nI really need you to[G]night, for[|D/F#]ever's gonna [G|]start to[C]night\nFor[D]ever's gonna start to[C]night\nfor[D/F#]ever's gonna start to[C]night\nFor[D]ever's gonna start \n\n{eoc}\n\n{c:Outro}\n[G]Once upon a time I was [Em]falling in love but [B7]now I'm only falling a[C]part[C/B]\n[Am]Nothing I can say, a [D]total eclipse of the [G]heart[Em][C]\nA [D]total eclipse of the [G]heart[Em][C]\nA [D]total eclipse of the [G]heart\n\n===========================\nOriginal has capo in 1 and has more sections",
+            "Priority__c": null,
+            "My_Level__c": "Play Well",
+            "Difficulty__c": "Medium",
+            "ChordPro_Status__c": "Done",
+            "Editing_Notes__c": "add the odd timings to make it easier to follow",
+            "Learning_resource__c": "<p>https://www.youtube.com/watch?v=YwgQQ3RiFEI</p>"
+        },
+        {
+            "attributes": {
+                "type": "song__c",
+                "referenceId": "song__cRef22"
             },
             "Song__c": "Baby One More Time",
             "Artist__c": "Britney Spears",
@@ -323,7 +355,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef21"
+                "referenceId": "song__cRef23"
             },
             "Song__c": "Count On Me",
             "Artist__c": "Bruno mars",
@@ -339,7 +371,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef22"
+                "referenceId": "song__cRef24"
             },
             "Song__c": "Summer of '69",
             "Artist__c": "Bryan Adams",
@@ -355,7 +387,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef23"
+                "referenceId": "song__cRef25"
             },
             "Song__c": "No Dejes Que",
             "Artist__c": "Caifanes",
@@ -371,23 +403,23 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef24"
+                "referenceId": "song__cRef26"
             },
             "Song__c": "Feel So Close",
             "Artist__c": "Calvin Harris",
             "Language__c": "English",
-            "ChordPro_Content__c": "{title: Feel So Close}\r\n{st: Calvin Harris}\r\n\r\n{sot}\r\nHere's 2 ways to play the main riff:\r\n(i recommend the 1st one on electric and the 2nd on acoustic)\r\n \r\n1st way :)\r\ne-------------------------------------------------------------------|\r\nB----13--13--13--13--12--12--12--12-12-12-12-12---------------------|\r\nG--12--12--12--12--12--12--12--12--9--9--9--9-----12--12--12--12----|\r\nD-----------------------------------------------10--10--10--10------|\r\nA-------------------------------------------------------------------|\r\nE ------------------------------------------------------------------|\r\n \r\n2nd way :)\r\ne-------------------------------------------------|\r\nB--1-1-1-1-0-0-0-0--0-0-0-0-----------------------|\r\nG-0-0-0-0-0-0-0-0------------0-0-0-0--------------|\r\nD------------------2-2-2-2------------------------|\r\nA---------------------------3-3-3-3---------------|\r\nE-------------------------------------------------|\r\n{eot}\r\n\r\n{c:Verse (Palm muted)}\r\n[Am7]I feel so cl[Em]ose to you right no[G]w\r\nIt's a force field [C]\r\n[Am]I wear my h[Em]eart upon my sleeve, [G]\r\nlike a big deal [C]\r\n[Am]Your love pours [Em]down on me,\r\nsurround [G]me like a waterfall [C]\r\nAnd [Am]there's no st[Em]opping us right now\r\n[G]I feel so [C]close to you right now\r\n\r\n{c:riff plays}\r\n\r\n{c:Verse}\r\n[Am]I feel so cl[Em]ose to you right no[G]w\r\nIt's a force field [C]\r\n[Am]I wear my h[Em]eart upon my sleeve, [G]\r\nlike a big deal [C]\r\n[Am]Your love pours [Em]down on me,\r\nsurround [G]me like a waterfall [C]\r\nAnd [Am]there's no st[Em]opping us right now\r\n[G]I feel so [C]close to you right now\r\n\r\n{c:riff plays}\r\n\r\n{c:Outro}\r\n[G]And there's no stopping us right no[C]w\r\n[G]And there's no stopping us right no[C]w\r\n[G]And there's no stopping us right no[C]w\r\n[Am]I feel so close to you right n[Em]ow...\r\n\r\n=================\r\nTo mimic piano,\r\n\r\nkeep 23 in all Em C G chords",
-            "Priority__c": "x",
+            "ChordPro_Content__c": "{title: Feel So Close}\n{st: Calvin Harris}\n\n{c:Verse}\n[Am7] I feel so cl[Em]ose to you right [G]now \nIt's a force field [C]\n[Am] I wear my h[Em]eart upon my slee [G]ve\nlike a big deal [C]\n[Am] Your love pours [Em]down on me,\nsur[G]round me like a waterfall [C]\n[Am] And there's no st[Em]opping us right now\n[G]  I feel so [C]close to you right now\n\n{c:riff plays}\n\n{c:Verse (Palm muted)}\n[Am7] I feel so cl[Em]ose to you right [G]now \nIt's a force field [C]\n[Am] I wear my h[Em]eart upon my slee [G]ve\nlike a big deal [C]\n[Am] Your love pours [Em]down on me,\nsur[G]round me like a waterfall [C]\n[Am] And there's no st[Em]opping us right now\n[G]  I feel so [C]close to you right now\n\n{c:riff plays}\n\n{c:Outro}\n[Am] And there's no st[Em]opping us right now [G][C]\n[Am] And there's no st[Em]opping us right now [G][C]\n[Am] And there's no st[Em]opping us right now \n[G]  I feel so [C]close to you right now\n\n\n{sot}\nHere's 2 ways to play the main riff:\n(i recommend the 1st one on electric and the 2nd on acoustic)\n \n1st way :)\ne-------------------------------------------------------------------|\nB----13--13--13--13--12--12--12--12-12-12-12-12---------------------|\nG--12--12--12--12--12--12--12--12--9--9--9--9-----12--12--12--12----|\nD-----------------------------------------------10--10--10--10------|\nA-------------------------------------------------------------------|\nE ------------------------------------------------------------------|\n \n2nd way :)\ne-------------------------------------------------|\nB--1-1-1-1-0-0-0-0--0-0-0-0-----------------------|\nG-0-0-0-0-0-0-0-0------------0-0-0-0--------------|\nD------------------2-2-2-2------------------------|\nA---------------------------3-3-3-3---------------|\nE-------------------------------------------------|\n{eot}\n\n\n=================\nTo mimic piano,\n\nkeep 23 in all Em C G chords\n\n16 notes strum can work great with a bit of palm muting on and off\nFor first verse just strum chord on 1st beat,",
+            "Priority__c": null,
             "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
-            "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "check the chords on outro.\r\nneed to be consistent with the rhythm and dynamics to play it as it's only 4 chords",
-            "Learning_resource__c": "<p>https://tabs.ultimate-guitar.com/tab/calvin-harris/feel-so-close-chords-1149607</p><p>https://www.youtube.com/watch?v=ryfx8WLMVQg</p>"
+            "ChordPro_Status__c": "Done",
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://tabs.ultimate-guitar.com/tab/calvin-harris/feel-so-close-chords-1149607</p><p>https://www.youtube.com/watch?v=ryfx8WLMVQg</p><p>https://www.youtube.com/watch?app=desktop&amp;v=9-m3aYdoChM</p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef25"
+                "referenceId": "song__cRef27"
             },
             "Song__c": "Father and Son",
             "Artist__c": "Cat Stevens",
@@ -403,7 +435,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef26"
+                "referenceId": "song__cRef28"
             },
             "Song__c": "Have you ever seen the rain",
             "Artist__c": "CCR",
@@ -419,7 +451,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef27"
+                "referenceId": "song__cRef29"
             },
             "Song__c": "Nothing compares to you",
             "Artist__c": "Chris Cornell / Sinéad O'Connor",
@@ -435,7 +467,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef28"
+                "referenceId": "song__cRef30"
             },
             "Song__c": "Yellow",
             "Artist__c": "Coldplay",
@@ -451,7 +483,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef29"
+                "referenceId": "song__cRef31"
             },
             "Song__c": "Get Lucky",
             "Artist__c": "Daft Punk",
@@ -467,7 +499,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef30"
+                "referenceId": "song__cRef32"
             },
             "Song__c": "Space Oddity",
             "Artist__c": "David Bowie",
@@ -483,23 +515,23 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef31"
+                "referenceId": "song__cRef33"
             },
             "Song__c": "Starman",
             "Artist__c": "David Bowie",
             "Language__c": "English",
-            "ChordPro_Content__c": "{t:Starman}\r\n{st:David Bowie}\r\n\r\n{c:Intro}\r\n[Bb/A] [Fmaj7] [Bb/A] Hey la la... [Fmaj7] Hey la la...\r\n\r\n{c:Verse 1}\r\n[Gm]Didn't know what time it was the lights were low-ow-ow.\r\n[F] I lean back on my radio-o-o\r\n[C] Some cat was laying down som[C7]e rock'n'roll,\r\n'Lotta soul' he said.[|F] [Ab] [Bb|]\r\n\r\n{c:Verse 2}\r\n[Gm] Then the loud sound did seem to fa-a-ade\r\n[F] Came back like a slow voice on a wave of pha-a-ase\r\n[C] That weren't no DJ that was [C7]hazy cosmic jive.[A] [G]\r\n\r\n{soc}\r\n{c:Chorus}\r\nThere's a [F]starman [Dm]waiting in the sky\r\nHe'd [|Am]like to come and [Am7/G|]meet us\r\nBut he [C]thinks he'd blow our[C7|] minds.\r\nThere's a [F]starman [Dm]waiting in the sky\r\nHe's [Am]told us not to [Am7/G]blow it\r\n'Cause he [C]knows it's all wor[C7]thwhile,\r\n\r\nHe told me,\r\n[Bb]   \"Let the [Bbm]children lose it[F], let the [D/F#]children use it,\r\n[Gm]   Let all the [C]children boogie.\"\r\n\r\n\r\n{eoc}\r\n\r\n{c:Interlude}\r\n[Bb   F   C   F   Bb   F   C]\r\n\r\n\r\n{c:Verse 3}\r\n[Gm]  Well I had to phone someone so I picked on you-ou-ou\r\n[F]  Hey that's far out, so you heard him too-oo-oo\r\n[C]  Switch on the TV we may [C7]pick him up on Channel 2[|F]. [Ab][Bb|]\r\n\r\n\r\n{c:Verse 4}\r\n[Gm]  Look out your window I can see his li-i-ight,\r\n[F]  If we can sparkle he may land toni-i-ight,\r\n[C] Don't tell your papa or he'll [C7]get us locked up in fright[A]. [G]\r\n\r\n\r\n{soc}\r\n{c:Chorus}\r\nThere's a [F]starman [Dm]waiting in the sky\r\nHe'd [Am]like to come and [Am7/G]meet us\r\nBut he [C]thinks he'd blow our m[C7]inds.\r\nThere's a [F]starman [Dm]waiting in the sky\r\nHe's [Am]told us not to [Am7/G]blow it\r\n'Cause he [C]knows it's all wort[C7]hwhile,\r\n\r\nHe told me,\r\n[Bb]   \"Let the [Bbm]children lose it[F], let the [D/F#]children use it,\r\n[Gm]   Let all the [C]children boogie.\"\r\n\r\n[F]  Starman [Dm]waiting in the sky\r\nHe'd [Am]like to come and [Am7/G]meet us\r\nBut he [C]thinks he'd blow our [C7]minds.\r\nThere's a [F]starman [Dm]waiting in the sky\r\nHe's [Am]told us not to [Am7/G]blow it\r\n'Cause he [C]knows it's all worth[C7]while,\r\n\r\nHe told me,\r\n[Bb]   \"Let the [Bbm]children lose it[F], let the [D/F#]children use it,\r\n[Gm]   Let all the [C]children boogie.\"\r\n{eoc}\r\n\r\n{c:Outro}\r\n[Bb   F   C   F]\r\n\r\n[Bb]La la la la [F]la, la la la [C]la, la la la [F]la, la la la la\r\n[Bb]La la la la [F]la, la la la [C]la, la la la [F]la, la la la la\r\n[Bb]La la la la [F]la, la la la [C]la, la la la [F]la, la la la la\r\n[Bb]La la la la [F]la, la la la [C]la, la la la [F]la, la la la la\r\n\r\n(Fade out)",
+            "ChordPro_Content__c": "{t:Starman}\n{st:David Bowie}\n\n{c:Intro}\n[Bb] [Fmaj7] [Bb] Hey la la... [Fmaj7] Hey la la...\n\n{c:Verse 1}\n[Gm]Didn't know what time it was the lights were low-ow-ow.\n[F] I lean back on my radio-o-o\n[C] Some cat was laying down som[C7]e rock'n'roll,\n'Lotta soul' he said.[|F] [Ab] [Bb|]\n\n{c:Verse 2}\n[Gm] Then the loud sound did seem to fa-a-ade\n[F] Came back like a slow voice on a wave of pha-a-ase\n[C] That weren't no DJ that was [C7]hazy cosmic jive.[A] [G]\n\n{soc}\n{c:Chorus}\nThere's a [F]starman [Dm]waiting in the sky\nHe'd [|Am]like to come and [Am7/G|]meet us\nBut he [C]thinks he'd blow our[C7|] minds.\nThere's a [F]starman [Dm]waiting in the sky\nHe's [Am]told us not to [Am7/G]blow it\n'Cause he [C]knows it's all wor[C7]thwhile,\n\nHe told me,\n[Bb]   \"Let the [Bbm]children lose it[F], let the [D/F#]children use it,\n[Gm]   Let all the [C]children boogie.\"\n\n\n{eoc}\n\n{c:Interlude}\n[Bb   F   C   F   Bb   F   C]\n\n\n{c:Verse 3}\n[Gm]  Well I had to phone someone so I picked on you-ou-ou\n[F]  Hey that's far out, so you heard him too-oo-oo\n[C]  Switch on the TV we may [C7]pick him up on Channel 2[|F]. [Ab][Bb|]\n\n\n{c:Verse 4}\n[Gm]  Look out your window I can see his li-i-ight,\n[F]  If we can sparkle he may land toni-i-ight,\n[C] Don't tell your papa or he'll [C7]get us locked up in fright[A]. [G]\n\n\n{soc}\n{c:Chorus}\nThere's a [F]starman [Dm]waiting in the sky\nHe'd [Am]like to come and [Am7/G]meet us\nBut he [C]thinks he'd blow our m[C7]inds.\nThere's a [F]starman [Dm]waiting in the sky\nHe's [Am]told us not to [Am7/G]blow it\n'Cause he [C]knows it's all wort[C7]hwhile,\n\nHe told me,\n[Bb]   \"Let the [Bbm]children lose it[F], let the [D/F#]children use it,\n[Gm]   Let all the [C]children boogie.\"\n\n[F]  Starman [Dm]waiting in the sky\nHe'd [Am]like to come and [Am7/G]meet us\nBut he [C]thinks he'd blow our [C7]minds.\nThere's a [F]starman [Dm]waiting in the sky\nHe's [Am]told us not to [Am7/G]blow it\n'Cause he [C]knows it's all worth[C7]while,\n\nHe told me,\n[Bb]   \"Let the [Bbm]children lose it[F], let the [D/F#]children use it,\n[Gm]   Let all the [C]children boogie.\"\n{eoc}\n\n{c:Outro}\n[Bb   F   C   F]\n\n[Bb]La la la la [F]la, la la la [C]la, la la la [F]la, la la la la\n[Bb]La la la la [F]la, la la la [C]la, la la la [F]la, la la la la\n[Bb]La la la la [F]la, la la la [C]la, la la la [F]la, la la la la\n[Bb]La la la la [F]la, la la la [C]la, la la la [F]la, la la la la\n\n(Fade out)\n\n============\nintro Bb can be played with open 1st string\nBb 688760",
             "Priority__c": null,
             "My_Level__c": "Need refresher",
             "Difficulty__c": "Medium",
-            "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "Add Chords fingering for intro",
+            "ChordPro_Status__c": "Done",
+            "Editing_Notes__c": null,
             "Learning_resource__c": "<p>https://youtu.be/b4vOxYfAgwY</p><p><br></p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef32"
+                "referenceId": "song__cRef34"
             },
             "Song__c": "Shape of You",
             "Artist__c": "Ed Sheeran",
@@ -515,7 +547,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef33"
+                "referenceId": "song__cRef35"
             },
             "Song__c": "Society",
             "Artist__c": "Eddie Vedder",
@@ -531,7 +563,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef34"
+                "referenceId": "song__cRef36"
             },
             "Song__c": "I Can't Help Falling In Love With You",
             "Artist__c": "Elvis Presley",
@@ -547,7 +579,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef35"
+                "referenceId": "song__cRef37"
             },
             "Song__c": "Lamento Boliviano",
             "Artist__c": "Enanitos Verdes",
@@ -563,7 +595,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef36"
+                "referenceId": "song__cRef38"
             },
             "Song__c": "Bailando",
             "Artist__c": "Enrique Iglesias",
@@ -579,7 +611,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef37"
+                "referenceId": "song__cRef39"
             },
             "Song__c": "Tears In Heaven",
             "Artist__c": "Eric Clapton",
@@ -595,7 +627,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef38"
+                "referenceId": "song__cRef40"
             },
             "Song__c": "Wonderful Tonight",
             "Artist__c": "Eric Clapton",
@@ -611,7 +643,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef39"
+                "referenceId": "song__cRef41"
             },
             "Song__c": "I'd Rather Go Blind",
             "Artist__c": "Etta James",
@@ -619,7 +651,7 @@
             "ChordPro_Content__c": "{title: I'd Rather Go Blind}\n{st: Etta James}\n[Capo 7th fret]\n\n{c:Verse}\n[D]Something told me it was [Em]over\nwhen I saw you and h[D]er talking,\nSomething deep down in my so[Em]ul said, ´Cry Girl´,\nwhen I saw you and that g[D]irl, walking out.\n\n{soc}\n{c:Chorus}\nI would rather, I would rathe[Em]r go blind boy,\nThan to see you, walk away from m[D]e child, and all.\nOoooo  [D]So you see, I love you so much\n[Em]  That I don't want to watch you leave me baby,\nMost of all, I just don't, I just d[D]on't want to be\n free no\n\n{eoc}\n\n{c:Verse}\nI was just, I was [Em]just, I was just sitting here\nthinking\nOf your kisses and your warm[D] embrace, yeah,\nWhen the reflection in the glass[Em] that I held to my\n lips now baby,\nRevealed the tears that was on my [D]face, yeah.\n\n{soc}\n{c:Chorus}\nAnd baby, baby, I would rather be [Em]blind boy\n\nThan to see you walk away, see you walk away from\n[D]me, yeah\nBaby, baby, baby, I'd rather be [Em]blind now\n{eoc}\n\n=====================\nStrumming: triplet strumming:\n1-tri-plet-2-tri-plet-3-tri-plet-4-tri-plet\nAdding upstrokes work too, for more energy\n\nEmbelishments:\nhammer Em chord\nHammer Am fingers 2 & 3\n\nRiff: 50 52 after the 4 beat, so it'll be like 3-tri-plet-4-50-52-1-tri-plet\n\nIt can be played without Capo A - Bm or Capo on 2 G - Am",
             "Priority__c": null,
             "My_Level__c": "In Progress",
-            "Difficulty__c": "Easy",
+            "Difficulty__c": "Medium",
             "ChordPro_Status__c": "Done",
             "Editing_Notes__c": null,
             "Learning_resource__c": "<p>https://www.justinguitar.com/songs/etta-james-i-d-rather-go-blind-chords-tabs-guitar-lesson-bs-203</p>"
@@ -627,12 +659,12 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef40"
+                "referenceId": "song__cRef42"
             },
             "Song__c": "The Final Countdown",
             "Artist__c": "Europe",
             "Language__c": "English",
-            "ChordPro_Content__c": "{t:The Final Countdown}\n{st:Europe}\n{artist:Europe}\n\nCAPO: 2 | 118 BPM\n \n{c:Intro}\n[|Em |C |Am |D (4x)] \n[|Em D/F# |G C |B7sus | B7|]\n[|Em |C |Am |D (2x)] \n[|Em D/F# |G C |B7sus | B7|]\n[|Em (4x)] \n\n{c:Verse 1}\n[Em] We're leaving to[Em]gether,\nbut [Em]still it's fare[Am]well\n[Em] And maybe we'll [Em]come back, [|Em]\nto [D/F#]earth, who can [|G]tell\n[C]  I guess there is [D]no-one to blame,\n[|G] we're [D/F#]leaving [|Em]ground ([Em/D]leaving [|C]ground)\nWill things ever [Bm]be the same ag[D]ain\n\n{soc}\n{c:Chorus}\nIt's the final [Em]countdown [C] [Am] [D]\nThe final [Em]countdown[C][Am][D]\n{eoc}\n\n{c:Verse 2}\n[Em] We're heading for Venus (Venus)\nand still we st[Am]and tall\n[Em] 'Cos maybe they've [Em]seen us\n[|Em] and [D/F#]welcome us [|G]all\n[C] With so many [D]light years to go\n[|G] and [D/F#]things to [|Em]be found ([Em/D]to be [|C]found)\nI'm sure that we'll [Bm]all miss her s[D]o\n\n{soc}\n{c:Chorus}\nIt's the final [Em]countdown [C] [Am] [D]\nThe final [Em]countdown[C][Am][D]\nThe final [|Em]countdown[D/F#][|G][C][|B7sus][B7]\n{eoc}\n\n{c:Solo}\n[Am] [G] [C] [F] [Dm] [G] [Am] [Em] \n[Am] [G] [C] [F] [Dm] [G] [Am] [Bm] \n\n{c:Interlude}\n[Em C Am D (2x)]\n\nThe final [|Em]countdown[D/F#][|G][C][|B7sus][B7]\n\n{soc}\n{c:Chorus}\nIt's the final [Em]countdown [C] [Am] [D]\nThe final [Em]countdown[C][Am][D]\n\n(Fade out with chorus)\n{eoc}\n\n======================\nIntro: Strum Chord and sing the iconic riff\nStruming D DU UD \nLast D of verse: mDDmDDmD\nLast D of verse: 1&2&3&4&   \n\nB7sus x2220x\nB7    x2120x\nEm/D  x55000",
+            "ChordPro_Content__c": "{t:The Final Countdown}\n{st:Europe}\n{artist:Europe}\n\nCAPO: 2 | 118 BPM\n \n{c:Intro}\n[|Em |C |Am |D (4x)] \n[|Em D/F# |G C |B7sus | B7|]\n[|Em |C |Am |D (2x)] \n[|Em D/F# |G C |B7sus | B7|]\n[|Em (4x)] \n\n{c:Verse 1}\n[Em] We're leaving to[Em]gether,\nbut [Em]still it's fare[Am]well\n[Em] And maybe we'll [Em]come back, [|Em]\nto [D/F#]earth, who can [|G]tell\n[C]  I guess there is [D]no-one to blame,\n[|G] we're [D/F#]leaving [|Em]ground ([Em/D]leaving [|C]ground)\nWill things ever [Bm]be the same ag[D]ain\n\n{soc}\n{c:Chorus}\nIt's the final [Em]countdown [C] [Am] [D]\nThe final [Em]countdown[C][Am][D]\n{eoc}\n\n{c:Verse 2}\n[Em] We're heading for Venus (Venus)\nand still we st[Am]and tall\n[Em] 'Cos maybe they've [Em]seen us\n[|Em] and [D/F#]welcome us [|G]all\n[C] With so many [D]light years to go\n[|G] and [D/F#]things to [|Em]be found ([Em/D]to be [|C]found)\nI'm sure that we'll [Bm]all miss her s[D]o\n\n{soc}\n{c:Chorus}\nIt's the final [Em]countdown [C] [Am] [D]\nThe final [Em]countdown[C][Am][D]\nThe final [|Em]countdown[D/F#][|G][C][|B7sus][B7]\n{eoc}\n\n{c:Solo}\n[Am] [G] [C] [F] [Dm] [G] [Am] [Em] \n[Am] [G] [C] [F] [Dm] [G] [Am] [Bm] \n\n{c:Interlude}\n[Em C Am D (2x)]\n\nThe final [|Em]countdown[D/F#][|G][C][|B7sus][B7]\n\n{soc}\n{c:Chorus}\nIt's the final [Em]countdown [C] [Am] [D]\nThe final [Em]countdown[C][Am][D]\n\n(Fade out with chorus)\n{eoc}\n\n======================\nIntro: Strum Chord and sing the iconic riff\n\nStruming D DU UD \nLast D of verse: mDDmDDmD\nLast D of verse: 1&2&3&4&   \n\n16 notes strumming works too. accent on 2 and 4th\n\nB7sus x2220x\nB7    x2120x\nEm/D  x55000",
             "Priority__c": null,
             "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
@@ -643,7 +675,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef41"
+                "referenceId": "song__cRef43"
             },
             "Song__c": "Vasos Vacios",
             "Artist__c": "Fabulosos Cadillacs",
@@ -659,29 +691,29 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef42"
+                "referenceId": "song__cRef44"
             },
             "Song__c": "No Soy de Aqui",
             "Artist__c": "Facundo Cabral",
             "Language__c": "Spanish",
-            "ChordPro_Content__c": null,
+            "ChordPro_Content__c": "{title: No Soy De Aquí}\n{st: Facundo Cabral}\n\n{c:Hablado:}\n'Me pongo el sol al hombro\ny el mundo es amarillo\ny si llueve, me mojo,\ny no me enojo por que no encojo.'\n\n'Una lechuga me basta y sobra\npara hacer sombra\ny qué me importa si no me nombran'.\n\n'Limpio mi vagón de carga,\nduermo una semana larga,\ncomo una porción de pizza\ny me vivo de la risa.'\n\n'Me gusta andar\npero no sigo el camino\npues lo seguro ya no tiene misterio,\nme gusta ir con el verano muy lejos\npara volver donde mi madre en invierno\ny ver los perros que jamás me olvidaron\ny los abrazos que me dan mis hermanos,\nme gusta, me gusta.'\n\n[Em]Me gusta el sol, Alicia[Am] y las palomas,\n[B7]el buen cigarro y las[Em] malas señoras,\nsaltar paredes y a[B7]brir las ventanas\ny cuando llora una mu[Em]jer.\n\n[Em]Me gusta el vino tanto[Am6] como las flores\n[B7]y los conejos pero[Em7] no los tractores[Em6],\n                   F#m7-5\nel pan casero y la voz de Dolores\n[B7]y el mar mojándome los[Em] pies.\n\n[Em]No soy de a[Am]quí ni soy de a[B7]llá\nno tengo e[Em7]dad ni porv[Em6]enir\ny ser fe[Am6]liz es mi c[B7]olor de iden[Em]tidad,\nno soy de aq[Am]uí ni soy de [B7]allá,\nno tengo e[Em7]dad ni porv[Em6]enir\ny ser fe[Am6]liz es mi co[B7]lor de iden[Em]tidad.\n\n[Em]Me gusta estar tirado[Am] simpre en la arena\n[B7]o en bicicleta pers[Em]eguir a Manuela\no todo el tiempo para [B7]ver las estrellas\ncon la María en el tri[Em]gal.\n\n[Em]No soy de aquí.....",
             "Priority__c": "x",
-            "My_Level__c": "Know basics",
+            "My_Level__c": "Want to Learn",
             "Difficulty__c": "Medium",
-            "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null,
+            "ChordPro_Status__c": "In Progress",
+            "Editing_Notes__c": "go thorugh song and learn it",
             "Learning_resource__c": "<p>https://www.youtube.com/watch?v=ObD2zfyAA5o</p><p>https://www.youtube.com/watch?v=Qxh2zYTF-C4</p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef43"
+                "referenceId": "song__cRef45"
             },
             "Song__c": "Everlong",
             "Artist__c": "Foo Fighters",
             "Language__c": "English",
             "ChordPro_Content__c": "{title: Everlong}\n{st: Foo Fighters}\nDrop D tuning\n{c:Intro}\n[Dmaj7  Bsus2  Gsus2 Bsus2]\n\n{c:Verse}\n[Dm]Hello\nI've [Bsus2]waited here for you\n[Gsus2]Everlo[Bsus2]ng\n[Dm]Tonight\nI [Bsus2]throw myself into\n[Gsus2]And out of the red[Bsus2], out of her head she sang\n[Dm]Come down\nAnd [Bsus2]waste away with me\n[Gsus2]Down with[Bsus2] me\n[Dm]Slow how\nYou [Bsus2]wanted it to be\n[Gsus2]I'm over my head[Bsus2], out of her head she sang\n\n{c:Pre-Chorus}\n[D A] And I[D] wonder [A]When I sing alon[D]g with you\n\n{soc}\n{c:Chorus}\n[B5]If everything could ev[G5]er feel this real fo[D5]rever\n[B5]If anything could ev[G5]er be this good ag[D5]ain\n[B5]The only thing I'll ev[G5]er ask of you\n[D5]  You've got to promise not [A5]to stop when I sa[G5]y when\nShe sang\n{eoc}\n\n{c:Instrumental}\n[Dmaj7 Bsus2 Gsus2   Bsus2]\n\n{c:Verse}\n[Dm]Breathe out\nSo [Bsus2]I could breathe you in\n[Gsus2]Hold you [Bsus2]in\n[Dm]And now\nI [Bsus2]know you've always been\n[Gsus2]Out of your head, [Bsus2]out of my head I sang\n\n{c:Pre-Chorus}\n[D A] And I[D] wonder [A]When I sing alon[D]g with you\n\n{soc}\n{c:Chorus}\n[B5]If everything could ev[G5]er feel this real fo[D5]rever\n[B5]If anything could ev[G5]er be this good ag[D5]ain\n[B5]The only thing I'll ev[G5]er ask of you\n[D5]  You've got to promise not [A5]to stop when I sa[G5]y when\nShe sang\n{eoc}\n\n{c:Instrumental}\n[Dmaj7  Bsus2  Gsus2 Bsus2]\n\n{c:Pre-Chorus}\n[D  D  D]\n\n[D]And I wonder\n[B5]If everything could ev[G5]er feel this real fo[D5]rever\n[B5]If anything could ev[G5]er be this good ag[D5]ain\n[B5]The only thing I'll ev[G5]er ask of you\n[D5]\nYou've got to promise not [A5]to stop when I sa[G5]y when\n\n==================\nChords used\nDMaj7 09 11 xxx\nBsus2 99 11 xxx\nGsus2 557xxx\n\naccents on 2, 3, & (after 4)\nriff 1: down strums, palm muting\n1&2&3&4&\n__X_X__X\n\nriff 1 extension: up and down strums, add pinky finger to 3rd string. It's added on the upstrum.  This works on the D and B.  For G need just change chord to 5576xx\n\nriff 2: octive shapes\n\nx406xx\nx508xx\nx7010xx\nx9011xx\nx10 0 12xx\n\nA 7779xx push early\nB 99911xx push early\nG 5557xx push early\nD 0547xx",
-            "Priority__c": null,
+            "Priority__c": "1",
             "My_Level__c": "In Progress",
             "Difficulty__c": "Very Hard",
             "ChordPro_Status__c": "In Progress",
@@ -691,39 +723,39 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef44"
+                "referenceId": "song__cRef46"
             },
             "Song__c": "I want to know what love is",
             "Artist__c": "Foreigners",
             "Language__c": "English",
-            "ChordPro_Content__c": null,
-            "Priority__c": "x",
-            "My_Level__c": "Want to Learn",
+            "ChordPro_Content__c": "{title: I Want To Know What Love Is}\n{st: Foreigner}\n\n{c:Intro}\n| Em ' ' D | G ' ' ' | C ' | Em ' ' ' | Em ' ' ' |\n\n{c:Verse 1}\n[Em]   I've gotta take a l[D]ittle tim[G]e, a little [C]time\nto think things [Em]over.\n[Em]   I better read be[D]tween the lin[G]es, in case I [C]need\nit when I'm [Em]older.\n\n[Em]   Now, this mountain I [D]must clim[G]b feels [C]like the\nworld[Em] upon my shoulders.\n[Em]   Through the clouds I [D]see lov[G]e shine.  It keeps\nme [C]warm as life [Em]grows colder.\n\n{c:Pre-Chorus}\nIn my [Am7]life there's been [D]heartache and [Am]pain.\n[Am7]I don't know if I can [D]face it [Am]again.\n[Am7]   Can't stop now.  I've [D]travelled s[Am]o far to[C]\ncha[G]nge t[Am]his lon[C/D]ely life.\n\n{soc}\n{c:Chorus}\nG                   Em    D   *1* Am\n  I wanna know what love is.         I want you\nEm    D    *1*\nto show me.\nG                   Em    D   *1* Am            Em\n  I wanna feel what love is.         I know you\n     D     D7   Em   *2*\ncan show me.\n\n{eoc}\n\n{c:Verse 2}\n[Em]   I'm gonna take a l[D]ittle tim[G]e, a little [C]time to\nlook[Em] around me.\n[Em]   I've got now[D]here left to [G]hide.  It looks like[C]\nlove has finall[Em]y found me.\n\n{c:Pre-Chorus}\nIn my [Am7]life there's been [D]heartache and [Am]pain.\n[Am7]I don't know if I could [D]face it [Am]again.\n[Am7]   Can't stop now.  I've [D]travelled s[Am]o far to[C]\ncha[G]nge t[Am]his lon[C/D]ely life.\n\n[Chorus] (x5)\n\nG                   Em    D   *1* Am\n  I wanna know what love is.         I want you\nEm    D    *1*\nto show me.\nG                   Em    D   *1* Am            Em\n  I wanna feel what love is.         I know you\ncan s[D]how me.\n\n*1*\ne|----------------|\nB|----------3---0-|\nG|------------2---|\nD|----------------|\nA|----------------|\nE|----------------|\n\n*2*\ne|----------------|\nB|----------------|\nG|--------------0-|\nD|----------0-2---|\nA|--------2-------|\nE|----------------|",
+            "Priority__c": "1",
+            "My_Level__c": "Know basics",
             "Difficulty__c": "Hard",
-            "ChordPro_Status__c": "To Do",
+            "ChordPro_Status__c": "In Progress",
             "Editing_Notes__c": null,
             "Learning_resource__c": "https://www.youtube.com/watch?v=Va-N6kx-DM4"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef45"
+                "referenceId": "song__cRef47"
             },
-            "Song__c": "business time",
+            "Song__c": "Business Time",
             "Artist__c": "FOTC",
             "Language__c": "English",
-            "ChordPro_Content__c": null,
-            "Priority__c": "x",
-            "My_Level__c": "Want to Learn",
+            "ChordPro_Content__c": "{title: Business Time}\n{st: Flight of the Conchords}\n\n{c:Intro}\n| G5 (bass)  | G5 (bass)  | G5 (bass)  | G5 (bass)  |\n| Gm         | Gm         | Gm         | Gm   Cm Dm |\n\n{c:Verse 1}\n[Gm] Ah yeah! Girl, tonight we're gonna make love\n\nyou know how i know? because it's wednesday\nand wednesday night is the [Cm]night that we [Dm]usually make l[Gm]ove\n\ntuesday night is the night that we go to your mothers\nhouse\n\nand i teach her how to use the video machine again\nCm*\nbut wednesday night is the night that we make love!\nIt's when [Bb]everything is just r[Gm]ight\n\nyou're not too tired from your after work, social netball\nteam practice\n\nthere's nothing good on tv\nmmmm.[Cm].. con[Dm]ditions are [Gm]perfect for making love\n\nyou turn to me and say something sexy like:\n\n\"i might go to bed, i've got work in the morning\"\ni know what you're trying to say, baby[Cm]\n[Dm]you're trying to say \"[Gm]ah yeah, it's business time\"\n\n{soc}\n{c:Chorus}\n[Cm] it's business,[Dm] it's business t[Gm]ime, i know what you're\ntrying to say\n\nyou're trying to say it's time for business it's business\ntime, ooo\n[Cm] it's business,[Dm] it's business t[Gm]ime\n(stop)\noh, oh-oh-woh-oh-woh yeah, yeah!\n\n{eoc}\n\n{c:Verse 2}\n[Gm] next thing you know we're in the bathroom brushing our\nteeth\n\nthat's all part of it, that's forplay\nforplay is very important in love makin[Cm]g[Dm]\n[Gm] then you go sort out the recycling\n\nwhich isn't part of the forplay but it's still very\nimp[Cm]orta[Dm]nt\n[Gm]next thing you know we're in the bedroom\n\nyou're wearing that same old ugly, baggy t-shirt with the\nstain on it\n\nthat you got from that team building exercise\nthat you did for your old work [Cm]several years a[Dm]go\n[Gm]team building exercise, '99!\n\ni take off my clothes but i trip over my jeans\nGm*\n'cause i'm still wearing my shoes, but it's okay\n\n'cause i turn it all into a sexy dance\n\nnext thing you know i'm wearing absolutely nothing...\nexcept for my socks\n\nand you know when i'm down to just my socks what time it\nis;\n\nit's business time...\n\nE|-3--3-|-1--1-|\nA|------|------|\nD|-3--3-|-1--1-|\nG|-------------|\nB|-------------|\ne|-------------|\n\n{soc}\n{c:Chorus}\nCm*            Dm*             Gm*\nit's business, it's business time, you know when i'm\ndown to my socks\n\nit's time for business that's why they're called business\nsocks, ooo\nCm*            Dm*             Gm*\nit's business, it's business time\n\noh, huh-huh-huh-huh yeah, yeah!\n\n{eoc}\n\n{c:Verse 3}\n[Gm] making love... making love for... making love for two...\n[Cm] making [Dm]love for t[Gm]wo minutes\n\nwhen it's with me you only need two minutes girl, because\ni'm so intense\n\ntwo minutes in heaven is better than one minute in heaven,\n[Cm] mmm[Dm]m\n[Gm] you turn to me and say something sexy like: \"is that\nit!?!\"\n\ni know what you're trying to say girl, you're trying to\nsay\n\"ah yeah, that's it!\"[Cm] then you [Bb]tell me you [Gm]want some more\n\nwell er... i'm not surprised, but i am quite sleepy\n\n{soc}\n{c:Chorus}\nCm*            Dm*             Gm\nit's business, it's business time, business hours are\nover, baby\nCm*            Dm*            (Gm)\nit's business, it's business time\n\n|(Gm)         |\n{eoc}\n\n\n===============\n\nbased on HBO tv series.\nThe Cm* and Dm* sound better if played with barre chord on 8 and 10 frets\n\nfun bass line for the G 50h51h53 60 G\n\nTo move into the chorus, a chromatic steps on 6th string works nice\nG 65 66 67 Cm\nEnd of chors can play special Gm chord 3 5 3 3 5 3",
+            "Priority__c": null,
+            "My_Level__c": "Know basics",
             "Difficulty__c": "Hard",
-            "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null,
+            "ChordPro_Status__c": "In Progress",
+            "Editing_Notes__c": "go through song while playing to finalise song",
             "Learning_resource__c": "http://www.youtube.com/watch?v=UwZcBJ8ac5Q"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef46"
+                "referenceId": "song__cRef48"
             },
             "Song__c": "Bizarre Love Triangle",
             "Artist__c": "Frente!",
@@ -739,7 +771,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef47"
+                "referenceId": "song__cRef49"
             },
             "Song__c": "I Will Survive",
             "Artist__c": "Gloria Gaynor/Cake",
@@ -755,7 +787,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef48"
+                "referenceId": "song__cRef50"
             },
             "Song__c": "Crazy",
             "Artist__c": "Gnarls Barkley",
@@ -771,7 +803,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef49"
+                "referenceId": "song__cRef51"
             },
             "Song__c": "Boulevard of Broken Dreams",
             "Artist__c": "Green Day",
@@ -787,7 +819,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef50"
+                "referenceId": "song__cRef52"
             },
             "Song__c": "Brain Stew",
             "Artist__c": "Green Day",
@@ -803,7 +835,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef51"
+                "referenceId": "song__cRef53"
             },
             "Song__c": "Good Riddance - Time Of Your Life",
             "Artist__c": "Green Day",
@@ -819,7 +851,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef52"
+                "referenceId": "song__cRef54"
             },
             "Song__c": "Wake Me Up When September Ends",
             "Artist__c": "Green Day",
@@ -835,7 +867,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef53"
+                "referenceId": "song__cRef55"
             },
             "Song__c": "Don't Cry",
             "Artist__c": "Guns N' Roses",
@@ -851,55 +883,55 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef54"
+                "referenceId": "song__cRef56"
             },
             "Song__c": "Estranged",
             "Artist__c": "Guns N' Roses",
             "Language__c": "English",
-            "ChordPro_Content__c": "{title: Estranged}\n{st: Guns N' Roses}\n\nTuning: E A D G B E\nCapo: 2 Fret\n\n{c:Verse}\nWhen you're [Em7]talkin to yourself\nAnd nobody's [Asus2]home\n[Em7]You can fool yourself\nYou came in this world [Asus2]alone\n(Alone)\n\n{soc}\n{c:Chorus}\n[G]So nobody ever told you [A]baby\nHow it was gonna [E]be\n[G]So what'll happen to you [A]baby\nGuess we'll have to wait and [E]see\n[C]One, [G]two\n\n{eoc}\n\n{c:Verse}\n[Em]Old at heart but I'm only [D]28\n[C]And I'm much too young\nTo let love break my [E]heart\n[Em]Young at heart but it's getting much too [D]late\n[C]To find ourselves so far [E]apart\n\n[D]I don't know how you're s'posed\nTo [E]find me lately\n[D]An what more could you ask from [E]me\n[D]How could you say that I never [E]needed you\n[C]When you took everything\n[D]Said you took everything from [E]me\n\n[Em]Young at heart an it gets so [D]hard to wait\n[C]When no one I know can seem to [E]help me now\n[Em]Old at heart but I musn't [D]hesitate\n[C]If I'm to find my own way [E]out\n\nStill ta[Em7]lkin' to myself and nobody's [A]home\n(Alone)\n\n{soc}\n{c:Chorus}\n[G]So nobody ever told us [A]baby\nHow it was gonna [E]be\n[G]So what'll happen to us [A]baby\nGuess we'll have to wait and [E]see\n\n{eoc}\n\n{c:Verse}\n[A]When I find out all the [E]reasons\nMaybe I'll find an[D]other way\nFind an[A]other day[E]\nWith all the changing [D]seasons of my [A]life\nMaybe I'll get it [E]right next [D]time[A]\nAn now that you've been [E]broken down\nGot your head out of[D] the clouds\nYou're back down [A]on the ground\nAnd you don't [E]talk so loud\nAn you don't [D]walk so proud\nAny m[A]ore, and what f[E]or[D]\n\n[A]Well I jumped into the [E]river too many times\nto [D]make it home\nI'm out here [A]on my own, an drifting [E]all alone\nIf it doesn't [D]show give it [A]time\nTo read between the [E]lines[D][A]\n\n[F#m]'Cause I see the s[E]torm getting c[D]loser[E]\n[F#m]And the w[E]aves they get so h[D]igh[E]\n[F#m]Seems e[E]verything We've e[D]ver known's h[E]ere\n[F#m]Why must it d[E]rift away and d[D]ie\n\n[A]I'll never find anyone to re[E]place you\nGuess I'll have [D]to make it thru, this [A]time\nOh this [E]time[D]\nWithout [A]you\n\n[F#m]I knew the s[E]torm was getting c[D]loser[E]\n[F#m]And all my f[E]riends said I was h[D]igh[E]\n[F#m]But everythi[E]ng we've ever k[D]nown's h[E]ere\n[F#m]I never w[E]anted it to d[D]ie",
+            "ChordPro_Content__c": "{title: Estranged}\n{st: Guns N' Roses}\n\nCapo: 2 Fret\n\n{c:Verse 1}\nWh[Em7]en you're talkin to yourself\nAnd nobody's h[Asus2]ome\n[Em7]You can fool yourself\nYou came in this world alon[AAsus2]e (Alone)\n\n[E5      A       E5     A]\n\n{soc}\n{c:Chorus}\n[G]So nobody ever told y[A]ou baby\nHow it was gonna[E] be\n[G]So what'll happen to y[A]ou baby\nGuess we'll have to wait an[E]d see\n[C]     [D] One, two\n\n{eoc}\n\n{c:Instrumental}\nE5  A5   C  D5   E5   C D5\nE5   C  D5   E5   C D5\n\n\n{c:Verse 2}\n[Em]Old at heart but I'm onl[D]y 28\nAnd I'[C]m much too young\nTo let love break m[Em]y heart\nYoung at heart but it's gettin[D]g much too late\nTo [C]find ourselves so f[E]ar apart\n[D]I don't know how you're s'posed to find m[E]e lately\n[D]And what more could you ask fro[E]m me\n[D]How could you say that I never n[E]eeded you\n[C]When you took everythi[B]ng\n[D]Said you took everything from m[E]e\n\n{c:Instrumental}\nA   C   D5   E5   A5\nC  D5   E5   C  D5  E5  C D5\n\n{c:Verse 3}\n[Em]Young at heart and it gets s[D]o hard to wait\nWhen [C]no one I know can seem to help me now[Em]\nOld at heart but I musn'[D]t hesitate\nIf [C]I'm to find my own w[EM]ay out\nStill [Em7]talkin' to myself and nobody'[A]s home   (Alone)\n\n[E5  A5]\n\n{soc}\n{c:Chorus}\n[G]So nobody ever told u[A]s baby\nHow it was gonn[E]a be\n[G]So what'll happen to [A]us baby\nGuess we'll have to wait an[E]d see\n\n{eoc}\n\n{c:Instrumental}\n[A5  C   A5   C   A   C  A5  C]\n[A5  C  G   D  A  E  G  A  G]\n[A   G   A  G  D  E  G  D]\n[A  E  D  A  E  D  A]\n\n{c:Verse 4}\n[A]When I find out all th[E]e reasons\nMaybe I'll fin[D]d another way\nFind an[A]other day[E]\nWith all the changin[D]g seasons of m[A]y life\nMaybe I'll get i[E]t right nex[D]t tim[A]e\nAnd now that you've bee[E]n broken down\nGot your head ou[D]t of the clouds\nYou're back dow[A]n on the ground\nAnd you don'[E]t talk so loud\nAnd you don'[D]t walk so proud\nAny [A]more, and wha[E]t for[D]\n\n{c:Solo}\n[A F#m E   D   A  E  D]\n\n{c:Verse 5}\n[A]Well I jumped into th[E]e river\nToo many times to make i[D]t home\nI'm out here on m[A]y own, an drifting al[E]l alone\nIf it doesn'[D]t show give i[A]t time\nTo read between th[E]e lines[D]\n[F#5]'Cause I see th[E]e storm is getti[D]ng clos[E]er\n[F#5]And th[E]e waves they get [D]so hi[E]gh\n[F#]Seems eve[E]rything We've ev[D]er known's he[E]re\n[F#]Why must i[E]t drift away a[D]nd die\n\n{c:Instrumental}\nC#   B5    A   G    F#  E     A\nG   A  A  G  A   G   A   G   D\nD5  A5   E5   D5   A5   E5   A5   E5   D5   A5\n\n{c:Solo}\n{c:Verse 6}\n[A]I'll never find anyone t[E]o replace you\nGuess I'll have t[D]o make it thru, thi[A]s time- oh this time[E]\n[D]               A   --- A E F#5\nWithout you\nI knew th[E]e storm was gettin[D]g clos[E]er\n[F#5]And all m[E]y friends said I w[D]as hig[E]h\n[F#5]But eve[E]rything we've ev[D]er known's he[E]re\n[F#m]I neve[E]r wanted it [D]to di[C#]e\n\n{c:Outro}\n[B5 A F# E]\n\n======\n\nOriginal tune 1/2 step in Eb.\nPlay with capo on 2 to match original key.",
             "Priority__c": null,
             "My_Level__c": "Know basics",
             "Difficulty__c": "Hard",
-            "ChordPro_Status__c": "In Progress",
+            "ChordPro_Status__c": "Done",
             "Editing_Notes__c": null,
             "Learning_resource__c": "<p>https://youtu.be/ZEq85jzT3FQ?si=5XUql1wjRf3bwxBh&amp;t=1559</p><p>https://www.youtube.com/watch?v=k9es-3kWAzI</p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef55"
+                "referenceId": "song__cRef57"
             },
             "Song__c": "November Rain",
             "Artist__c": "Guns N' Roses",
             "Language__c": "English",
-            "ChordPro_Content__c": "{title: November Rain}\n{st: Guns N' Roses}\n\n{c:Intro}\n| F  | Am | Dm | C\n| F  | Dm | C\n| F  | Am | Dm | C\n| F  | Dm | C\n| F  | Dm | C\n\n{c:Verse 1}\n[F]  When I look into your [Dm]eyes\nI can see a love res[C]trained\n[F]  But darling when I [Dm]hold you\nDon't you know I feel the [C]same\n[Dm]  'Cause nothin' lasts for[G]ever\nAnd we both know hearts can [C]change\n[Dm]   And it's hard to hold a [G]candle\nIn the cold November [C]rain\n\n{c:Verse 2}\n[F]  We've been through this such a l[Dm]ong, long time\nJust tryin' to kill the [C]pain, oh yeah\nBut [F]lovers always come and lovers always go\nAnd [Dm]no one's really sure who's lettin' go to[C]day, walkin'\naway\nIf [F]we could take the time to lay it on the line\nI could [Dm]rest my head\nJust knowin' that you were [C]mine, all mine\n[Dm]   So if you want to [G]love me\nThen darlin' don't re[C]frain\n[Dm]   Or I'll just end up [G]walkin'\nIn the cold November [C]rain\n\n{soc}\n{c:Chorus}\nDo you [F]need some time on your [G]own?\nDo you [F]need some time all a[G]lone?\nEverybody [F]needs some time on their [G]own\nDon't you know you [F]need some time all a[G]lone\n\n{eoc}\n\n{c:Bridge}\n[Em]   I know it's [F]hard to keep an [C]open heart\n[Em]   When even [F]friends seem out to [Dm]harm you\n[Em]   But if y[F]ou could heal a [C]broken heart\n[Em]   Wouldn't [F]time be out to [G]charm you\n\n{c:Solo 1}\n| F  | Dm | C  | C  | (x2)\n| Dm | G  | C  | C  | (x2)\n\n{soc}\n{c:Chorus}\nSometimes I [F]need some time on my [G]own\nSometimes I [F]need some time all a[G]lone\nEverybody [F]needs some time on their [G]own\nDon't you know you [F]need some time all a[G]lone\n\n{eoc}\n\n{c:Solo 2}\n| F  | Dm | C  | C  | (x2)\n\n{c:Verse 3}\n[F]  And when your fears sub[Dm]side\nAnd shadows still re[C]main, oh yeah\n[F]  I know that you can [Dm]love me\nWhen there's no one left to [C]blame\n[Dm]   So never mind the [G]darkness\nWe still can find a [C]way\n[Dm]  'Cause nothin' lasts for[G]ever\n                   (C)\nEven cold November rain\n\n{c:Outro}\n| C G/B | Am G  | F     | G     |\n| C G/B | Am G  | F     | G     | C\n\n| C5    | Ab Bb | C5    | Ab Bb | (x2)\n\n| Cm G  | F  Eb | Ab Bb | C5    | C5    | (x4)\n\n[Cm]   Don't you you think that you [G]need somebody\n[F]  Don't you think that you [Eb]need someone\n[Ab]   Everybody [Bb]needs somebody[C5]. You're not the only one.\nYou're not the only one.",
+            "ChordPro_Content__c": "{title: November Rain}\n{st: Guns N' Roses}\n\n{c:Intro}\n| F  | Am | Dm | C\n| F  | Dm | C\n| F  | Am | Dm | C\n| F  | Dm | C\n| F  | Dm | C\n\n{c:Verse 1}\n[F]  When I look into your [Dm]eyes\nI can see a love res[C]trained\n[F]  But darling when I [Dm]hold you\nDon't you know I feel the [C]same\n[Dm]  'Cause nothin' lasts for[G]ever\nAnd we both know hearts can [C]change\n[Dm]   And it's hard to hold a [G]candle\nIn the cold November [C]rain\n\n{c:Verse 2}\n[F]  We've been through this such a l[Dm]ong, long time\nJust tryin' to kill the [C]pain, oh yeah\nBut [F]lovers always come and lovers always go\nAnd [Dm]no one's really sure who's lettin' go to[C]day, walkin'\naway\nIf [F]we could take the time to lay it on the line\nI could [Dm]rest my head\nJust knowin' that you were [C]mine, all mine\n[Dm]   So if you want to [G]love me\nThen darlin' don't re[C]frain\n[Dm]   Or I'll just end up [G]walkin'\nIn the cold November [C]rain\n\n{soc}\n{c:Chorus}\nDo you [F]need some time on your [G]own?\nDo you [F]need some time all a[G]lone?\nEverybody [F]needs some time on their [G]own\nDon't you know you [F]need some time all a[G]lone\n\n{eoc}\n\n{c:Bridge}\n[Em]   I know it's [F]hard to keep an [C]open heart\n[Em]   When even [F]friends seem out to [Dm]harm you\n[Em]   But if y[F]ou could heal a [C]broken heart\n[Em]   Wouldn't [F]time be out to [G]charm you\n\n{c:Solo 1}\n| F  | Dm | C  | C  | (x2)\n| Dm | G  | C  | C  | (x2)\n\n{soc}\n{c:Chorus}\nSometimes I [F]need some time on my [G]own\nSometimes I [F]need some time all a[G]lone\nEverybody [F]needs some time on their [G]own\nDon't you know you [F]need some time all a[G]lone\n\n{eoc}\n\n{c:Solo 2}\n| F  | Dm | C  | C  | (x2)\n\n{c:Verse 3}\n[F]  And when your fears sub[Dm]side\nAnd shadows still re[C]main, oh yeah\n[F]  I know that you can [Dm]love me\nWhen there's no one left to [C]blame\n[Dm]   So never mind the [G]darkness\nWe still can find a [C]way\n[Dm]  'Cause nothin' lasts for[G]ever\n                   (C)\nEven cold November rain\n\n{c:Outro}\n| C G/B | Am G  | F     | G     |\n| C G/B | Am G  | F     | G     | C\n\n| C5    | Ab Bb | C5    | Ab Bb | (x2)\n\n| Cm G  | F  Eb | Ab Bb | C5    | C5    | (x4)\n\n[Cm]   Don't you you think that you [G]need somebody\n[F]  Don't you think that you [Eb]need someone\n[Ab]   Everybody [Bb]needs somebody[C5]. You're not the only one.\nYou're not the only one.\n\n\n==================\nOriginal tune 1/2 step down, in Eb",
             "Priority__c": null,
-            "My_Level__c": "Want to Learn",
+            "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": null,
+            "Editing_Notes__c": "add embelishments from lesson",
             "Learning_resource__c": "<p>https://www.youtube.com/watch?v=U-WQoNP1qUE</p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef56"
+                "referenceId": "song__cRef58"
             },
             "Song__c": "Patience",
             "Artist__c": "Guns N' Roses",
             "Language__c": "English",
-            "ChordPro_Content__c": "{t:Patience}\n{st:Guns N Roses}\n\n{c:Intro}\n[C C G G  A A D D]\n[C G C Em C G D D]\n             \n{c:Verse}\n[C] Shed a tear 'cause I missing' you\n[G] I'm still alright to smile\n[A] Girl I think about you every day[D] now\n[C] Was a time when I wasn't sure\n[G] But you set my mind at ease\n[A] There is no doubt\nYou're in my heart[D] now\n\n{soc}\n{c:Chorus} \n[C] Said woman take it [G]slow\n[C] It'll work itself out[Em] fine\n[C] All we need is [G]just a little [D]patience\n[C] Said sugar make it [G]slow and\n[C] We come together [Em]fine\n[C] All we need is [G]just a little[D] patience\n[[D]]      Patience\n{eoc}\n\n{c:Verse}\n[C] I sit here on the stairs\n[G] 'Cause I'd rather be alone\n[A] If I can't have you right now I'll[D] wait, dear\n[C] Sometimes I get so tense\n[G] But I can't speed up the time\n[A] But you know, love there's\nOne more thing to con[D]sider\n\n{soc}\n{c:Chorus} \n[C] Said woman take it [G]slow\n[C] And thing will be just[Em] fine\n[C] You and I'll just [G]use a little [[D]]patience\n[C] Said sugar take the [G]time\n[C] 'Cause the lights are shining [Em]bright\n[C] You and I've got[G] what it takes to m[[D]]ake it\n[[D]] We won't fake it\n{eoc}\n\n{c:Solo}\n\n...little p[G]atience, mm y[D]eah, mm y[G]eah\nneed a little [D]patience, ye[G]ah,\njust a little [D]patience, ye[G]ah,\nsome more [D]patience..\n\n{c:Outro}\n[D/F#] I'll been walking' the streets to night\n[G] just trying to get it right\n[D/F#] it's hard to see when so many around\n[G] You know I don't like being stuck in a crowd\n[D] And the streets don't change, but baby the names\n[G] I ain't got time for this game\n[D] 'Cause I need you,\nyeah but I [G]need you,\noh I [F]need you,\nwoh I [G]need you,\noo This [D]time     [G]    [D] \n\n{c:end riff}\n[13 12 23 32 30 44 40 D]\n\n\n==================================================\nOriginal tuning Tuning is half tone down (Eb Ab Db Gb Bb eb)",
+            "ChordPro_Content__c": "{title: Patience}\n{st: Guns N' Roses}\n\n{c:Intro}\n[C G A D    C G A D]\n[C G C Em   C G D D]\n\n{c:Verse 1}\n[C]  Shed a tear cause I'm missing you\n[G]  I'm still alright to smile\n[A]  Girl I think about you every [D]day now[Dsus2][D][Dsus4][D][Dsus2][D]\n[C]  Was a time when I wasn't sure\nBut you[G] set my mind at ease\n[A]  There is no doubt, you're in my h[D]eart now[Dsus2][D][Dsus4][D][Dsus2 D]\n\n{soc}\n{c:Chorus}\n[C]  Said woman, [G]take it slow\nIt'll [C]work itself out f[Em]ine\n[C]All we need is [G]just a little p[D]atienc[Dsus2]e[D][Dsus4][D][Dsus2][D]\n[C]  Said sugar, [G]make it slow and\nIt'll [C]come together f[Em]ine\n[C]All we need is [G]just a little p[D]atienc[Dsus2]e[D][Dsus4][D][Dsus2][D]\n[D]   [Dsus2]      [D]   [Dsus4]Patienc[D]e ([Dsus2]whisper[D]ed)\n[D]   [Dsus2]   uuu[D]uuu[Dsus4]uuuuuuu[D]uuu[Dsus2]uuuuuuu[D]uh\n[D]yea[Dsus2]aaaaaa[D]aaa[Dsus4]aaaaaaa[D]h[Dsus2][D]\n\n{eoc}\n\n{c:Verse 2}\n[C]  I sit here on the stairs\nCause I'd[G] rather be alone\nIf [A]I can't have you right now\nI'll w[D]ait, dear[Dsus2][D][Dsus4][D][Dsus2][D]\n[C]  Sometimes I get so tense\nBut I [G]can't speed up the time\nBut [A]you know love, there's one more thing\nTo cons[D]ider[Dsus2][D][Dsus4][D][Dsus2][D]\n\n{soc}\n{c:Chorus}\n[C]  Said woman, [G]take it slow\nAnd [C]things will be just f[Em]ine\n[C]You and I’ll just [G]use a little p[D]atience[Dsus2][D][Dsus4][D][Dsus2][D]\n[C]  Said sugar, [G]take the time\nCause the [C]lights are shining br[Em]ight\n[C]You and I've got [G]what it takes to m[D]ake it[Dsus2][D][Dsus4][D][Dsus2]\nWe [D]won't fake it[Dsus2][D][Dsus4][D]\nA[Dsus2]hh,   [D]I'll never break it[Dsus2][D][Dsus4][D]\n[Dsus2] Cause I [D]can't take it[Dsus2][D][Dsus4][D][Dsus2][D]\n{eoc}\n\n{c:Solo}\nC   G   C   Em   C   G   D  Dsus2 D  Dsus4  D  Dsus2  D\nC   G   C   Em   C   G   D  Dsus2 D  Dsus4  D  Dsus2  D\nD  Dsus2 D  Dsus4  D  Dsus2  D\nD  Dsus2 D  Dsus4  D  Dsus2  D\nD  Dsus2 D  Dsus4  D  Dsus2  D\n\n{c:Bridge}\n[D]   [D/F#]      [G]   [D/F#]  A li[D]ttle patience[G]\nMm[D]mmm yeah\nMmmmm y[G]eah\n\nNeed a little pa[D]tience\nYeaaa[G]aah\nJust a little pa[D]tience\nyeaaa[G]aah\n\n{c:Verse 3}\n[D]  I've been walking the streets tonight\n[G]  Just trying to get it right\n[D]  It's hard to see with so many around\nYou [G]know I don’t like being stuck in the crowd\nAnd the [D]streets don't change but maybe the names\n[G]  I ain't got time for the game\nCause I n[D]eed you\nYeah yeah, well I [G]need you\nOoooh, I [F]need you\nWoh, I [G]need you\nOoooh, this [D]time[G][D]\n\n{c:end riff}\n[13 12 23 32 30 44 40 D]\n\n\n==================================================\nOriginal tuning Tuning is half tone down (Eb Ab Db Gb Bb eb)",
             "Priority__c": null,
-            "My_Level__c": "In Progress",
+            "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
-            "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "review the chords matching the lyrics, the formating, how to play along with it.",
-            "Learning_resource__c": null
+            "ChordPro_Status__c": "Done",
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.justinguitar.com/songs/guns-n-roses-patience-1-3-easy-chords-tabs-guitar-lesson-st-621</p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef57"
+                "referenceId": "song__cRef59"
             },
             "Song__c": "Sweet Child O' Mine",
             "Artist__c": "Guns N' Roses",
@@ -915,7 +947,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef58"
+                "referenceId": "song__cRef60"
             },
             "Song__c": "Take Me To Church",
             "Artist__c": "Hozier",
@@ -931,23 +963,23 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef59"
+                "referenceId": "song__cRef61"
             },
             "Song__c": "Fear Of The Dark",
             "Artist__c": "Iron Maiden",
             "Language__c": "English",
-            "ChordPro_Content__c": null,
+            "ChordPro_Content__c": "{title: Fear Of The Dark}\n{st: Iron Maiden}\n\n{c:Verse 1}\n[Dm]  I am a [Bb]man who walks [C]alone,\nand when I'm [Bb]walking [C]a dark [Dm]road\nat night or s[Bb]trolling through the [C]park[Bb][C][Dm]\n[Dm]When the [Bb]lights begin to [C]change,\nI sometimes f[Bb]eel a l[C]ittle s[Dm]trange\na little [Bb]anxious when it's [C]dark\n\n{soc}\n{c:Chorus}\nFear of the [Bb]dark, [C]     Fear of the [Dm]dark,[C]\nI have a [Bb]constant fear that [F]something's [C]always [Dm]near\nFear of the [Bb]dark, [C]     Fear of the [Dm]dark,[C]\nI have a [Bb]phobia that [F]someone's [C]always [Dm]there\n\n{eoc}\n\n{c:Verse 2}\n[Dm]  Have you run your f[Bb]ingers down the [C]wall\nAnd have you f[Bb]elt your nec[C]k skin cr[Dm]awl\nWhen you're s[Bb]earching for the l[C]ight[Bb][C][Dm]\nSometimes [Dm]when you're s[Bb]cared to take a l[C]ook\nAt the c[Bb]orner of t[C]he r[Dm]oom\nYou've sensed that s[Bb]omething's watching y[C]ou\n\n{soc}\n{c:Chorus}\nFear of the [Bb]dark, [C]     Fear of the [Dm]dark,[C]\nI have a [Bb]constant fear that [F]something's [C]always [Dm]near\nFear of the [Bb]dark, [C]     Fear of the [Dm]dark,[C]\nI have a [Bb]phobia that [F]someone's [C]always [Dm]there\n\n{eoc}\n\n{c:Verse 3}\n[Dm]  Have you ever b[Bb]een alone at n[C]ight\nThought you h[Bb]eard foots[C]teps be[Dm]hind\nAnd turned ar[Bb]ound and no one's t[C]here?[Bb][C][Dm]\nAnd as you q[Dm]uicken up y[Bb]our p[C]ace\nYou find it h[Bb]ard to l[C]ook ag[Dm]ain\nBecause you're s[Bb]ure there's someone th[C]ere\n\n{soc}\n{c:Chorus}\nFear of the [Bb]dark, [C]     Fear of the [Dm]dark,[C]\nI have a [Bb]constant fear that [F]something's [C]always [Dm]near\nFear of the [Bb]dark, [C]     Fear of the [Dm]dark,[C]\nI have a [Bb]phobia that [F]someone's [C]always [Dm]there\n\n{eoc}\n\n{c:Verse 4}\n[Dm]  Watching horror f[Bb]ilms the night bef[C]ore\nDebating witc[Bb]hes and [C]folk[Dm]lore\nThe unknown t[Bb]roubles on your m[C]ind[Bb][C][Dm]\nMaybe your m[Dm]ind is pl[Bb]aying tr[C]icks\nYou sense, and s[Bb]uddenly [C]eyes [Dm]fix\nOn dancing sh[Bb]adows from be[C]hind\n\n{soc}\n{c:Chorus}\nFear of the [Bb]dark, [C]     Fear of the [Dm]dark,[C]\nI have a [Bb]constant fear that [F]something's [C]always [Dm]near\nFear of the [Bb]dark, [C]     Fear of the [Dm]dark,[C]\nI have a [Bb]phobia that [F]someone's [C]always [Dm]there\n\nFear of the [Bb]dark, [C]     Fear of the [Dm]dark,[C]\nI have a [Bb]constant fear that [F]something's [C]always [Dm]near\nFear of the [Bb]dark, [C]     Fear of the [Dm]dark,[C]\nI have a [Bb]phobia that [F]someone's [C]always [Dm]there\n\n{eoc}\n\n{c:Outro}\n[Dm]   When I'm w[Bb]alking a dark r[C]oad\nI am the m[Bb]an who w[C]alks a[Dm]lone",
             "Priority__c": null,
-            "My_Level__c": null,
-            "Difficulty__c": null,
-            "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null,
+            "My_Level__c": "Want to Learn",
+            "Difficulty__c": "Medium",
+            "ChordPro_Status__c": "In Progress",
+            "Editing_Notes__c": "learn the picking at beginning and different embelishments from lesson",
             "Learning_resource__c": "<p>https://www.youtube.com/watch?v=MEQcPwzaEyQ</p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef60"
+                "referenceId": "song__cRef62"
             },
             "Song__c": "I'm Yours",
             "Artist__c": "Jason Mraz",
@@ -963,7 +995,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef61"
+                "referenceId": "song__cRef63"
             },
             "Song__c": "Imagine",
             "Artist__c": "John Lennon",
@@ -979,7 +1011,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef62"
+                "referenceId": "song__cRef64"
             },
             "Song__c": "Hurt",
             "Artist__c": "Johnny Cash",
@@ -995,23 +1027,23 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef63"
+                "referenceId": "song__cRef65"
             },
             "Song__c": "Personal Jesus",
             "Artist__c": "Johnny Cash",
             "Language__c": "English",
-            "ChordPro_Content__c": null,
+            "ChordPro_Content__c": "{title: Personal Jesus}\n{st: Johnny Cash}\n\n{c:Intro}\n[Em]\n\n{c:Verse 1}\nYour [Em]own, personal, Jesus\n\nSomeone to hear your prayers\nSomeone who [Am7]cares[G]\nYour [Em]own, personal, Jesus\n\nSomeone to hear your prayers\nSomeone who's [Am7]there[G][Em]\n\n{c:Verse 2}\n[Em]Feeling unknown and you're all alone\n[G]Flesh and bone, by the [D]telephone\n[Am7]Lift up the receiver\nI'll [Em]make you a be[C]liever[Em]\n\n{c:Verse 3}\n[Em]Take second best, put me to the test\n[G]Things on your chest, you [D]need to confess\n[Am7]I will deliver, you [Em]know I'm a for[C]giver[Em]\n\n{soc}\n{c:Chorus}\n[F#]    [F]Reach out and touch faith[Em]\n[F#]    [F]Reach out and touch faith[Em]\n\n{eoc}\n\n{c:Verse 4}\nYour [Em]own, personal, Jesus\n\nSomeone to hear your prayers\nSomeone who [Am7]cares[G]\nYour [Em]own, personal, Jesus\n\nSomeone to hear your prayers\nSomeone to [Am7]care[G][Em]\n\n{c:Verse 5}\n[Em]Feeling unknown and you're all alone\n[G]Flesh and bone, by the [D]telephone\n[Am7]Lift up the receiver\nI'll [Em]make you a be[C]liever[Em]\n[Am7]I will deliver, you [Em]know I'm a for[C]giver[Em]\n\n{soc}\n{c:Chorus}\n[F#]    [F]Reach out and touch faith[Em]\n[F#]    [F]Reach out and touch faith[Em]\n[F#]    [F]Reach out and touch faith[Em]\n[F#]    [F]Reach out and touch [Em]faith\n{eoc}",
             "Priority__c": "x",
             "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
-            "ChordPro_Status__c": "To Do",
-            "Editing_Notes__c": null,
+            "ChordPro_Status__c": "In Progress",
+            "Editing_Notes__c": "go thorugh song and add embelishments and other notes requried",
             "Learning_resource__c": "<p>https://www.youtube.com/watch?v=k5hwnjEm1nE</p><p>https://www.youtube.com/watch?v=tikz4eTJkTM</p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef64"
+                "referenceId": "song__cRef66"
             },
             "Song__c": "Shallow",
             "Artist__c": "Lady Gaga",
@@ -1027,7 +1059,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef65"
+                "referenceId": "song__cRef67"
             },
             "Song__c": "Hallelujah",
             "Artist__c": "Leonard Cohen",
@@ -1043,7 +1075,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef66"
+                "referenceId": "song__cRef68"
             },
             "Song__c": "Royals",
             "Artist__c": "Lorde",
@@ -1059,7 +1091,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef67"
+                "referenceId": "song__cRef69"
             },
             "Song__c": "Hace Calor",
             "Artist__c": "Los Rodriguez",
@@ -1075,7 +1107,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef68"
+                "referenceId": "song__cRef70"
             },
             "Song__c": "Sin Documentos",
             "Artist__c": "Los Rodriguez",
@@ -1091,14 +1123,14 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef69"
+                "referenceId": "song__cRef71"
             },
             "Song__c": "Si no te hubieras ido",
             "Artist__c": "Mana",
             "Language__c": "Spanish",
-            "ChordPro_Content__c": "{title: Si No Te Hubieras Ido}\n{st: Maná}\n\nIntro \n[Bm]\n{sot}\n1|------2-3-3-2-2-0-5-| 1|------2-3-3-2-2-0--|\n2|--2/3--3-3---3------| 2|--2/3--3-3---3-----| x2\n3|--------------------| 3|-------------------|\n{eot}\n\n    [Bm] TE EXTRAÑO MAS QUE [G]NUNCA Y N0[A] SE QUE HA[D]CER\n[F#7]    [Bm] DESPIERTO Y TE REC[G]UERDO AL A[A]MANE[D]CER\n    [A] ESPERA OTRO DIA POR VIVIR SIN T[D]I\n   [F#7]  EL ESPEJO NO MIE[Bm]NTE\n     ME VEO TAN DIF[G]ERENTE\n    [A] ME HACES FALTA T[D]U[F#7]\n\n    [Bm] LA GENTE PASA [G]Y PASA SIEMPRE TA[A]N IGU[D]AL\n[F#7]    [Bm] EL RITMO DE LA V[G]IDA ME PA[A]RECE M[D]AL\n    [A] ERA TAN DIFERENTE CUANDO ESTABAS T[D]U[F#7][Bm]\n [A]   [G] SI QUE ERA DIFE[A]RENTE CUANDO ESTABAS [D]TU\n\n    [A] NO HAY NADA MAS DIFICIL QUE VIVIR SIN [D]TI  ¡NO!\n    [A] SUFRIENDO EN LA ESPERA DE VERTE LL[D]EGAR\n    [A] EL FRIO DE MI CUERPO PREGUNTA POR [D]TI\n     [F#7]Y NO SE DONDE E[Bm]STAS[A][G]\n     SI NO TE HUBIERAS I[A]DO SERIA TAN FE[D]LIZ.\n\n  Intermedio:\n  [Bm]\n  \n  {sot}\n 1|------2-3-3-2--| 1|------2-3-3-2-2-0-5-|\n 2|--2/3--3-3-----| 2|--2/3--3-3---3------|\n 3|---------------| 3|--------------------|\n \n   {eot}\n\n    [Bm] LA GENTE PASA [G]Y PASA SIEMPRE T[A]AN IGUA[D]L\n[F#7]    [Bm] EL RITMO DE LA V[G]IDA ME PA[A]RECE M[D]AL\n    [A] ERA TAN DIFERENTE CUANDO ESTABAS T[D]U[F#7][Bm]\n [A]   [G] SI QUE ERA DIFE[A]RENTE CUANDO ESTABAS [D]TU\n\n    [A] NO HAY NADA MAS DIFICIL QUE VIVIR SIN [D]TI  ¡NO!\n    [A] SUFRIENDO EN LA ESPERA DE VERTE LL[D]EGAR\n    [A] EL FRIO DE MI CUERPO PREGUNTA POR [D]TI\n     [F#7]Y NO SE DONDE E[Bm]STAS[A][G]\n     SI NO TE HUBIERAS I[A]DO SERIA TAN FE[D]LIZ.\n\n    [A] NO HAY NADA MAS DIFICIL QUE VIVIR SIN [D]TI  ¡NO!\n    [A] SUFRIENDO EN LA ESPERA DE VERTE LL[D]EGAR\n     [F#7]Y NO SE DONDE E[Bm]STAS[A][G]\n     SI NO TE HUBIERAS I[A]DO SERIA TAN FE[Bm]LIZ[A][G]\n    [D] SI NO TE HUBIERAS ID[A]O SERIA TAN FEL[D]IZ.\n\n 1|[D]------2-3-3-2-2-0-5-| 1|------2-3-3-2-2-0--|\n 2|--2/3--3-3---3------| 2|--2/3--3-3---3-----|\n 3|--------------------| 3|-------------------|",
+            "ChordPro_Content__c": "{title: Si No Te Hubieras Ido}\n{st: Maná}\n\nIntro \n[Bm]\n{sot}\n1|------2-3-3-2-2-0-5-| 1|------2-3-3-2-2-0--|\n2|--2/3--3-3---3------| 2|--2/3--3-3---3-----| x2\n3|--------------------| 3|-------------------|\n{eot}\n\n[Bm] TE EXTRAÑO MAS QUE [|G]NUNCA Y N0 [A]SE QUE HA[|D]CER\n[|D F#7|]    [Bm] DESPIERTO Y TE REC[|G]UERDO AL AMA[A]NE[|D]CER\n[A] ESPERA OTRO DIA POR VIVIR SIN T[|D]I [F#7]  \n[(F#7)]  EL ESPEJO NO MIE[|Bm]NTE\nME VEO TAN DIF[G]ERENTE\n[A] ME HACES FALTA T[D]U[|D] [F#7|]\n\n[Bm] LA GENTE PASA Y [G]PASA SIEMPRE [A]TAN IG[D]UAL\n[F#7]    [Bm] EL RITMO DE LA V[G]IDA ME PA[A]RECE M[D]AL\n[A] ERA TAN DIFERENTE CUANDO ESTABAS T[D]U[F#7][Bm]\n[A]   [|G] SI QUE ERA DIFE[A]RENTE CUANDO ESTABAS [|D]TU\n\n[A] NO HAY NADA MAS DIFICIL QUE VIVIR SIN [D]TI  ¡NO!\n[A] SUFRIENDO EN LA ESPERA DE VERTE LL[D]EGAR\n[A] EL FRIO DE MI CUERPO PREGUNTA POR [D]TI\n[F#7]Y NO SE DONDE E[Bm]STAS[A][G]\nSI NO TE HUBIERAS I[A]DO SERIA TAN FE[D]LIZ.\n\n  Intermedio:\n  [Bm]\n  \n  {sot}\n 1|------2-3-3-2--| 1|------2-3-3-2-2-0-5-|\n 2|--2/3--3-3-----| 2|--2/3--3-3---3------|\n 3|---------------| 3|--------------------|\n \n   {eot}\n\n    [Bm] LA GENTE PASA [G]Y PASA SIEMPRE T[A]AN IGUA[D]L\n[F#7]    [Bm] EL RITMO DE LA V[G]IDA ME PA[A]RECE M[D]AL\n    [A] ERA TAN DIFERENTE CUANDO ESTABAS T[D]U[F#7][Bm]\n [A]   [G] SI QUE ERA DIFE[A]RENTE CUANDO ESTABAS [D]TU\n\n    [A] NO HAY NADA MAS DIFICIL QUE VIVIR SIN [D]TI  ¡NO!\n    [A] SUFRIENDO EN LA ESPERA DE VERTE LL[D]EGAR\n    [A] EL FRIO DE MI CUERPO PREGUNTA POR [D]TI\n     [F#7]Y NO SE DONDE E[Bm]STAS[A][G]\n     SI NO TE HUBIERAS I[A]DO SERIA TAN FE[D]LIZ.\n\n    [A] NO HAY NADA MAS DIFICIL QUE VIVIR SIN [D]TI  ¡NO!\n    [A] SUFRIENDO EN LA ESPERA DE VERTE LL[D]EGAR\n     [F#7]Y NO SE DONDE E[Bm]STAS[A][G]\n     SI NO TE HUBIERAS I[A]DO SERIA TAN FE[Bm]LIZ[A][G]\n    [D] SI NO TE HUBIERAS ID[A]O SERIA TAN FEL[D]IZ.\n\n 1|[D]------2-3-3-2-2-0-5-| 1|------2-3-3-2-2-0--|\n 2|--2/3--3-3---3------| 2|--2/3--3-3---3-----|\n 3|--------------------| 3|-------------------|",
             "Priority__c": "2",
-            "My_Level__c": "Know basics",
+            "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "In Progress",
             "Editing_Notes__c": "put chords in intro\r\nadd correct riff tab\r\nadd barres each chord lasts, as it changes often throughout the whole song\r\nadd embelisments, moving from D to A can add a little 62 63",
@@ -1107,7 +1139,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef70"
+                "referenceId": "song__cRef72"
             },
             "Song__c": "Down Under",
             "Artist__c": "Men At Work",
@@ -1123,12 +1155,12 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef71"
+                "referenceId": "song__cRef73"
             },
             "Song__c": "Torn",
             "Artist__c": "Natalie Imbruglia",
             "Language__c": "English",
-            "ChordPro_Content__c": "{title: Torn}\n{st: Natalie Imbruglia}\n\n{c:Intro}\n[F Fsus4 F Fsus2]\n\n{c:Verse 1}\n[F]   I thought I saw a man brought to lif[Am]e\nHe was warm, he came around like he was d[Bb]ignified\nHe showed me what it was to cry\n[F]  Well you couldn't be that man I adored[Am]\nYou don't seem to know\nDon't seem to care what your [Bb]heart is for\nBut I don't know him anymore\n\n{c:Pre-Chorus 1}\nThere's [Dm]nothing where he used to lie\n[C]  My conversation has run dry\n[Am]  That's what's going on\n[C]  Nothing's fine\nI'm to[F]rn\n\n{soc}\n{c:Chorus}\n[(F)]  I'm all out of faith[C], this is how I f[Dm]eel\nI'm cold and I am [Bb]shamed, lying naked on the [F]floor\nIllusion never [C]changed, into something[Dm] real\nI'm wide awake and [Bb]I can see, the perfect sky is to[F]rn\nYou're a little l[C]ate, I'm already to[Dm]rn [Bb]\n{eoc}\n\n{c:Verse 2}\n[F]  So I guess the fortune teller's right[Am]\nI should have seen just what was there and not some [Bb]holy light\nBut you crawl beneath my veins and now\n\n{c:Pre-Chorus 2}\nI don't [Dm]care, I have no luck\n[C]   I don't miss it all that much\n[Am]  There's just so many things\n[C]  That I can't touch\nI'm to[F]rn\n\n{soc}\n{c:Chorus}\n[(F)]  I'm all out of faith[C], this is how I f[Dm]eel\nI'm cold and I am [Bb]shamed, lying naked on the [F]floor\nIllusion never [C]changed, into something[Dm] real\nI'm wide awake and [Bb]I can see, the perfect sky is to[F]rn\nYou're a little l[C]ate, I'm already to[Dm]rn [Bb]\n{eoc}\n\n{c:Bridge}\nTo[Dm]rn... [Bb]         [Dm]Ooooh...  [Dm]Hoo [F]ooooh...  [C]Ooooh\n\n{c:Pre-Chorus 3}\nThere's [Dm]nothing where he used to lie\n[C]   My inspiration has run dry\n[Am]  That's what's going on\n[C]  Nothing's right\nI'm to[F]rn\n\n{soc}\n{c:Chorus}\n[(F)]  I'm all out of faith[C], this is how I f[Dm]eel\nI'm cold and I am [Bb]shamed, lying naked on the [F]floor\nIllusion never cha[C]nged, into something re[Dm]al\nI'm wide awake and [Bb]I can see, the perfect sky is to[F]rn\nI'm all out of faith[C], this is how I f[Dm]eel\nI'm cold and I am [Bb]shamed, bound and broken on the [F]floor\nYou're a little l[C]ate, I'm already to[Dm]rn [Bb]\n{eoc}\n\n{c:Outro}\n[Dm]Torn...[C]\n[Dm]Ooh...\n[Dm C Dm Bb](fade out)\n\n===========\nIntro chords\nF     xX3211\nFsus4 xX3311\nFsus2 xX3011\n\nVerse played with Barre Chords\nStrumming\n1e&a2e&a3e&a4e&a\nDUDUD__U_U_UD___\nDUDUD_DU_UD_D_DU",
+            "ChordPro_Content__c": "{title: Torn}\n{st: Natalie Imbruglia}\n\n{c:Intro}\n[F Fsus4 F Fsus2]\n\n{c:Verse 1}\n[F]   I thought I saw a man brought to lif[Am]e\nHe was warm, he came around like he was d[Bb]ignified\nHe showed me what it was to cry\n[F]  Well you couldn't be that man I adored[Am]\nYou don't seem to know\nDon't seem to care what your [Bb]heart is for\nBut I don't know him anymore\n\n{c:Pre-Chorus 1}\nThere's [Dm]nothing where he used to lie\n[C]  My conversation has run dry\n[Am]  That's what's going on\n[C]  Nothing's fine\nI'm to[F]rn\n\n{soc}\n{c:Chorus}\n[(F)]  I'm all out of faith[C], this is how I f[Dm]eel\nI'm cold and I am [Bb]shamed, lying naked on the [F]floor\nIllusion never [C]changed, into something[Dm] real\nI'm wide awake and [Bb]I can see, the perfect sky is to[F]rn\nYou're a little l[C]ate, I'm already to[Dm]rn [Bb]\n{eoc}\n\n{c:Verse 2}\n[F]  So I guess the fortune teller's right[Am]\nI should have seen just what was there and not some [Bb]holy light\nBut you crawl beneath my veins and now\n\n{c:Pre-Chorus 2}\nI don't [Dm]care, I have no luck\n[C]   I don't miss it all that much\n[Am]  There's just so many things\n[C]  That I can't touch\nI'm to[F]rn\n\n{soc}\n{c:Chorus}\n[(F)]  I'm all out of faith[C], this is how I f[Dm]eel\nI'm cold and I am [Bb]shamed, lying naked on the [F]floor\nIllusion never [C]changed, into something[Dm] real\nI'm wide awake and [Bb]I can see, the perfect sky is to[F]rn\nYou're a little l[C]ate, I'm already to[Dm]rn [Bb]\n{eoc}\n\n{c:Bridge}\nTo[Dm]rn... [Bb]         [Dm]Ooooh...  [Dm]Hoo [F]ooooh...  [C]Ooooh\n\n{c:Pre-Chorus 3}\nThere's [Dm]nothing where he used to lie\n[C]   My inspiration has run dry\n[Am]  That's what's going on\n[C]  Nothing's right\nI'm to[F]rn\n\n{soc}\n{c:Chorus}\n[(F)]  I'm all out of faith[C], this is how I f[Dm]eel\nI'm cold and I am [Bb]shamed, lying naked on the [F]floor\nIllusion never cha[C]nged, into something re[Dm]al\nI'm wide awake and [Bb]I can see, the perfect sky is to[F]rn\nI'm all out of faith[C], this is how I f[Dm]eel\nI'm cold and I am [Bb]shamed, bound and broken on the [F]floor\nYou're a little l[C]ate, I'm already to[Dm]rn [Bb]\n{eoc}\n\n{c:Outro}\n[Dm]Torn...[C]\n[Dm]Ooh...\n[Dm C Dm Bb](fade out)\n\n===========\nIntro chords\nF     xX3211\nFsus4 xX3311\nFsus2 xX3011\nWhole song can be played with barre chords, helps with the groove\nVerse played with Barre Chords\nStrumming\n1e&a2e&a3e&a4e&a\nDUDUD__U_U_UD___\nDUDUD_DU_UD_D_DU",
             "Priority__c": null,
             "My_Level__c": "In Progress",
             "Difficulty__c": "Hard",
@@ -1139,7 +1171,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef72"
+                "referenceId": "song__cRef74"
             },
             "Song__c": "Heart Shaped Box",
             "Artist__c": "Nirvana",
@@ -1155,7 +1187,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef73"
+                "referenceId": "song__cRef75"
             },
             "Song__c": "Wonderwall",
             "Artist__c": "Oasis",
@@ -1171,7 +1203,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef74"
+                "referenceId": "song__cRef76"
             },
             "Song__c": "Another Brick In The Wall Part 2",
             "Artist__c": "Pink Floyd",
@@ -1187,12 +1219,12 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef75"
+                "referenceId": "song__cRef77"
             },
             "Song__c": "Breathe",
             "Artist__c": "Pink Floyd",
             "Language__c": "English",
-            "ChordPro_Content__c": "{t:Breathe}\n{st:Pink Floyd}\n\n{c:intro}\n [Em9] [A x4]\n\n{c:Cerse}\n[Em9]Breathe, breathe in the [A]air\n[Em9]Don't be afraid to [A]care\n[Em9]Leave but don't leave [A]me\n[Em9]Look around and chose your own [A]ground\n\n{soc}\n{c:Chorus}\nFor [Cmaj7/G]long you live and high you fly\nAnd [Bm7]smiles you'll give and tears you'll cry\nAnd [Fmaj7]all you touch and all you see\nIs [G6]all your life will [D7#9]ever [D7b9]be\n{eoc}\n\n{c:Verse}\nRun, run rabbit run\nDig that hole, forget the sun,\nAnd when at last the work is done\nDon't sit down it's time to start another one\n\n{soc}\n{c:Chorus}\nFor long you live and high you fly\nBut only if you ride the tide\nAnd balanced on the biggest wave\nYou race toward an early grave.\n{eoc}\n\n{c:Verse}\nHome, home again\nI like to be there when UI can\nWhen I come in cold and tired\nIt's good to warm my bones beside the fire\n\n{soc}\n{c:Chorus}\nFar away across the field\nThe tolling of the iron bell\nCalls the faithful to their knees\nTo hear the softly spoken magic spells.\n{eoc}\n\n=================================\n{c:Chords Used:}\nEm9             024000\nEm9             022002\nCmaj7/G         332000\nG6              3X0000\nG6              3X5430\nD7#9            x5456x\nD7b9            x5452x\n\nPlay E string on beat one, then rake Em9 up on beat two\nAdd Asus4 on intro\nplay random chords notes on the intro",
+            "ChordPro_Content__c": "{t:Breathe}\n{st:Pink Floyd}\n\n{c:intro}\n [Em9] [A x4]\n\n{c:Cerse}\n[Em9]Breathe, breathe in the [A]air\n[Em9]Don't be afraid to [A]care\n[Em9]Leave but don't leave [A]me\n[Em9]Look around and chose your own [A]ground\n\n{soc}\n{c:Chorus}\nFor [Cmaj7/G]long you live and high you fly\nAnd [Bm7]smiles you'll give and tears you'll cry\nAnd [Fmaj7]all you touch and all you see\nIs [G6]all your life will [D7#9]ever [D7b9]be\n{eoc}\n\n{c:Verse}\nRun, run rabbit run\nDig that hole, forget the sun,\nAnd when at last the work is done\nDon't sit down it's time to start another one\n\n{soc}\n{c:Chorus}\nFor long you live and high you fly\nBut only if you ride the tide\nAnd balanced on the biggest wave\nYou race toward an early grave.\n{eoc}\n\n{c:Verse}\nHome, home again\nI like to be there when UI can\nWhen I come in cold and tired\nIt's good to warm my bones beside the fire\n\n{soc}\n{c:Chorus}\nFar away across the field\nThe tolling of the iron bell\nCalls the faithful to their knees\nTo hear the softly spoken magic spells.\n{eoc}\n\n=================================\n{c:Chords Used:}\nEm9             024000\nEm9             022002\nCmaj7/G         332000\nG6              3X0000\nG6              3X5430\nD7#9            x5456x\nD7b9            x5454x\n\nPlay E string on beat one, then rake Em9 up on beat two\nAdd Asus4 on intro\nplay random chords notes on the intro",
             "Priority__c": null,
             "My_Level__c": "Play Well",
             "Difficulty__c": "Medium",
@@ -1203,7 +1235,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef76"
+                "referenceId": "song__cRef78"
             },
             "Song__c": "Comfortably Numb",
             "Artist__c": "Pink Floyd",
@@ -1219,7 +1251,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef77"
+                "referenceId": "song__cRef79"
             },
             "Song__c": "Pigs On The Wing",
             "Artist__c": "Pink Floyd",
@@ -1235,7 +1267,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef78"
+                "referenceId": "song__cRef80"
             },
             "Song__c": "Shine On You Crazy Diamond",
             "Artist__c": "Pink Floyd",
@@ -1251,7 +1283,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef79"
+                "referenceId": "song__cRef81"
             },
             "Song__c": "Wish You Were Here",
             "Artist__c": "Pink Floyd",
@@ -1267,7 +1299,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef80"
+                "referenceId": "song__cRef82"
             },
             "Song__c": "Bohemian Rhapsody",
             "Artist__c": "Queen",
@@ -1283,7 +1315,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef81"
+                "referenceId": "song__cRef83"
             },
             "Song__c": "Crazy Little Thing Called Love",
             "Artist__c": "Queen",
@@ -1299,12 +1331,12 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef82"
+                "referenceId": "song__cRef84"
             },
-            "Song__c": "Losing My relegion",
+            "Song__c": "Losing My Religin",
             "Artist__c": "R.E.M",
             "Language__c": "English",
-            "ChordPro_Content__c": "{title: Losing My Religion}\n{st: REM}\n\n{c:Intro}\n[F           Dm G     Am    Am/B     Am/C   Am/D Am]\n[F           Dm G     Am       G]\n\n{c:Verse 1}\nOh, [Am]life is bigger[Em]\nIt's bigger than you\nAnd you are [Am]not me.\nThe lengths that I will [Em]go to,\nThe distance in your [Am]eyes,[Em]\nOh no, I've said too [Dm]much,\nI set it [G]up.\n\n{soc}\n{c:Chorus}\nThat's me in the [Am]corner,\nThat's me in the [Em]spotlight\nLosing my re[Am]ligion.\nTrying to [Em]keep up with you.\nAnd I [Am]don't know if I can do it.[Em]\nOh no, I've said too [Dm]much,\nI haven't said e[G]nough.\n{eoc}\n\n{c:Bridge}\nI [G]thought that I heard you [F]laughing,\nI [Dm]thought that I [G]heard you [Am]sing.[Am/B][Am/C][Am/D]\n[Am]I  th[F]ink I thought I [Dm]saw  [G]you [Am]try.[G]\n\n{c:Verse 2}\nEvery whis[Am]per of every waking h[Em]our\nI'm choosing my con[Am]fessions,\nTrying to [Em]keep an eye on you\nLike a [Am]hurt lost and blinded fool, fool[Em]\nOh no, I've said too [Dm]much,\nI set it [G]up.\n\n{c:Verse 3}\nConsider [Am]this, consider this,\nThe [Em]hint of a century,\nConsider [Am]this: the slip\nThat [Em]brought me to my knees failed.\n[Am]What if all these fantasies\nCome [Em]   flailing around?\nNow I've [Dm]said too [G]much.\n\n{c:Bridge}\nI th[G]ought that I heard you l[F]aughing,\nI though[Dm]t that I h[G]eard you s[Am]ing.[Am/B][Am/C][Am/D]\n[Am]I  th[F]ink I thought I [Dm]saw [G]you [Am]try.[G]\n\n{sot}\n   Am                      G\ne|-12-12-12-10-10-10-10-10-8-8-8-5-5-5-5-5-|\nB|-----------------------------------------|\nG|-----------------------------------------|\nD|-----------------------------------------|\nA|-----------------------------------------|\nE|-----------------------------------------|\n\n   F                       G\ne|-12-12-12-10-10-10-10-10-8-8-8-5-5-5-5-5-|\nB|-----------------------------------------|\nG|-----------------------------------------|\nD|-----------------------------------------|\nA|-----------------------------------------|\nE|-----------------------------------------|\n{eot}\n\nBut [C]that was just a [Dm]dream,\n[C]That was just a [Dm]dream.\n\n{soc}\n{c:Chorus}\nThat's me in the [Am]corner,\nThat's me in the [Em]spotlight\nLosing my re[Am]ligion.\nTrying to [Em]keep up with you.\nAnd I [Am]don't know if I can do it.[Em]\nOh no, I've said too [Dm]much,\nI haven't said e[G]nough.\n{eoc}\n\n{c:Bridge}\nI th[G]ought that I heard you la[F]ughing,\nI [Dm]thought that I [G]heard you [Am]sing.[Am/B][Am/C][Am/D]\n[Am]I  [F]think I thought I s[Dm]aw y[G]ou t[Am]ry.[Am/B][Am/C][Am/D][Am]\nBut [F]that was just a [Dm]dream[G],\n[Am]Try, [Am/B]cry,   [Am/C]why,   [Am/D]try.[Am]\n[F]That was just a dream, [Dm]   j[G]ust a d[Am]ream, just a d[G]ream, dream.\n\n{c:Outro}\n{sot}\n  Am\ne|-12-12-12-12-12-12-12-12-|\nB|-------------------------|\nG|-------------------------|   x7\nD|-------------------------|\nA|-------------------------|\nE|-------------------------|\n \ne|-12-10-------10----------|-----------------|\nB|-------13-10----13-10-13-|-10--------------|\nG|-------------------------|-----------------|\nD|-------------------------|-----------------|\nA|-------------------------|-----------------|\nE|-------------------------|-----------------|\n{eot}",
+            "ChordPro_Content__c": "{title: Losing My Religion}\n{st: REM}\n\n{c:Intro}\n[F Dm G Am Am/B Am/C Am/D Am]\n[F Dm G Am G]\n\n{c:Verse 1}\nOh, [Am]life is bigger[Em]\nIt's bigger than you\nAnd you are [Am]not me.\nThe lengths that I will [Em]go to,\nThe distance in your [Am]eyes,[Em]\nOh no, I've said too [Dm]much,\nI set it [G]up.\n\n{soc}\n{c:Chorus}\nThat's me in the [Am]corner,\nThat's me in the [Em]spotlight\nLosing my re[Am]ligion.\nTrying to [Em]keep up with you.\nAnd I [Am]don't know if I can do it.[Em]\nOh no, I've said too [Dm]much,\nI haven't said e[G]nough.\n{eoc}\n\n{c:Bridge}\nI [G]thought that I heard you [F]laughing,\nI [Dm]thought that I [G]heard you [Am]sing.[Am/B][Am/C][Am/D]\n[Am]I  th[F]ink I thought I [Dm]saw  [G]you [Am]try.[G]\n\n{c:Verse 2}\nEvery whis[Am]per of every waking h[Em]our\nI'm choosing my con[Am]fessions,\nTrying to [Em]keep an eye on you\nLike a [Am]hurt lost and blinded fool, fool[Em]\nOh no, I've said too [Dm]much,\nI set it [G]up.\n\n{c:Verse 3}\nConsider [Am]this, consider this,\nThe [Em]hint of a century,\nConsider [Am]this: the slip\nThat [Em]brought me to my knees failed.\n[Am]What if all these fantasies\nCome [Em]   flailing around?\nNow I've [Dm]said too [G]much.\n\n{c:Bridge}\nI th[G]ought that I heard you l[F]aughing,\nI though[Dm]t that I h[G]eard you s[Am]ing.[Am/B][Am/C][Am/D]\n[Am]I  th[F]ink I thought I [Dm]saw [G]you [Am]try.[G]\n\n{sot}\n   Am                      G\ne|-12-12-12-10-10-10-10-10-8-8-8-5-5-5-5-5-|\nB|-----------------------------------------|\nG|-----------------------------------------|\nD|-----------------------------------------|\nA|-----------------------------------------|\nE|-----------------------------------------|\n\n   F                       G\ne|-12-12-12-10-10-10-10-10-8-8-8-5-5-5-5-5-|\nB|-----------------------------------------|\nG|-----------------------------------------|\nD|-----------------------------------------|\nA|-----------------------------------------|\nE|-----------------------------------------|\n{eot}\n\nBut [C]that was just a [Dm]dream,\n[C]That was just a [Dm]dream.\n\n{soc}\n{c:Chorus}\nThat's me in the [Am]corner,\nThat's me in the [Em]spotlight\nLosing my re[Am]ligion.\nTrying to [Em]keep up with you.\nAnd I [Am]don't know if I can do it.[Em]\nOh no, I've said too [Dm]much,\nI haven't said e[G]nough.\n{eoc}\n\n{c:Bridge}\nI th[G]ought that I heard you la[F]ughing,\nI [Dm]thought that I [G]heard you [Am]sing.[Am/B][Am/C][Am/D]\n[Am]I  [F]think I thought I s[Dm]aw y[G]ou t[Am]ry.[Am/B][Am/C][Am/D][Am]\nBut [F]that was just a [Dm]dream[G],\n[Am]Try, [Am/B]cry,   [Am/C]why,   [Am/D]try.[Am]\n[F]That was just a dream, [Dm]   j[G]ust a d[Am]ream, just a d[G]ream, dream.\n\n{c:Outro}\n{sot}\n  Am\ne|-12-12-12-12-12-12-12-12-|\nB|-------------------------|\nG|-------------------------|   x7\nD|-------------------------|\nA|-------------------------|\nE|-------------------------|\n \ne|-12-10-------10----------|-----------------|\nB|-------13-10----13-10-13-|-10--------------|\nG|-------------------------|-----------------|\nD|-------------------------|-----------------|\nA|-------------------------|-----------------|\nE|-------------------------|-----------------|\n{eot}",
             "Priority__c": "x",
             "My_Level__c": "Want to Learn",
             "Difficulty__c": "Hard",
@@ -1315,7 +1347,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef83"
+                "referenceId": "song__cRef85"
             },
             "Song__c": "Creep",
             "Artist__c": "Radiohead",
@@ -1331,7 +1363,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef84"
+                "referenceId": "song__cRef86"
             },
             "Song__c": "High and Dry",
             "Artist__c": "Radiohead",
@@ -1347,23 +1379,23 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef85"
+                "referenceId": "song__cRef87"
             },
             "Song__c": "Karma Police",
             "Artist__c": "Radiohead",
             "Language__c": "English",
             "ChordPro_Content__c": null,
             "Priority__c": "x",
-            "My_Level__c": null,
-            "Difficulty__c": null,
+            "My_Level__c": "Want to Learn",
+            "Difficulty__c": "Medium",
             "ChordPro_Status__c": "To Do",
             "Editing_Notes__c": null,
-            "Learning_resource__c": "<p>https://www.youtube.com/watch?v=L-fA8pCCiSY</p>"
+            "Learning_resource__c": "<p>https://www.youtube.com/watch?v=L-fA8pCCiSY</p><p>https://www.justinguitar.com/songs/radiohead-karma-police-chords-tabs-guitar-lesson-sg-216</p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef86"
+                "referenceId": "song__cRef88"
             },
             "Song__c": "Californication",
             "Artist__c": "RHCP",
@@ -1379,23 +1411,23 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef87"
+                "referenceId": "song__cRef89"
             },
             "Song__c": "My Friends",
             "Artist__c": "RHCP",
             "Language__c": "English",
-            "ChordPro_Content__c": "{title: My Friends}\n{st: Red Hot Chili Peppers}\n\n{c:Intro}\nDsus2 Dsus2/F G C Dsus2 Dsus2/F G Gsus F6/9\n\n{c:Verse}\n[Dsus2]My friends ar[Dsus2/F]e so depressed[G]\n[Cadd9]I feel the q[Dsus2]uestion\nOf you[Dsus/F]r loneliness[G]\n  Gsus  F6/9       Dsus2           Dsus2/F     G\nConfide..., 'cause I'll be on your side\n[Cadd9]You know I wil[Dsus2]l, you kno[Dsus2/F]w I will[G][Cadd9]\n\n[D]X Girlfrie[Dsus2/F]nd called me up[G]\n[Cadd9]Alone and de[D]sperate\nOn the [Dsus/F]prison phone[G]\n[Cadd9]They want... to [D]give her 7[Dsus2/F] years[G]\nFor [Csus2]being sad\n\n{soc}\n{c:Chorus}\n[C]  I love [Asus2]all of you\nC     D      A(add2)\nHurt by the cold\n[C]So hard a[Asus2]nd lonely too\nC     D      A(add2)\nWhen you don't know yourself\n\n{eoc}\n\n{c:Verse}\n[D]My friends[Dsus2/F] are so distress[G]ed\n[Cadd9]And standing[D] on\nThe brink[Dsus2/F] of emptiness[G]\n[Cadd9]No words... [D]I know of to [Dsus2/F]express[G]\nThis [Csus2]emptiness\n\n{soc}\n{c:Chorus}\n[C]  I love [Asus2]all of you\nC     D      A(add2)\nHurt by the cold\n[C]So hard a[Asus2]nd lonely too\nC     D      A(add2)\nWhen you don't know yourself\n\n{eoc}\n\n{c:Solo}\n[Dsus2]Dsus2 [Dsus2/F]Dsus2/F [G/B]G/B [Cadd9]Cadd9 [Dsus2]Dsus2 [Dsus2/F]Dsus2/F [G/B]G/B [Cadd9]Cadd9\n\n{c:Bridge}\nG  F6   E       G6  F#7(add4)      F\n        Imagine me taught by tragedy\n[C]Release is [Bsus]peace[F5][F7]\n\n{c:Verse}\n[D]I heard a [Dsus2/F]little girl[G]\n[Cadd9]And what she[D] said\nWas somethi[Dsus2/F]ng beautiful[G]\n[Cadd9]To give... your [D]love no matter [Dsus2/F]what[G]\nIs [Csus2]what she said\n\n{soc}\n{c:Chorus}\n[C]  I love [Asus2]all of you\nC     D      A(add2)\nHurt by the cold\n[C]So hard a[Asus2]nd lonely too\nC     D      A(add2)\nWhen you don't know yourself\n\n{eoc}\n\n{c:Outro}\n[Dsus2]Dsus2 [Dsus2/F]Dsus2/F [G/B]G/B [Cadd9]Cadd9 [Dsus2]Dsus2 [Dsus2/F]Dsus2/F [G/B]G/B [Cadd9]Cadd9\n[Dsus2 Dsus2/F G/B Cadd9 Dsus2 Dsus2/F G/B Cadd9]\n\n=================\nDsus2     xx0230\nDsus2/F   xx3230\nG         320003\nC         x32010\nGsus      355533\nF6/9      100011\nCadd9     x32030\nD         xx0232\nAsus2     x02200\nF6        xx0211\nE         022100\nG6        320000\nF#7(add4) xx4300\nF         133211\nBsus      xx4452\nF5        133xxx\nF7        131211",
-            "Priority__c": "x",
+            "ChordPro_Content__c": "{title: My Friends}\n{st: Red Hot Chili Peppers}\n\n{c:Intro}\nDsus2 Dsus2/F G C Dsus2 Dsus2/F G Gsus F6/9\n\n{c:Verse}\n[Dsus2]My friends ar[Dsus2/F]e so depressed[G]\n[Cadd9]I feel the q[Dsus2]uestion\nOf you[Dsus/F]r loneliness[G]\n  Gsus  F6/9       Dsus2           Dsus2/F     G\nConfide..., 'cause I'll be on your side\n[Cadd9]You know I wil[Dsus2]l, you kno[Dsus2/F]w I will[G][Cadd9]\n\n[D]X Girlfrie[Dsus2/F]nd called me up[G]\n[Cadd9]Alone and de[D]sperate\nOn the [Dsus/F]prison phone[G]\n[Cadd9]They want... to [D]give her 7[Dsus2/F] years[G]\nFor [Csus2]being sad\n\n{soc}\n{c:Chorus}\n[C]  I love [Asus2]all of you\nC     D      A(add2)\nHurt by the cold\n[C]So hard a[Asus2]nd lonely too\nC     D      A(add2)\nWhen you don't know yourself\n\n{eoc}\n\n{c:Verse}\n[D]My friends[Dsus2/F] are so distress[G]ed\n[Cadd9]And standing[D] on\nThe brink[Dsus2/F] of emptiness[G]\n[Cadd9]No words... [D]I know of to [Dsus2/F]express[G]\nThis [Csus2]emptiness\n\n{soc}\n{c:Chorus}\n[C]  I love [Asus2]all of you\nC     D      A(add2)\nHurt by the cold\n[C]So hard a[Asus2]nd lonely too\nC     D      A(add2)\nWhen you don't know yourself\n\n{eoc}\n\n{c:Solo}\n[Dsus2]Dsus2 [Dsus2/F]Dsus2/F [G/B]G/B [Cadd9]Cadd9 [Dsus2]Dsus2 [Dsus2/F]Dsus2/F [G/B]G/B [Cadd9]Cadd9\n\n{c:Bridge}\nG  F6   E       G6  F#7(add4)      F\n        Imagine me taught by tragedy\n[C]Release is [Bsus]peace[F5][F7]\n\n{c:Verse}\n[D]I heard a [Dsus2/F]little girl[G]\n[Cadd9]And what she[D] said\nWas somethi[Dsus2/F]ng beautiful[G]\n[Cadd9]To give... your [D]love no matter [Dsus2/F]what[G]\nIs [Csus2]what she said\n\n{soc}\n{c:Chorus}\n[C]  I love [Asus2]all of you\nC     D      A(add2)\nHurt by the cold\n[C]So hard a[Asus2]nd lonely too\nC     D      A(add2)\nWhen you don't know yourself\n\n{eoc}\n\n{c:Outro}\n[Dsus2]Dsus2 [Dsus2/F]Dsus2/F [G/B]G/B [Cadd9]Cadd9 [Dsus2]Dsus2 [Dsus2/F]Dsus2/F [G/B]G/B [Cadd9]Cadd9\n[Dsus2 Dsus2/F G/B Cadd9 Dsus2 Dsus2/F G/B Cadd9]\n\n{sot}\n   D9             D9/F     G6/B  C9\nE|----------0-------------0--------0--------------------|\nB|----------3-------------3--------3--------------------|\nG|------2-----------0h2-----------0-----------0h2p0-----|\nD|--0-------------3-----------------------0h2------2p0--|\nA|----------------------------2-------2h3---------------|\nD|------------------------------------------------------|\n\n    D9    D9/F        G6/B  C9    G6/B\nE|----------0-------------0-------0------------------|\nB|----------3-------------3-------3-----3----3-------|\nG|------2-----------0h2----------0------0----0-------|\nD|--0-------------3----------------------------------|\nA|----------------------------2----2h3----2----------|\nD|---------------------------------------------------|\n\n\n{eot}\n\n=================\nDsus2     xx0230\nDsus2/F   xx3230\nG         320003\nC         x32010\nGsus      355533\nF6/9      100011\nCadd9     x32030\nD         xx0232\nAsus2     x02200\nF6        xx0211\nE         022100\nG6        320000\nF#7(add4) xx4300\nF         133211\nBsus      xx4452\nF5        133xxx\nF7        131211",
+            "Priority__c": "1",
             "My_Level__c": "Want to Learn",
-            "Difficulty__c": "Very Hard",
+            "Difficulty__c": "Hard",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "add actual tab",
-            "Learning_resource__c": "https://youtu.be/M7fN1gLke-4"
+            "Editing_Notes__c": "add actual tab\r\nlearn and practice intro very slowly, add correct chords for whole song",
+            "Learning_resource__c": "<p>https://youtu.be/M7fN1gLke-4</p><p>https://www.cifraclub.com/red-hot-chili-peppers/my-friends/</p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef88"
+                "referenceId": "song__cRef90"
             },
             "Song__c": "Otherside",
             "Artist__c": "RHCP",
@@ -1411,7 +1443,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef89"
+                "referenceId": "song__cRef91"
             },
             "Song__c": "La Bamba",
             "Artist__c": "Ritchie Valens",
@@ -1427,7 +1459,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef90"
+                "referenceId": "song__cRef92"
             },
             "Song__c": "Wild Horses",
             "Artist__c": "Rolling Stones",
@@ -1443,7 +1475,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef91"
+                "referenceId": "song__cRef93"
             },
             "Song__c": "Stay With Me",
             "Artist__c": "Sam Smith",
@@ -1459,7 +1491,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef92"
+                "referenceId": "song__cRef94"
             },
             "Song__c": "Still Loving You",
             "Artist__c": "Scorpions",
@@ -1469,13 +1501,13 @@
             "My_Level__c": "Know basics",
             "Difficulty__c": "Hard",
             "ChordPro_Status__c": "In Progress",
-            "Editing_Notes__c": "review whole song, add picking pattern",
-            "Learning_resource__c": "<p>https://www.youtube.com/watch?v=3DWhs2aZH5A</p>"
+            "Editing_Notes__c": "review whole song, add picking pattern.. Chords are not correct in intro.\r\nThe picking pattern is not that difficult to get it close to original\r\nit can be played easy in Am, only open chords",
+            "Learning_resource__c": "<p>https://www.youtube.com/watch?v=3DWhs2aZH5A</p><p><br></p><p>https://www.youtube.com/watch?v=j8P8LbBYUtQ&amp;ab_channel=GuitarIntensive</p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef93"
+                "referenceId": "song__cRef95"
             },
             "Song__c": "Wind of Change",
             "Artist__c": "Scorpions",
@@ -1491,7 +1523,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef94"
+                "referenceId": "song__cRef96"
             },
             "Song__c": "Un Beso y Una Flor",
             "Artist__c": "Seguridad Social",
@@ -1507,7 +1539,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef95"
+                "referenceId": "song__cRef97"
             },
             "Song__c": "All I Wanna Do",
             "Artist__c": "Sheryl Crow",
@@ -1523,7 +1555,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef96"
+                "referenceId": "song__cRef98"
             },
             "Song__c": "Fabula de los tres hermanos",
             "Artist__c": "Silvio Rodriguez",
@@ -1539,7 +1571,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef97"
+                "referenceId": "song__cRef99"
             },
             "Song__c": "Kiss Me",
             "Artist__c": "Sixpence None The Richer",
@@ -1555,23 +1587,23 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef98"
+                "referenceId": "song__cRef100"
             },
             "Song__c": "Chasing Cars",
             "Artist__c": "Snow Patrol",
             "Language__c": "English",
-            "ChordPro_Content__c": null,
-            "Priority__c": "x",
-            "My_Level__c": "Want to Learn",
+            "ChordPro_Content__c": "{title: Chasing Cars}\n{st: Snow Patrol}\n\n{c:Intro}\n[A]\n{sot}\ne|-----------------|-----------------|\nB|-----------------|-----------------|\nG|---9---9---9---9-|---9---9---9---9-|\nD|-7---7---7---7---|-7---7---7---7---|\nA|-----------------|-----------------|\nE|-----------------|-----------------|\n{eot}\n\n{c:Verse 1}\n[A]   We'll do it al[E/G#]l, everythi[D]ng, on our ow[A]n.\n[A]   We don't ne[E/G#]ed anything[D], or anyon[A]e.\n\n{soc}\n{c:Chorus}\nIf I lay [A]here, if I just [E/G#]lay here\nWould you lie [Dmaj7]with me, and just forget the world.[A]\n\n{eoc}\n\n{c:Verse 2}\n[A]   I don't quite k[E/G#]now how to sa[D]y how I fee[A]l\n[A]   Those three wor[E/G#]ds, are said too mu[D]ch, they're not enou[A]gh.\n\n{soc}\n{c:Chorus}\nIf I lay [A]here, if I just [E/G#]lay here\nWould you lie [Dmaj7]with me, and just forget the world.[A]\nForget what we're [A]told, before we get [E/G#]too old\nShow me a [Dmaj7]garden that's bursting into life.[A]\n\n{eoc}\n\n{c:Verse 3}\n[A]   Let's waste time[E/G#], chasing cars[D], around our head[A]s.\n[A]   I need your gra[E/G#]ce to remind m[D]e, to find my own.[A*]\n\n{soc}\n{c:Chorus}\nIf I lay [A]here, if I just [E/G#]lay here\nWould you lie [Dmaj7]with me, and just forget the world.[A]\nForget what we're [A]told, before we get [E/G#]too old\nShow me a [Dmaj7]garden that's bursting into life.[A]\n\nAll that I [A]am, all that I [E/G#]ever was\nIs here in your [Dmaj7]perfect eyes, they're all I can see[A]\nI don't know [A]where, confused about [E/G#]how as well\njust know that these [Dmaj7]things will never change for us at all.[A]\n\n{eoc}\n\n{c:Outro}\nIf I lay [A]here, if I just [E/G#]lay here\nWould you lie [Dmaj7]with me, and just forget the world.\n\n{c:Outro}\n[A]\n{sot}\ne|-----------------|-----------------|\nB|-----------------|-----------------|\nG|---9---9---9---9-|---9---9---9---9-|\nD|-7---7---7---7---|-7---7---7---7---|\nA|-----------------|-----------------|\nE|-----------------|-----------------|\n{eot}\n\n\n================================\nA    xx79xx or x079xx\nE/G# xx69xx or x769xx\nD    x5x9xx or x579xx \n\nLayer the song, using picking first, then strum the simple chords, then do power chords (2 fingers).  If tired can do open chords",
+            "Priority__c": null,
+            "My_Level__c": "Know basics",
             "Difficulty__c": "Medium",
-            "ChordPro_Status__c": "To Do",
+            "ChordPro_Status__c": "Done",
             "Editing_Notes__c": null,
             "Learning_resource__c": "https://www.justinguitar.com/songs/snow-patrol-chasing-cars-chords-tabs-guitar-lesson-sb-201\nhttps://www.youtube.com/watch?v=_2Ls6zyS5LA"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef99"
+                "referenceId": "song__cRef101"
             },
             "Song__c": "De música ligera",
             "Artist__c": "Soda Stereo",
@@ -1587,7 +1619,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef100"
+                "referenceId": "song__cRef102"
             },
             "Song__c": "En La Ciudad de la furia",
             "Artist__c": "Soda Stereo",
@@ -1603,13 +1635,13 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef101"
+                "referenceId": "song__cRef103"
             },
             "Song__c": "Love Song",
             "Artist__c": "Tesla",
             "Language__c": "English",
             "ChordPro_Content__c": "{t:Love Song}\n{st:Tesla}\n\n{c:Intro}\n[D / Dsus4 D Dadd9 x2]\n\n[Em] So you think that it's [Bm]over,\n[Em] That your love has fin'lly [|Bm]reached the [A]end.\n[|Am]Any time you call, night or [G]day,\nI'll be right there for you[Bm] if you need a f[D]riend.\n\n[Em] It's gonna take a littl[Bm]e time.\n[Em] Time is sure to mend your b[|Bm]roken heart.[A]\n[|Am]Don't you even worry, p[G]retty darlin'.\nI know you'll f[Bm]ind love again. [D]Yeah.\n\n[D / Dsus4 D Dadd9 x2]\n\n{soc}\n{c:Chorus x2}\n[|G]Love is[D] all ar[|G]ound you[D]. Yeah\n[|G]Love is k[D]nockin' outs[|G]ide you[D]r door.\n[|Em]Waitin' for you is this [C]love made just for two\n[D]Keep an open heart and [D]you'll find love again, I know.\n{eoc}\n\n{c:Solo}\n[|Em |Bm |Em |Bm A| Am |G |Bm |D x2]\n\n{c:Outro:}\n[G]Love will find a w[D]ay.\n[Em]Darlin', love is gonna find a way,\n[C]Find its way back to you.\n[G]Love will find a w[D]ay.\n[Em]So look around, [C]open your eyes.\n[G]Love is gonna find[D] a way.\n[Em]Love is gonna, [C]love is gonna find a way.\n[G]Love will find a w[D]ay.\n[Em]Love's gonna find a way back to you[C], yeah,\n[G] [D] [G] [D] [G] [D] [G] [D] \n[G]I [D]kn[G]ow[D]. I know. I know. I know.\n\n{sot}\n[Part 1]\n\ne|-------------------------------14-14-14p12p10------|\nB|-8-----8p7p5----7---s3-3-3-------------------------|\nG|---------------------------------------------------|\nD|-0--------------0----------------------------------|\nA|---------------------------------------------------|\nE|---------------------------------------------------|\nD\n\n\n[Part 2]\n\ne|-2-3-2h3p2p0------------------------------|\nB|-------------2--3--5--3------3---0--2--3--|\nG|---------------------------4---4----------| x3\nD|-0-----------------------4----------------|\nA|-------------0--------2-------------------|\nE|---------------------------------3--------|\nD           A        Bm         G\n\n                                                Transition\ne|-2-3-2h3p2p0---------|-------0-|-----------|    ----------------------|\nB|-------------2--3--5-|-3--2----|--3------3-|    --2------2---3--------|\nG|---------------------|---------|-----0-----|    --2--2-------2--2-4-2-|\nD|-0-------------------|---------|-------0---|    --2----2--------4-5-4-|\nA|-------------0-------|-2--0----|-----------|    --0-------------------|\nE|---------------------|-------4-|--3--------|    -------------2--------|\nD           A         Bm         G               A         D/F#\n\n\n[Part 3]\n\ne|--------------------------------------------|\nB|-0--2--3--------2--3----3/5--3--2------2-3--|\nG|-------------2-----------------------2------|\nD|--------------------------------------------|\nA|--------------------------------------------|\nE|-3-----------2----------0------------2------|\nG          D/F#        Em          D/F#\n\ne|--------------------------------------------|\nB|--0---2--3-------2--3----3/5--3--2h3----2---|\nG|--------------2-----------------------------|\nD|--------------------------------------------|\nA|----------------------------------------0---|\nE|--3-----------2----------0------------------|\nG          D/F#       Em              A\n\n\n[Fill]\n\ne|---------------------------------------------------------------|\nB|---------------------------------------------------------------|\nG|-4p2p0-4p2p0-4p2p0-4p2p0--4p2p0--------------4p2p0-------------|\nD|--------------------------------4p2p0--------------4p2p0-------|\nA|--------------------------------------4p2p0--------------4p2p0-|\nE|---------------------------------------------------------------|\n\n*Overdub  (over Bm - Part 2 - 4th time)\ne|-14-12-10---------------------|\nB|----------14-12-10------------|\nG|-------------------12-11-9----|\nD|---------------------------12-|\nA|------------------------------|\nE|------------------------------|\n\n\n[Verse Transition]\n\ne|--------------7-7-7-5-3-5---7-7-7-5-3-2---7-7-7-5-3-5---7-7-7-5-3-|\nB|--------------8-8-8-7-5-7---8-8-8-7-5-3---8-8-8-7-5-7---8-8-8-7-5-|\nG|------------------------------------------------------------------|\nD|--0-0-0-0-0-0-----------------------------------------------------|\nA|------------------------------------------------------------------|\nE|------------------------------------------------------------------|\n\n{end_of_tab}",
-            "Priority__c": "9",
+            "Priority__c": null,
             "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
             "ChordPro_Status__c": "In Progress",
@@ -1619,7 +1651,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef102"
+                "referenceId": "song__cRef104"
             },
             "Song__c": "Hey Jude",
             "Artist__c": "The Beatles",
@@ -1628,14 +1660,14 @@
             "Priority__c": null,
             "My_Level__c": "In Progress",
             "Difficulty__c": "Medium",
-            "ChordPro_Status__c": "Done",
+            "ChordPro_Status__c": "In Progress",
             "Editing_Notes__c": "add chords to whole song to follow easier",
             "Learning_resource__c": "<p>https://www.justinguitar.com/songs/the-beatles-hey-jude-chords-tabs-guitar-lesson-st-384</p>"
         },
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef103"
+                "referenceId": "song__cRef105"
             },
             "Song__c": "I Saw her Standing There",
             "Artist__c": "The Beatles",
@@ -1643,7 +1675,7 @@
             "ChordPro_Content__c": "{title: I Saw Her Standing There}\n{st: The Beatles}\n\n{c:Intro}\n[N.C.]One, two three, four ...\n\n| E7 | x4\n\n{c:Verse 1}\nWell she was [E7]just seventeen and you [A7]know what I [E7]mean\nAnd the [E7]way she looked was way beyond com[B7]pare\nSo [E]how could I [E7/G#]dance with a[A]nother [Am/C]oh,\nWhen I [E]saw her [B7]standing [E7]there\n\n{c:Verse 2}\nWell [E7]she looked at me and [A7]I, I could [E7]see\nThat be[E7]fore too long I'd fall in love with [B7]her\n[E]She wouldn't [E7/G#]dance with a[A]nother, [Am/C]ooh\nWhen I [E]saw her [B7]standing [E7]there\n\n{c:Bridge}\nWell my [A]heart went boom\nWhen I [A]crossed that room\nAnd I [A]held her hand in [B7]mine [| B7 | A7 | A7 |]\n\n{c:Verse 3}\nWell we [E7]danced through the night\nand we [A7]held each other [E7]tight\nAnd bef[E7]ore too long I fell in love with [B7]her\nNow [E]I'll never [E7]dance with a[A7]nother, [Am/C]oh\n            E7      B7      | E7 | B7 |\nOh, since I saw her standing there\n\n{c:Instrumental}\n| E7 | E7 | E7 | E7 |\n| E7 | E7 | B7 | B7 |\n| E7 | E7 | A | Am |\n| E7 | B7 | E7 | E7 |\n\n{c:Bridge}\nWell my [A]heart went boom\nWhen I [A]crossed that room\n      A               | B7 | B7 | A7 | A7 |\nAnd I held her hand in mine\n\n{c:Verse 4}\nOh, we [E7]danced through the night\nAnd we [A7]held each other [E7]tight\nAnd be[E7]fore too long I fell in love with [B7]her\nNow [E]I'll never [E7/G#]dance with a[A7]nother, [Am/C]ooh\nSince I [E7]saw her [B7]standing [E7]there\n\n{c:Outro}\nOh, since I [E7]saw her [B7]standing [E7]there         1 + 2 + 3 + 4\n\n                    E7      B7      | A7 | E7    E7    E9\nYeah, well, since I saw her standing there\n\n=================\nBarre chords help with the rhythm",
             "Priority__c": "x",
             "My_Level__c": "Want to Learn",
-            "Difficulty__c": "Medium",
+            "Difficulty__c": "Hard",
             "ChordPro_Status__c": "In Progress",
             "Editing_Notes__c": null,
             "Learning_resource__c": "https://www.youtube.com/watch?v=j4TjmU0xrGI"
@@ -1651,7 +1683,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef104"
+                "referenceId": "song__cRef106"
             },
             "Song__c": "I Want To Hold Your Hand",
             "Artist__c": "The Beatles",
@@ -1667,7 +1699,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef105"
+                "referenceId": "song__cRef107"
             },
             "Song__c": "Let It Be",
             "Artist__c": "The Beatles",
@@ -1683,7 +1715,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef106"
+                "referenceId": "song__cRef108"
             },
             "Song__c": "She Loves You",
             "Artist__c": "The Beatles",
@@ -1699,7 +1731,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef107"
+                "referenceId": "song__cRef109"
             },
             "Song__c": "Twist And Shout",
             "Artist__c": "The Beatles",
@@ -1715,7 +1747,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef108"
+                "referenceId": "song__cRef110"
             },
             "Song__c": "Yellow Submarine",
             "Artist__c": "The Beatles",
@@ -1731,7 +1763,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef109"
+                "referenceId": "song__cRef111"
             },
             "Song__c": "Zombie",
             "Artist__c": "The Cranberries",
@@ -1747,7 +1779,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef110"
+                "referenceId": "song__cRef112"
             },
             "Song__c": "Hotel California",
             "Artist__c": "The Eagles",
@@ -1763,7 +1795,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef111"
+                "referenceId": "song__cRef113"
             },
             "Song__c": "Sunny Afternoon",
             "Artist__c": "The Kinks",
@@ -1779,7 +1811,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef112"
+                "referenceId": "song__cRef114"
             },
             "Song__c": "I'm a Believer",
             "Artist__c": "The Monkees",
@@ -1795,7 +1827,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef113"
+                "referenceId": "song__cRef115"
             },
             "Song__c": "Happy Together",
             "Artist__c": "The Turtles",
@@ -1811,7 +1843,23 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef114"
+                "referenceId": "song__cRef116"
+            },
+            "Song__c": "Seven Nations Army",
+            "Artist__c": "The White Stripes",
+            "Language__c": "English",
+            "ChordPro_Content__c": "{title: Seven Nation Army}\n{st: The White Stripes}\n\n{c:Verse 1}\nI'm gonna [Em]fight 'em off[G][C][B]\nA seven nation [Em]army couldn't [G]hold me [C]back[B]\nThey're gonna [Em]rip it off[G][C][B]\nTaking their [Em]time right be[G]hind my [C]back[B]\nAnd I'm [Em]talking to my[G]self at [C]night\nBecause I [B]can't for[Em]get[G][C][B]\n[Em]Back and forth [G]through my [C]mind\nBehind a [B]ciga[Em]rette[G][C][B]\nAnd a [G]message coming from my [A]eyes says leave it alone\n\n{c:Instrumental Chorus}\n[Em G C B x4] \n[G   A]\n\n{c:Interlude}\nEm G C B x4\n\n{c:Verse 2}\nDon't wanna [Em]hear about it[G][C][B]\nEvery single on[Em]e's got a stor[G]y to tel[C]l[B]\nEveryone k[Em]nows about it[G][C][B]\nFrom the Queen [Em]of England to [G]the houn[C]ds of[B] Hell\nAnd if I c[Em]atch it coming[G] ba[C]ck [B]my way\nI'm gonna serve[Em] it to you[G][C][B]\nAnd that a[Em]in't what you [G]wan[C]t t[B]o hear\nBut that's what[Em] I'll do[G][C][B]\nAnd a [G]feeling coming from my [A]bones says find a home\n\n{c:Solo}\nEm G C B x8\n[G   A]\n\n{c:Interlude}\nEm G C B x4\n\n{c:Verse 3}\nI'm goin' to [Em]Wichita[G][C][B]\nFar from this [Em]opera, for[G]ever m[C]ore[B]\nI'm gonna [Em]work the straw[G][C][B]\nMake the sweat [Em]drip out of [G]every po[C]re[B]\nAnd I'm [Em]bleeding and I'm [G]bleeding and I'm [C]bleeding\nRight be[B]fore the L[Em]ord[G][C][B]\nAll the [Em]words are gonna [G]bleed from me[C]\nAnd I will [B]sing no m[Em]ore[G][C][B]\nAnd the [G]stains coming from my [A]blood tell me go back home\n\n{c:Instrumental Chorus}\nEm G C B x4\n[Em]\n\n\n{sot}\n[Verse Riff]\n \nG|-----------------------------------------\nD|------5-----------------5----------------\nA|-7--7---7-5-3-2--/-7--7---7-5-3-2--/-7--7\nE|-0-----------------0-----------------0---\n-----------------------------|\n-5-----------------5---------| (x10)\n---7-5-3-2--/-7--7---7-5-3-2-|\n--------------0--------------|\n \n \n[Pre/Post-Chorus Riff]\n \ne|------------------0-0-0-0-0-0-0-0-|\nB|------------------2-2-2-2-2-2-2-2-|\nG|-4-4-4-4-4-4-4-4--2-2-2-2-2-2-2-2-|\nD|-5-5-5-5-5-5-5-5--2-2-2-2-2-2-2-2-|\nA|-5-5-5-5-5-5-5-5--0-0-0-0-0-0-0-0-|\nE|-3-3-3-3-3-3-3-3------------------|\n \n(Bass)\nG|----------------------------------|\nD|----------------------------------|\nA|------------------0-0-0-0-0-0-0-0-|\nE|-3-3-3-3-3-3-3-3------------------|\n \n \n[Chorus Riff]\n(Gtr w/Distortion + 3 string slide)\n \ne|-0----------------------|\nB|-8--8/-12-\\-8-\\7-\\5--\\4-|\nG|-9--9/-12-\\-9-\\7-\\5--\\4-|\nD|-9--9/-12-\\-9-\\7-\\5--\\4-|\nA|-7--7/-10-\\-7-\\5-\\3--\\2-|\nE|-0----------------------|\n \n(Bass)\nG|----------------|\nD|------5---------|\nA|-7--7---7-5-3-2-|\nE|-0--------------|\n \n(Gtr)\ne|-0----------------------------|\nB|-8--8/-12-\\-8-\\7-\\5-/7-\\-5-\\4-|\nG|-9--9/-12-\\-9-\\7-\\5-/7-\\-5-\\4-|\nD|-9--9/-12-\\-9-\\7-\\5-/7-\\-5-\\4-|\nA|-7--7/-10-\\-7-\\5-\\3-/5-\\-3-\\2-|\nE|-0----------------------------|\n \n(Bass)\nG|--------------------|\nD|------5-------------|\nA|-7--7---7-5-3-5-3-2-|\nE|-0------------------|\n\n{eot}",
+            "Priority__c": null,
+            "My_Level__c": "Play Well",
+            "Difficulty__c": "Medium",
+            "ChordPro_Status__c": "Done",
+            "Editing_Notes__c": null,
+            "Learning_resource__c": "<p>https://www.youtube.com/watch?v=UQ5ecoWt9lY</p><p>https://www.justinguitar.com/songs/the-white-stripes-seven-nation-army-chords-tabs-guitar-lesson-bs-824</p>"
+        },
+        {
+            "attributes": {
+                "type": "song__c",
+                "referenceId": "song__cRef117"
             },
             "Song__c": "Africa",
             "Artist__c": "Toto",
@@ -1827,7 +1875,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef115"
+                "referenceId": "song__cRef118"
             },
             "Song__c": "Las Mañanitas",
             "Artist__c": "Vicente Fernandez",
@@ -1843,7 +1891,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef116"
+                "referenceId": "song__cRef119"
             },
             "Song__c": "Blister in the Sun",
             "Artist__c": "Violent Femmes",
@@ -1859,7 +1907,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef117"
+                "referenceId": "song__cRef120"
             },
             "Song__c": "Love Is All Around",
             "Artist__c": "Wet Wet Wet",
@@ -1875,7 +1923,7 @@
         {
             "attributes": {
                 "type": "song__c",
-                "referenceId": "song__cRef118"
+                "referenceId": "song__cRef121"
             },
             "Song__c": "Teenage Dirtbag",
             "Artist__c": "Wheatus",
