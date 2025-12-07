@@ -14,9 +14,9 @@ This guide explains how to set up the Pulsar Music app in a new scratch org.
 The easiest way to set up the app is to use the provided setup script.
 In terminal, run the following command to setup the scratch org:
 ```bash
-./setup_scratch_org.sh ~/Documents/vscode/pulsar_test  https://github.com/forcepulsar/SF-chord-pro pulsar_test 
+./setup_scratch_org.sh ~/Documents/vscode/pulsar_test  https://github.com/forcepulsar/SF-chord-pro pulsar_test PulsarMusic
 
-#./script/setup_scratch_org.sh <directory-path> <git-repo-url> <scratch-org-alias>
+#./script/setup_scratch_org.sh <directory-path> <git-repo-url> <scratch-org-alias> <dev-hub-alias>
 ```
 
 ## 2 · Salesforce scratch‑org setup
