@@ -2,9 +2,53 @@
 import * as StyleUtils from './styleUtils';
 import * as ChordUtils from './chordUtils';
 
+/**
+ * Escape '#' characters in plain‑text lines so ChordSheetJS
+ * does not treat them as comments. We:
+ *  - Leave directives ({...}) and comment lines (#...) alone.
+ *  - Leave lines containing '[' (ChordPro chords) alone.
+ *  - On all other lines, replace '#' with '\#'.
+ */
+function escapeSharpsInPlainText(chordProContent) {
+    if (!chordProContent) {
+        return chordProContent;
+    }
+
+    return chordProContent
+        .split('\n')
+        .map((line) => {
+            const trimmed = line.trim();
+
+            // ChordPro directive, e.g. {title: ...}
+            if (trimmed.startsWith('{')) {
+                return line;
+            }
+
+            // Explicit ChordPro comment line, e.g. # this is a comment
+            if (trimmed.startsWith('#')) {
+                return line;
+            }
+
+            // Lines containing chord brackets should be left to the parser,
+            // since sharps inside [C#7b5] etc. are valid chord syntax.
+            if (line.includes('[')) {
+                return line;
+            }
+
+            // Plain text line: escape all '#' so the parser
+            // doesn't treat the remainder as a comment.
+            return line.replace(/#/g, '\\#');
+        })
+        .join('\n');
+}
+
 export function parseAndFormatChordPro(chordProContent, ChordSheetJS) {
     const parser = new ChordSheetJS.ChordProParser();
-    const song = parser.parse(chordProContent);
+
+    // Protect plain‑text lines from '#' being interpreted as comments
+    const safeContent = escapeSharpsInPlainText(chordProContent);
+    
+    const song = parser.parse(safeContent);
     const formatter = new ChordSheetJS.HtmlDivFormatter();
     return formatter.format(song);
 }
@@ -48,8 +92,11 @@ export function applyAllStyles(container, fontSize, showChords) {
             fontSize: `${fontSize}px`,
             padding: '0 0.1em'
         });
-    });
 
+        if (lyric.textContent && lyric.textContent.includes('\\#')) {
+            lyric.textContent = lyric.textContent.replace(/\\#/g, '#');
+        }
+    });
     // Style comments
     container.querySelectorAll('.comment').forEach(comment => {
         Object.assign(comment.style, {
