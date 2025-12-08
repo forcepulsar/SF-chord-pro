@@ -52,6 +52,7 @@
 
     <!-- Flexipages -->
     <types>
+        <members>Songbook_Console_UtilityBar</members>
         <members>Song_Record_Page</members>
         <name>FlexiPage</name>
     </types>
@@ -62,6 +63,15 @@
         <name>PermissionSet</name>
     </types>
 
+    <types>
+        <members>Songbook_Console</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>musicbook</members>
+        <name>ContentAsset</name>
+    </types>    
+    
     <!-- Platform Events / LWC message channels -->
     <types>
         <members>SongChordRefresh</members>
@@ -74,5 +84,5 @@
         <name>CustomMetadata</name>
     </types>
 
-    <version>64.0</version>
+    <version>65.0</version>
 </Package>
